@@ -1,6 +1,6 @@
 [
     {
-        "title": "Analyste de Données",
+        "title": "Ausbildung zum Chemielaborant",
         "company": "AutoFix GmbH",
         "location": "Francfort",
         "field": "Industrie",
@@ -17,7 +17,7 @@
         "url_application": "https://example.com/jobs/apply/0"
     },
     {
-        "title": "Opérateur de Production",
+        "title": "Ausbildung Personaldienstleistungskaufmann/-frau",
         "company": "IndustriePro KG",
         "location": "Hambourg",
         "field": "Industrie",
@@ -34,7 +34,7 @@
         "url_application": "https://example.com/jobs/apply/1"
     },
     {
-        "title": "Assistant Marketing",
+        "title": "Auszubildende zum Buchhändler (m/w/d) in Stuttgart",
         "company": "AdminServ GmbH",
         "location": "Munich",
         "field": "Industrie",
@@ -51,7 +51,7 @@
         "url_application": "https://example.com/jobs/apply/2"
     },
     {
-        "title": "Électricien Automobile",
+        "title": "Auszubildender zum Kaufmann für Spedition und Logistikdienstleistung (Air & Sea Logistics) ",
         "company": "IndustriePro KG",
         "location": "Nuremberg",
         "field": "Automobile",
