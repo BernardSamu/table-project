@@ -1,6 +1,6 @@
 [
     {
-        "title": "Formation de Technicien de Laboratoire de Chemie",
+        "title": "Formation Chimiste Laborantin",
         "company": "CHT Germany GmbH",
         "location": "Tübingen",
         "field": "Industrie Chimie",
@@ -17,7 +17,7 @@
         "url_application": "https://example.com/jobs/apply/0"
     },
     {
-        "title": "Ausbildung zum Industriekaufmann",
+        "title": "Formation Biologiste Laborantin",
         "company": "IndustriePro KG",
         "location": "Hambourg",
         "field": "Industrie",
@@ -35,19 +35,19 @@
     },
     {
         "title": "Ausbildung zum Verkäufer",
-        "company": "AdminServ GmbH",
-        "location": "Munich",
-        "field": "Industrie",
+        "company": "Karlsruher Institut für Technologie KIT",
+        "location": "Karlsruhe",
+        "field": "Université",
         "date": "2024-12-02",
         "startDate": "2025-01-28",
         "deadline": "2025-04-24",
         "degree": "Bac",
-        "language": "C1",
-        "duration": "6 mois",
+        "language": "B2 / C1",
+        "duration": "42 mois",
         "training": "Production Industrielle",
-        "salary": "2456€/mois",
+        "salary": "1300 - 1550 €/mois",
         "description": "Le candidat idéal devra faire preuve de rigueur et d'esprit d'équipe.",
-        "url_source": "https://example.com/jobs/2",
+        "url_source": "https://www.ausbildung.de/stellen/ausbildung-biologielaborant-in-w-m-d-bei-karlsruher-institut-fuer-technologie-kit-in-karlsruhe-60a5845f-7335-4058-9a83-6c07e11e74fe/",
         "url_application": "https://example.com/jobs/apply/2"
     },
     {
