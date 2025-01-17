@@ -506,7 +506,7 @@
     "Description_de": "Du träumst davon, einen Beitrag für die Gesellschaft zu leisten? Dann leg gleich los und starte Dein duales Studium Soziale Arbeit an der IU.&nbsp;",
     "Training_de": "Duales Studium Soziale Arbeit",
     "Training": "Programme d'études en alternance en travail social",
-    "description": "Vous rêvez d’apporter une contribution à la société ? Alors commencez tout de suite et commencez votre double programme d'études en travail social à l'IU.",
+    "description": "Vous rêvez d’apporter une contribution à la société ? Alors commencez tout de suite et commencez votre double cursus en travail social à l'IU.",
     "title": "Programme d'études en alternance en travail social "
   },
   {
@@ -625,7 +625,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Funktionsdiagnostik  führen mit Hilfe medizinischer Geräte und komplexer elektronischer Messverfahren ärztlich verordnete Untersuchungen durch, um medizinische Informationen über die Funktionen des menschlic[ ... ]",
     "Training_de": "MTF (Medizinische/r Technologe/Technologin für Funktionsdiagnostik)",
     "Training": "MTF (technologue médical/technologue en diagnostic fonctionnel)",
-    "description": "Les technologues médicaux chargés du diagnostic fonctionnel utilisent des dispositifs médicaux et des méthodes de mesure électroniques complexes pour effectuer des examens médicalement prescrits afin d'obtenir des informations médicales sur les fonctions du corps humain[ ... ]",
+    "description": "Les technologues médicaux chargés du diagnostic fonctionnel utilisent des dispositifs médicaux et des méthodes de mesure électroniques complexes pour effectuer des examens médicalement prescrits afin d'obtenir des informations médicales sur les fonctions du corps humain.[ ... ]",
     "title": "Formation en technologie médicale pour le diagnostic fonctionnel"
   },
   {
@@ -727,7 +727,7 @@
     "Description_de": "In der dreijährigen Ausbildung erwerben Sie ein breites Spektrum an Fähigkeiten und Fertigkeiten in verschiedensten Bereichen der Medizin/Physiotherapie.Inhalte sind unter anderem folgende Module: Bewegungssystem: Hier wird schwerpunktmäßig die funkti[ ... ]",
     "Training_de": "Physiotherapeut/in",
     "Training": "Physiothérapeute",
-    "description": "Au cours de la formation de trois ans, vous acquerrez un large éventail de compétences et d'aptitudes dans divers domaines de la médecine/physiothérapie. Le contenu comprend les modules suivants : Système de mouvement : l'accent est mis ici sur le fonctionnel[ ... ]",
+    "description": "Au cours de la formation de trois ans, vous acquerrez un large éventail de compétences et d'aptitudes dans une grande variété de domaines de la médecine/physiothérapie. Le contenu comprend les modules suivants : Système de mouvement : l'accent est mis ici sur le fonctionnel[ ... ]",
     "title": "Formation de physiothérapeute"
   },
   {
@@ -811,7 +811,7 @@
     "date": "2024-12-22T11:52:29Z",
     "Description_de": "Kurzbeschreibung\n3 Jahre Ausbildung\nAbschluss: Bachelor Professional\nWechsel von Theorie und Praxis\nAusbildungsvergütung in der Fachpraxis\n\nZugangsvoraussetzungen:\n\nMittlere Reife und 12 monatiges Praktikum\nMittlere Reife in Kombination mit weiteren [ ... ]",
     "Training_de": "Heilerziehungspfleger/in",
-    "Training": "Infirmière en éducation spécialisée",
+    "Training": "Infirmière en éducation médicale",
     "description": "Brève description\n3 ans de formation\nDiplôme : Baccalauréat Professionnel\nAlternance de théorie et de pratique\nAllocation de formation en pratique spécialisée\n\nConditions d'entrée :\n\nDiplôme de fin d'études secondaires et stage de 12 mois\nMaturité intermédiaire en combinaison avec d'autres [...]",
     "title": "Formation d'infirmière curative"
   },
@@ -879,7 +879,7 @@
     "date": "2024-12-22T11:52:23Z",
     "Description_de": "Als ausgebildete:r Pflegeassistent:in arbeitest du interdisziplinär mit vielen verschiedenen Berufsgruppen zusammen. Du unterstützt, betreust und versorgst eigenverantwortlich Menschen aller Altersgruppen und trägst zur Förderung, Erhaltung, Verbesse[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
-    "Training": "Assistante de soins gériatriques",
+    "Training": "Assistante en soins gériatriques",
     "description": "En tant qu'infirmière auxiliaire qualifiée, vous travaillerez de manière interdisciplinaire avec de nombreux groupes professionnels différents. Vous accompagnez, soignez et prenez soin de personnes de tout âge sous votre propre responsabilité et contribuez à la promotion, à la préservation, à l'amélioration[ ... ]",
     "title": "Formation pour devenir aide-soignant en gériatrie (h/f/a)"
   },
@@ -931,7 +931,7 @@
     "Description_de": "Hauswirtschaft hat sich zu einem modernen, zukunftsorientierten Beruf entwickelt und bedeutet viel mehr als kochen, waschen und putzen. Seit August 2020 gibt es die modernisierte Ausbildung. Die Tätigkeitsfelder sind vielfältig. In der Ausbildung ler[ ... ]",
     "Training_de": "Hauswirtschafter/in",
     "Training": "Gouvernante",
-    "description": "Le ménage est devenu un métier moderne et tourné vers l’avenir et signifie bien plus que cuisiner, faire la lessive et le ménage. La formation modernisée est disponible depuis août 2020. Les domaines d'activité sont diversifiés. En formation ler[ ... ]",
+    "description": "Le ménage est devenu un métier moderne et tourné vers l’avenir et signifie bien plus que cuisiner, faire la lessive et faire le ménage. La formation modernisée est disponible depuis août 2020. Les domaines d'activité sont diversifiés. En formation ler[ ... ]",
     "title": "Formation de femme de ménage (f/m/d)"
   },
   {
@@ -947,7 +947,7 @@
     "date": "2024-12-22T11:52:18Z",
     "Description_de": "Andere träumen noch von\neinem besseren Planeten. Wir bilden unterdessen Menschen aus, die schon im Hier\nund Jetzt den Gesellschaftswandel vorantreiben, Inklusion tagtäglich\nmitgestalten. Denn allen Heilerziehungspfleger:innen liegt ein Stückchen Welt[ ... ]",
     "Training_de": "Heilerziehungspfleger/in",
-    "Training": "Infirmière en éducation spécialisée",
+    "Training": "Infirmière en éducation médicale",
     "description": "D'autres rêvent encore\nune meilleure planète. Pendant ce temps, nous formons les gens qui sont déjà là\net Conduire le changement social maintenant, l'inclusion au quotidien\naider à façonner. Parce que toutes les infirmières spécialisées ont un petit bout du monde[ ... ]",
     "title": "Formation d'infirmière curative"
   },
@@ -998,7 +998,7 @@
     "date": "2024-12-22T11:52:15Z",
     "Description_de": "Ab hier „Mehr Möglichkeiten“! Für Menschen mit Behinderung und selbstverständlich auch für Dich, Deine Ausbildung und Deine Zukunft bei uns.Anderen Menschen zu helfen und sie zu unterstützen fühlt sich gut an? Dann bist Du bei uns genau richtig! Als [ ... ]",
     "Training_de": "Altenpflegehelfer/in",
-    "Training": "Assistante de soins gériatriques",
+    "Training": "Assistante en soins gériatriques",
     "description": "À partir de là, « Plus d'options » ! Pour les personnes handicapées et bien sûr aussi pour vous, votre formation et votre avenir chez nous, ça fait du bien d'aider et de soutenir d'autres personnes ? Alors vous êtes au bon endroit ! Comme [ ... ]",
     "title": "Formation d'aide-soignant en gériatrie"
   },
@@ -1015,7 +1015,7 @@
     "date": "2024-12-22T11:52:13Z",
     "Description_de": "Ab hier \"Mehr Möglichkeiten\"! Für Menschen mit Behinderung und selbstverständlich auch für Dich, Deine Ausbildung und Deine Zukunft bei uns.Du bist motiviert, hast eine „soziale Ader“ und spürst wie andere „ticken“. Dann bist Du bei uns genau richtig[ ... ]",
     "Training_de": "Heilerziehungspfleger/in",
-    "Training": "Infirmière en éducation spécialisée",
+    "Training": "Infirmière en éducation médicale",
     "description": "À partir de là, « Plus d'options » ! Pour les personnes handicapées et bien sûr aussi pour vous, votre formation et votre avenir chez nous. Vous êtes motivé, avez un « côté social » et ressentez ce qui motive les autres. Alors vous êtes au bon endroit[ ... ]",
     "title": "Formation d'infirmière curative"
   },
@@ -1033,7 +1033,7 @@
     "Description_de": "Pflegefachfrauen und -männer erfassen den Zustand und die Bedürfnisse der Patient'*innen individuell und setzen sich dafür ein, ihre Gesundheit und Eigenständigkeit wieder zu erlangen, zu verbessern, zu erhalten und zu fördern - mit engagierter mensc[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Spécialiste en soins infirmiers",
-    "description": "Les infirmières spécialisées évaluent l'état et les besoins des patients individuellement et travaillent pour retrouver, améliorer, maintenir et promouvoir leur santé et leur autonomie - avec des personnes engagées[ ... ]",
+    "description": "Les infirmières spécialisées évaluent l'état et les besoins des patients individuellement et s'engagent à retrouver, améliorer, maintenir et promouvoir leur santé et leur autonomie - avec des personnes engagées[ ... ]",
     "title": "Formation de spécialiste en soins infirmiers"
   },
   {
@@ -1049,7 +1049,7 @@
     "date": "2024-12-22T11:52:10Z",
     "Description_de": "Info: Bei ausländischem Schulabschluss ist die Anerkennung der\nGleichwertigkeit des Schulabschlusses sowie der Nachweis der deutschen\nSprachkenntnisse auf B2-Niveau erforderlich",
     "Training_de": "Altenpflegehelfer/in",
-    "Training": "Assistante de soins gériatriques",
+    "Training": "Assistante en soins gériatriques",
     "description": "Info : Si vous disposez d'un diplôme d'une école étrangère, une reconnaissance est requise\nEquivalence du certificat de fin d'études et preuve de maîtrise de la langue allemande\nCompétences linguistiques de niveau B2 requises",
     "title": "Formation pour les aides-soignants en gériatrie"
   },
@@ -1083,8 +1083,8 @@
     "date": "2024-12-22T11:52:08Z",
     "Description_de": "Dann bist Du in der Pflege mehr als richtig!&nbsp;In der einjährigen Altenpflegeausbildung erlernst Du die Fähigkeiten und Kenntnisse, die für eine qualifizierte Mitwirkung und  Mithilfe bei der Betreuung, Versorgung und Pflege älterer Menschen wicht[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
-    "Training": "Assistante de soins gériatriques",
-    "description": "Alors les soins infirmiers sont le bon choix pour vous ! Au cours de la formation d'un an en soins infirmiers gériatriques, vous acquerrez les compétences et les connaissances qui sont importantes pour une participation et une assistance qualifiées dans les soins, l'offre et les soins aux personnes âgées[ ... ]",
+    "Training": "Assistante en soins gériatriques",
+    "description": "Alors les soins infirmiers sont plus que le bon choix pour vous ! Au cours de la formation d'un an en soins infirmiers gériatriques, vous acquerrez les compétences et les connaissances qui sont importantes pour une participation et une assistance qualifiées dans les soins, l'offre et les soins aux personnes âgées[ ... ]",
     "title": "Formation d'aide-soignant en gériatrie"
   },
   {
@@ -1185,7 +1185,7 @@
     "date": "2024-12-22T11:52:01Z",
     "Description_de": "In der Pflege hast du die Chance, jeden Tag einen echten Unterschied im Leben von Menschen zu machen. Arbeitszeit ist auch Lebenszeit: Als Pflegehelfer:in (w/m/d) bereicherst du den Alltag deiner Mitmenschen und sorgst dafür, dass ihre Welt ein klein[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
-    "Training": "Assistante de soins gériatriques",
+    "Training": "Assistante en soins gériatriques",
     "description": "En soins infirmiers, vous avez la chance de faire une réelle différence dans la vie des gens chaque jour. Le temps de travail, c'est aussi le temps de la vie : En tant qu'infirmière auxiliaire (f/m/d), vous enrichissez le quotidien de ceux qui vous entourent et veillez à ce que leur monde soit un peu[ ... ]",
     "title": "Formation d'infirmière auxiliaire (f/m/d)"
   },
@@ -1236,7 +1236,7 @@
     "date": "2024-12-22T11:51:57Z",
     "Description_de": "Ab 01.09.2025 suchen wir für unseren Standort Tübingen Auszubildende als CHEMIELABORANT (M/W/D. )SAGE YES ZU CHT:\n Spannende Aufgaben in einem etablierten, erfolgreichen Unternehmen\n  Intensive Einarbeitung in Deine Aufgabe\n Ein professionelles Umfeld in Ve[ ... ]",
     "Training_de": "Chemielaborant/in",
-    "Training": "Assistant de laboratoire de chimie",
+    "Training": "Assistante de laboratoire de chimie",
     "description": "À partir du 1er septembre 2025, nous recherchons des stagiaires en tant que LABORATOIRE CHIMIQUE (H/F/D) pour notre site de Tübingen. DITES OUI AU CHT :\n Des tâches passionnantes dans une entreprise établie et prospère\n  Formation intensive à votre tâche\n Un environnement professionnel à Ve[ ... ]",
     "title": "Formation de technicien de laboratoire de chimie"
   },
@@ -1253,7 +1253,7 @@
     "date": "2024-12-22T11:51:56Z",
     "Description_de": "Entscheide Dich für eine praxisbezogene Ausbildung in Deutschlands traditionsreichster Gold- und Silberscheideanstalt. Durch Theorieunterricht an der Berufsschule sowie Praxisphasen im Betrieb wirst du optimal auf Deine Karriere vorbereitet.",
     "Training_de": "Chemielaborant/in",
-    "Training": "Assistant de laboratoire de chimie",
+    "Training": "Assistante de laboratoire de chimie",
     "description": "Choisissez une formation pratique dans la raffinerie d'or et d'argent la plus traditionnelle d'Allemagne. Vous serez préparé de manière optimale à votre carrière grâce à des cours théoriques dans une école professionnelle et des phases pratiques en entreprise.",
     "title": "Formation de technicien de laboratoire de chimie"
   },
@@ -1407,7 +1407,7 @@
     "Description_de": "Die Förderung von Kindern liegt Dir am Herzen? Dann bewirb Dich für ein duales Studium Kindheitspädagogik und gestalte die Zukunft von Kindern aktiv mit.&nbsp;👧🧒",
     "Training_de": "Duales Studium Sozialpädagogik",
     "Training": "Double cursus en pédagogie sociale",
-    "description": "Vous souciez-vous de soutenir les enfants? Postulez ensuite pour un double diplôme en éducation de l'enfance et façonnez activement l'avenir des enfants.👧🧒",
+    "description": "Vous souciez-vous de soutenir les enfants? Alors postulez pour un double diplôme en éducation de l'enfance et façonnez activement l'avenir des enfants.👧🧒",
     "title": "Programme d'études en alternance en éducation de l'enfance "
   },
   {
@@ -2035,7 +2035,7 @@
     "date": "2024-12-22T11:51:02Z",
     "Description_de": "Kurzbeschreibung\n3 Jahre Ausbildung\nAbschluss: Bachelor Professional\nWechsel von Theorie und Praxis\nAusbildungsvergütung in der Fachpraxis\n\nZugangsvoraussetzungen:\n\nMittlere Reife und 12 monatiges Praktikum\nMittlere Reife in Kombination mit weiteren [ ... ]",
     "Training_de": "Heilerziehungspfleger/in",
-    "Training": "Infirmière en éducation spécialisée",
+    "Training": "Infirmière en éducation médicale",
     "description": "Brève description\n3 ans de formation\nDiplôme : Baccalauréat Professionnel\nAlternance de théorie et de pratique\nAllocation de formation en pratique spécialisée\n\nConditions d'entrée :\n\nDiplôme de fin d'études secondaires et stage de 12 mois\nMaturité intermédiaire en combinaison avec d'autres [...]",
     "title": "Formation d'infirmière curative"
   },
@@ -2103,7 +2103,7 @@
     "date": "2024-12-22T11:50:57Z",
     "Description_de": "Als ausgebildete:r Pflegeassistent:in arbeitest du interdisziplinär mit vielen verschiedenen Berufsgruppen zusammen. Du unterstützt, betreust und versorgst eigenverantwortlich Menschen aller Altersgruppen und trägst zur Förderung, Erhaltung, Verbesse[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
-    "Training": "Assistante de soins gériatriques",
+    "Training": "Assistante en soins gériatriques",
     "description": "En tant qu'infirmière auxiliaire qualifiée, vous travaillerez de manière interdisciplinaire avec de nombreux groupes professionnels différents. Vous accompagnez, soignez et prenez soin de personnes de tout âge sous votre propre responsabilité et contribuez à la promotion, à la préservation, à l'amélioration[ ... ]",
     "title": "Formation pour devenir aide-soignant en gériatrie "
   },
@@ -2155,7 +2155,7 @@
     "Description_de": "Hauswirtschaft hat sich zu einem modernen, zukunftsorientierten Beruf entwickelt und bedeutet viel mehr als kochen, waschen und putzen. Seit August 2020 gibt es die modernisierte Ausbildung. Die Tätigkeitsfelder sind vielfältig. In der Ausbildung ler[ ... ]",
     "Training_de": "Hauswirtschafter/in",
     "Training": "Gouvernante",
-    "description": "Le ménage est devenu un métier moderne et tourné vers l’avenir et signifie bien plus que cuisiner, faire la lessive et le ménage. La formation modernisée est disponible depuis août 2020. Les domaines d'activité sont diversifiés. En formation ler[ ... ]",
+    "description": "Le ménage est devenu un métier moderne et tourné vers l’avenir et signifie bien plus que cuisiner, faire la lessive et faire le ménage. La formation modernisée est disponible depuis août 2020. Les domaines d'activité sont diversifiés. En formation ler[ ... ]",
     "title": "Formation de femme de ménage (f/m/d)"
   },
   {
@@ -2171,7 +2171,7 @@
     "date": "2024-12-22T11:50:52Z",
     "Description_de": "Andere träumen noch von\neinem besseren Planeten. Wir bilden unterdessen Menschen aus, die schon im Hier\nund Jetzt den Gesellschaftswandel vorantreiben, Inklusion tagtäglich\nmitgestalten. Denn allen Heilerziehungspfleger:innen liegt ein Stückchen Welt[ ... ]",
     "Training_de": "Heilerziehungspfleger/in",
-    "Training": "Infirmière en éducation spécialisée",
+    "Training": "Infirmière en éducation médicale",
     "description": "D'autres rêvent encore\nune meilleure planète. Pendant ce temps, nous formons les gens qui sont déjà là\net Conduire le changement social maintenant, l'inclusion au quotidien\naider à façonner. Parce que toutes les infirmières spécialisées ont un petit bout du monde[ ... ]",
     "title": "Formation d'infirmière curative"
   },
@@ -2222,7 +2222,7 @@
     "date": "2024-12-22T11:50:49Z",
     "Description_de": "Ab hier „Mehr Möglichkeiten“! Für Menschen mit Behinderung und selbstverständlich auch für Dich, Deine Ausbildung und Deine Zukunft bei uns.Anderen Menschen zu helfen und sie zu unterstützen fühlt sich gut an? Dann bist Du bei uns genau richtig! Als [ ... ]",
     "Training_de": "Altenpflegehelfer/in",
-    "Training": "Assistante de soins gériatriques",
+    "Training": "Assistante en soins gériatriques",
     "description": "À partir de là, « Plus d'options » ! Pour les personnes handicapées et bien sûr aussi pour vous, votre formation et votre avenir chez nous, ça fait du bien d'aider et de soutenir d'autres personnes ? Alors vous êtes au bon endroit ! Comme [ ... ]",
     "title": "Formation d'aide-soignant en gériatrie"
   },
@@ -2239,7 +2239,7 @@
     "date": "2024-12-22T11:50:47Z",
     "Description_de": "Ab hier \"Mehr Möglichkeiten\"! Für Menschen mit Behinderung und selbstverständlich auch für Dich, Deine Ausbildung und Deine Zukunft bei uns.Du bist motiviert, hast eine „soziale Ader“ und spürst wie andere „ticken“. Dann bist Du bei uns genau richtig[ ... ]",
     "Training_de": "Heilerziehungspfleger/in",
-    "Training": "Infirmière en éducation spécialisée",
+    "Training": "Infirmière en éducation médicale",
     "description": "À partir de là, « Plus d'options » ! Pour les personnes handicapées et bien sûr aussi pour vous, votre formation et votre avenir chez nous. Vous êtes motivé, avez un « côté social » et ressentez ce qui motive les autres. Alors vous êtes au bon endroit[ ... ]",
     "title": "Formation d'infirmière curative"
   },
@@ -2257,7 +2257,7 @@
     "Description_de": "Pflegefachfrauen und -männer erfassen den Zustand und die Bedürfnisse der Patient'*innen individuell und setzen sich dafür ein, ihre Gesundheit und Eigenständigkeit wieder zu erlangen, zu verbessern, zu erhalten und zu fördern - mit engagierter mensc[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Spécialiste en soins infirmiers",
-    "description": "Les infirmières spécialisées évaluent l'état et les besoins des patients individuellement et travaillent pour retrouver, améliorer, maintenir et promouvoir leur santé et leur autonomie - avec des personnes engagées[ ... ]",
+    "description": "Les infirmières spécialisées évaluent l'état et les besoins des patients individuellement et s'engagent à retrouver, améliorer, maintenir et promouvoir leur santé et leur autonomie - avec des personnes engagées[ ... ]",
     "title": "Formation de spécialiste en soins infirmiers"
   },
   {
@@ -2273,7 +2273,7 @@
     "date": "2024-12-22T11:50:45Z",
     "Description_de": "Info: Bei ausländischem Schulabschluss ist die Anerkennung der\nGleichwertigkeit des Schulabschlusses sowie der Nachweis der deutschen\nSprachkenntnisse auf B2-Niveau erforderlich",
     "Training_de": "Altenpflegehelfer/in",
-    "Training": "Assistante de soins gériatriques",
+    "Training": "Assistante en soins gériatriques",
     "description": "Info : Si vous disposez d'un diplôme d'une école étrangère, une reconnaissance est requise\nEquivalence du certificat de fin d'études et preuve de maîtrise de la langue allemande\nCompétences linguistiques de niveau B2 requises",
     "title": "Formation pour les aides-soignants en gériatrie"
   },
@@ -2307,8 +2307,8 @@
     "date": "2024-12-22T11:50:43Z",
     "Description_de": "Dann bist Du in der Pflege mehr als richtig!&nbsp;In der einjährigen Altenpflegeausbildung erlernst Du die Fähigkeiten und Kenntnisse, die für eine qualifizierte Mitwirkung und  Mithilfe bei der Betreuung, Versorgung und Pflege älterer Menschen wicht[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
-    "Training": "Assistante de soins gériatriques",
-    "description": "Alors les soins infirmiers sont le bon choix pour vous ! Au cours de la formation d'un an en soins infirmiers gériatriques, vous acquerrez les compétences et les connaissances qui sont importantes pour une participation et une assistance qualifiées dans les soins, l'offre et les soins aux personnes âgées[ ... ]",
+    "Training": "Assistante en soins gériatriques",
+    "description": "Alors les soins infirmiers sont plus que le bon choix pour vous ! Au cours de la formation d'un an en soins infirmiers gériatriques, vous acquerrez les compétences et les connaissances qui sont importantes pour une participation et une assistance qualifiées dans les soins, l'offre et les soins aux personnes âgées[ ... ]",
     "title": "Formation d'aide-soignant en gériatrie"
   },
   {
@@ -2409,7 +2409,7 @@
     "date": "2024-12-22T11:50:36Z",
     "Description_de": "In der Pflege hast du die Chance, jeden Tag einen echten Unterschied im Leben von Menschen zu machen. Arbeitszeit ist auch Lebenszeit: Als Pflegehelfer:in (w/m/d) bereicherst du den Alltag deiner Mitmenschen und sorgst dafür, dass ihre Welt ein klein[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
-    "Training": "Assistante de soins gériatriques",
+    "Training": "Assistante en soins gériatriques",
     "description": "En soins infirmiers, vous avez la chance de faire une réelle différence dans la vie des gens chaque jour. Le temps de travail, c'est aussi le temps de la vie : En tant qu'infirmière auxiliaire (f/m/d), vous enrichissez le quotidien de ceux qui vous entourent et veillez à ce que leur monde soit un peu[ ... ]",
     "title": "Formation d'infirmière auxiliaire (f/m/d)"
   },
@@ -2460,7 +2460,7 @@
     "date": "2024-12-22T11:50:32Z",
     "Description_de": "Ab 01.09.2025 suchen wir für unseren Standort Tübingen Auszubildende alsCHEMIELABORANT (M/W/D). SAGE YES ZU CHT:\nSpannende Aufgaben in einem etablierten, erfolgreichen Unternehmen\nIntensive Einarbeitung in Deine Aufgabe\nEin professionelles Umfeld in Ve[ ... ]",
     "Training_de": "Chemielaborant/in",
-    "Training": "Assistant de laboratoire de chimie",
+    "Training": "Assistante de laboratoire de chimie",
     "description": "À partir du 1er septembre 2025, nous recherchons des stagiaires en tant qu'LABORANTS CHIMIQUES (M/F/D) pour notre site de Tübingen. DITES OUI AU CHT :\nDes tâches passionnantes dans une entreprise établie et prospère\nFormation intensive à votre tâche\nUn environnement professionnel à Ve[ ... ]",
     "title": "Formation de technicien de laboratoire de chimie"
   },
@@ -2477,7 +2477,7 @@
     "date": "2024-12-22T11:50:31Z",
     "Description_de": "Entscheide Dich für eine praxisbezogene Ausbildung in Deutschlands traditionsreichster Gold- und Silberscheideanstalt. Durch Theorieunterricht an der Berufsschule sowie Praxisphasen im Betrieb wirst du optimal auf Deine Karriere vorbereitet.",
     "Training_de": "Chemielaborant/in",
-    "Training": "Assistant de laboratoire de chimie",
+    "Training": "Assistante de laboratoire de chimie",
     "description": "Choisissez une formation pratique dans la raffinerie d'or et d'argent la plus traditionnelle d'Allemagne. Vous serez préparé de manière optimale à votre carrière grâce à des cours théoriques dans une école professionnelle et des phases pratiques en entreprise.",
     "title": "Formation de technicien de laboratoire de chimie"
   },
@@ -2494,8 +2494,8 @@
     "date": "2024-12-22T11:50:30Z",
     "Description_de": "Du interessierst Dich für Chemie und die Geheimnisse der Natur, besitzen mathematisch-naturwissenschaftliches Verständnis sowie experimentelles Geschick? Dann kommt eine Ausbildung zum Chemielaboranten (m/w/d)&nbsp;für Dich in Frage.Chemielaboranten [ ... ]",
     "Training_de": "Chemielaborant/in",
-    "Training": "Assistant de laboratoire de chimie",
-    "description": "Êtes-vous intéressé par la chimie et les secrets de la nature, et avez-vous une compréhension des mathématiques et des sciences naturelles ainsi que des compétences expérimentales ? Alors une formation de laborantin de chimie (h/f/d) est une possibilité pour vous.Les laborantins de chimie [ ... ]",
+    "Training": "Assistante de laboratoire de chimie",
+    "description": "Êtes-vous intéressé par la chimie et les secrets de la nature, et avez-vous une compréhension des mathématiques et des sciences naturelles ainsi que des compétences expérimentales ? Alors une formation de laborantin de chimie (h/f/d) est une option pour vous.Les laborantins de chimie [ ... ]",
     "title": "Formation de technicien de laboratoire de chimie"
   },
   {
@@ -2511,7 +2511,7 @@
     "date": "2024-12-22T11:50:28Z",
     "Description_de": "BE THE CHANGE I BE SGS&nbsp;heißt es für neugierige, leidenschaftliche und engagierte Menschen, die Stabilität, Entwicklungsmöglichkeiten und die Chance suchen, etwas zu bewirken. Die SGS-Gruppe ist das weltweit führende Unternehmen in den Bereichen [ ... ]",
     "Training_de": "Chemielaborant/in",
-    "Training": "Assistant de laboratoire de chimie",
+    "Training": "Assistante de laboratoire de chimie",
     "description": "BE THE CHANGE I BE SGS est la devise des personnes curieuses, passionnées et engagées qui recherchent la stabilité, des opportunités de développement et la possibilité de faire la différence. Le Groupe SGS est le leader mondial dans les domaines de [...]",
     "title": "Formation d'assistant de laboratoire de chimie"
   },
@@ -2528,7 +2528,7 @@
     "date": "2024-12-22T11:50:27Z",
     "Description_de": "Chemie, Naturwissenschaften und Technik sind genau dein Ding? On top wünscht du dir einen zukunftsorientierten Traumjob mit vielfältigen Einsatzmöglichkeiten? Du hast Wissenshunger und willst herausfinden, was noch in dir steckt? Dann b[ ... ]",
     "Training_de": "Chemielaborant/in",
-    "Training": "Assistant de laboratoire de chimie",
+    "Training": "Assistante de laboratoire de chimie",
     "description": "La chimie, les sciences naturelles et la technologie sont exactement votre truc ? En plus de cela, vous souhaitez un métier de rêve tourné vers l’avenir avec une variété d’utilisations possibles ? Avez-vous soif de connaissances et souhaitez-vous découvrir ce qu'il y a d'autre en vous ? Alors b[ ... ]",
     "title": "Formation de technicien de laboratoire de chimie"
   },
@@ -2545,7 +2545,7 @@
     "date": "2024-12-22T11:50:25Z",
     "Description_de": "Chemielaboranten (m/w/d) bereiten chemische Untersuchungen vor und führen sie durch. Sie protokollieren Versuchsergebnisse und werten sie aus. Im Rahmen von Neuentwicklungen stellen sie Mustermaterialien her und erproben diese. Das breit gefächerte A[ ... ]",
     "Training_de": "Chemielaborant/in",
-    "Training": "Assistant de laboratoire de chimie",
+    "Training": "Assistante de laboratoire de chimie",
     "description": "Les assistants de laboratoire de chimie (h/f/d) préparent et réalisent des tests chimiques. Vous enregistrez les résultats des tests et les évaluez. Dans le cadre de nouveaux développements, ils produisent et testent des échantillons de matériaux. Le vaste programme A[ ... ]",
     "title": "Formation de technicien de laboratoire de chimie"
   },
@@ -2613,8 +2613,8 @@
     "date": "2024-12-22T11:50:21Z",
     "Description_de": "Hast du Interesse an der Betreuung und Pflege älterer Menschen? Mach eine Ausbildung in der Altenpflegehilfe.In nur einem Jahr zu einem Job mit besten Zukunftsaussichten – Ausbildung zum/zur Altenpflegehelfer:inVerbinde deine Kompetenz im Umgang mit [ ... ]",
     "Training_de": "Altenpflegehelfer/in",
-    "Training": "Assistante de soins gériatriques",
-    "description": "Êtes-vous intéressé à vous occuper et à prendre soin des personnes âgées? Suivez une formation d'aide-soignant en gériatrie Obtenez un emploi avec les meilleures perspectives d'avenir en un an seulement - formation pour devenir aide-soignant en gériatrie :en Combinez vos compétences dans la gestion des [ ... ]",
+    "Training": "Assistante en soins gériatriques",
+    "description": "Êtes-vous intéressé à vous occuper et à prendre soin des personnes âgées? Suivez une formation en aide aux soins gériatriques Obtenez un emploi avec les meilleures perspectives d'avenir en un an seulement - formation pour devenir aide-soignant en gériatrie :en Combinez vos compétences dans la gestion des [...]",
     "title": "Formation d'aide-soignant en gériatrie"
   },
   {
@@ -2648,7 +2648,7 @@
     "Description_de": "Der Studiengang qualifiziert Dich zur Spezialistin bzw. zum Spezialisten in der Prävention, die bzw. der gesundheitsförderliche Maßnahmen in den zentralen Handlungsfeldern Bewegung, Ernährung und Entspannung/- Stressmanagement plant, koordiniert, ums[ ... ]",
     "Training_de": "Duales Studium Gesundheitsmanagement",
     "Training": "Programme d'études double en gestion de la santé",
-    "description": "La formation vous qualifie pour devenir un spécialiste de la prévention qui planifie, coordonne et met en œuvre des mesures de promotion de la santé dans les domaines centraux de l'exercice, de l'alimentation et de la relaxation/gestion du stress afin de[ ... ]",
+    "description": "La formation vous qualifie pour devenir un spécialiste de la prévention qui planifie, coordonne et coordonne des mesures de promotion de la santé dans les domaines centraux de l'activité, de l'alimentation et de la relaxation/gestion du stress afin de[ ... ]",
     "title": "Programme d'études double Bachelor of Arts Health Management"
   }
 ]
