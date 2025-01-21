@@ -98,7 +98,7 @@
     "Description_de": "Richtiges Verkaufen will gelernt sein\nDeine Ausbildung zum Verkäufer (m/w/d) im Lebensmitteleinzelhandel ist eine abwechslungsreiche und vielseitige Tätigkeit, die Kontaktfreudigkeit erfordert. Denn die freundliche Beratung und der tägliche Service f[ ... ]",
     "Training_de": "Verkäufer/in",
     "Training": "Vendeuse",
-    "description": "Bien vendre, ça s’apprend\nVotre formation de commercial (h/f/d) en grande distribution alimentaire est une activité variée et polyvalente qui vous demande d'être sociable. Parce que les conseils amicaux et le service quotidien[ ... ]",
+    "description": "Pour vendre correctement, il faut apprendre\nVotre formation de commercial (h/f/d) en grande distribution alimentaire est une activité variée et polyvalente qui vous demande d'être sociable. Parce que les conseils amicaux et le service quotidien[ ... ]",
     "title": "Formation pour devenir vendeur"
   },
   {
@@ -540,7 +540,7 @@
     "Description_de": "Richtiges Verkaufen will gelernt sein\nDeine Ausbildung zum Verkäufer (m/w/d) im Lebensmitteleinzelhandel ist eine abwechslungsreiche und vielseitige Tätigkeit, die Kontaktfreudigkeit erfordert. Denn die freundliche Beratung und der tägliche Service f[ ... ]",
     "Training_de": "Verkäufer/in",
     "Training": "Vendeuse",
-    "description": "Bien vendre, ça s’apprend\nVotre formation de commercial (h/f/d) en grande distribution alimentaire est une activité variée et polyvalente qui vous demande d'être sociable. Parce que les conseils amicaux et le service quotidien[ ... ]",
+    "description": "Pour vendre correctement, il faut apprendre\nVotre formation de commercial (h/f/d) en grande distribution alimentaire est une activité variée et polyvalente qui vous demande d'être sociable. Parce que les conseils amicaux et le service quotidien[ ... ]",
     "title": "Formation pour devenir vendeur"
   },
   {
@@ -608,7 +608,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Radiologie arbeiten mit modernsten medizinischen Geräten, wie CT-Scannern, MRTs und Röntgengeräten, um hochauflösende Bilder des Körpers zu erstellen. An der Schnittstelle zwischen Technik, Ärzt*innen und P[ ... ]",
     "Training_de": "MTR (Medizinische/r Technologe/Technologin für Radiologie)",
     "Training": "MTR (Technologue médical/Technologue en radiologie)",
-    "description": "Les technologues médicaux en radiologie travaillent avec des équipements médicaux de pointe, tels que des tomodensitomètres, des IRM et des appareils à rayons X, pour créer des images haute résolution du corps. A l'interface entre technologie, médecins et P[ ... ]",
+    "description": "Les technologues médicaux en radiologie travaillent avec des équipements médicaux de pointe, tels que des tomodensitomètres, des IRM et des appareils à rayons X, pour créer des images haute résolution du corps. A l'interface entre la technologie, les médecins et les P[ ... ]",
     "title": "Formation en technologie médicale pour la radiologie "
   },
   {
@@ -625,7 +625,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Funktionsdiagnostik  führen mit Hilfe medizinischer Geräte und komplexer elektronischer Messverfahren ärztlich verordnete Untersuchungen durch, um medizinische Informationen über die Funktionen des menschlic[ ... ]",
     "Training_de": "MTF (Medizinische/r Technologe/Technologin für Funktionsdiagnostik)",
     "Training": "MTF (technologue médical/technologue en diagnostic fonctionnel)",
-    "description": "Les technologues médicaux chargés du diagnostic fonctionnel utilisent des dispositifs médicaux et des méthodes de mesure électroniques complexes pour effectuer des examens médicalement prescrits afin d'obtenir des informations médicales sur les fonctions du corps humain.[ ... ]",
+    "description": "Les technologues médicaux chargés du diagnostic fonctionnel utilisent des dispositifs médicaux et des méthodes de mesure électroniques complexes pour effectuer des examens médicalement prescrits afin d'obtenir des informations médicales sur les fonctions du corps humain[ ... ]",
     "title": "Formation en technologie médicale pour le diagnostic fonctionnel"
   },
   {
@@ -659,7 +659,7 @@
     "Description_de": "Ausbildung zur Alltagsbegleitung / Betreuungskraft (m/w/d)\n\nStell dir vor, du arbeitest für das größte diakonische Pflegeunternehmen in Baden-[ ... ]",
     "Training_de": "Alltagsbegleiter/in",
     "Training": "Compagnon de tous les jours",
-    "description": "Formation pour accompagnant/soignant au quotidien (h/f/d)\n\nImaginez-vous travailler pour la plus grande entreprise de soins diaconaux de Baden-[ ... ]",
+    "description": "Formation pour accompagnateur/soignant au quotidien (h/f/d)\n\nImaginez-vous travailler pour la plus grande entreprise de soins diaconaux de Baden-[ ... ]",
     "title": "Formation pour devenir un compagnon/aidant au quotidien"
   },
   {
@@ -676,7 +676,7 @@
     "Description_de": "Ausbildung zur Alltagsbegleitung / Betreuungskraft (m/w/d)\nStell dir vor, du arbeitest für das größte diakonische Pflegeunternehmen in Baden-[ ... ]",
     "Training_de": "Alltagsbegleiter/in",
     "Training": "Compagnon de tous les jours",
-    "description": "Formation pour accompagnant/soignant au quotidien (h/f/d)\nImaginez-vous travailler pour la plus grande entreprise de soins diaconaux de Baden-[ ... ]",
+    "description": "Formation pour accompagnateur/soignant au quotidien (h/f/d)\nImaginez-vous travailler pour la plus grande entreprise de soins diaconaux de Baden-[ ... ]",
     "title": "Formation pour devenir un compagnon/aidant au quotidien"
   },
   {
@@ -1050,7 +1050,7 @@
     "Description_de": "Info: Bei ausländischem Schulabschluss ist die Anerkennung der\nGleichwertigkeit des Schulabschlusses sowie der Nachweis der deutschen\nSprachkenntnisse auf B2-Niveau erforderlich",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Assistante de soins gériatriques",
-    "description": "Info : Si vous disposez d'un diplôme d'une école étrangère, une reconnaissance est requise\nEquivalence du certificat de fin d'études et preuve de maîtrise de la langue allemande\nCompétences linguistiques de niveau B2 requises",
+    "description": "Info : Si vous possédez un diplôme d'une école étrangère, une reconnaissance est requise\nEquivalence du certificat de fin d'études et preuve de maîtrise de la langue allemande\nCompétences linguistiques de niveau B2 requises",
     "title": "Formation pour les aides-soignants en gériatrie"
   },
   {
@@ -1356,7 +1356,7 @@
     "Description_de": "Richtiges Verkaufen will gelernt sein\n Deine Ausbildung zum Verkäufer (m/w/d) im Lebensmitteleinzelhandel ist eine abwechslungsreiche und vielseitige Tätigkeit, die    Kontaktfreudigkeit erfordert. Denn die freundliche Beratung und der tägliche Service f[ ... ]",
     "Training_de": "Verkäufer/in",
     "Training": "Vendeuse",
-    "description": "Bien vendre, ça s’apprend\n Votre formation de commercial (h/f/d) en grande distribution alimentaire est une activité variée et polyvalente qui vous demande d'être sociable. Parce que les conseils amicaux et le service quotidien[ ... ]",
+    "description": "Pour vendre correctement, il faut apprendre\n Votre formation de commercial (h/f/d) en grande distribution alimentaire est une activité variée et polyvalente qui vous demande d'être sociable. Parce que les conseils amicaux et le service quotidien[ ... ]",
     "title": "Formation pour devenir vendeur"
   },
   {
@@ -1407,8 +1407,8 @@
     "Description_de": "Die Förderung von Kindern liegt Dir am Herzen? Dann bewirb Dich für ein duales Studium Kindheitspädagogik und gestalte die Zukunft von Kindern aktiv mit.&nbsp;👧🧒",
     "Training_de": "Duales Studium Sozialpädagogik",
     "Training": "Double cursus en pédagogie sociale",
-    "description": "Vous souciez-vous de soutenir les enfants? Alors postulez pour un double diplôme en éducation de l'enfance et façonnez activement l'avenir des enfants.👧🧒",
-    "title": "Programme de double étude en éducation de l'enfance "
+    "description": "Vous souciez-vous de soutenir les enfants? Postulez ensuite pour un double diplôme en éducation de l'enfance et façonnez activement l'avenir des enfants.👧🧒",
+    "title": "Programme d'études en alternance en éducation de l'enfance "
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-kaufmann-im-einzelhandel-m-w-d-bei-penny-markt-gmbh-in-braunschweig-2c32fdc5-25f8-4a29-9d34-a12be786ccea/",
@@ -1492,7 +1492,7 @@
     "Description_de": "Dein Berufsbild: Du möchtest irgendwas mit Mathe machen, aber so praxisnah wie möglich? Dann studiere Elektro- und Informationstechnik mit vertiefter Praxis bei Siemens Mobility und krempele schon mal die Ärmel hoch! Ingenieure (w/m/d) der Elektro- un[ ... ]",
     "Training_de": "Duales Studium Elektro- und Informationstechnik",
     "Training": "Programme d'études double en électricité et technologies de l'information",
-    "description": "Votre description de poste : Voulez-vous faire quelque chose avec les mathématiques, mais aussi pratique que possible ? Alors étudiez les technologies électriques et informatiques avec une expérience pratique approfondie chez Siemens Mobility et retroussez vos manches ! Ingénieurs (f/m/d) dans le domaine électrique et[ ... ]",
+    "description": "Votre profil d'emploi : Voulez-vous faire quelque chose avec les mathématiques, mais de la manière la plus pratique possible ? Alors étudiez les technologies électriques et informatiques avec une expérience pratique approfondie chez Siemens Mobility et retroussez vos manches ! Ingénieurs (f/m/d) dans le domaine électrique et[ ... ]",
     "title": "Programme d'électricité et de technologie de l'information (B.Eng.) avec pratique approfondie 2025"
   },
   {
@@ -1798,7 +1798,7 @@
     "Description_de": "Richtiges Verkaufen will gelernt sein\n Deine Ausbildung zum Verkäufer (m/w/d) im Lebensmitteleinzelhandel ist eine abwechslungsreiche und vielseitige Tätigkeit, die  Kontaktfreudigkeit erfordert. Denn die freundliche Beratung und der tägliche Service f[ ... ]",
     "Training_de": "Verkäufer/in",
     "Training": "Vendeuse",
-    "description": "Bien vendre, ça s’apprend\n Votre formation de commercial (h/f/d) en grande distribution alimentaire est une activité variée et polyvalente qui vous demande d'être sociable. Parce que les conseils amicaux et le service quotidien[ ... ]",
+    "description": "Pour vendre correctement, il faut apprendre\n Votre formation de commercial (h/f/d) en grande distribution alimentaire est une activité variée et polyvalente qui vous demande d'être sociable. Parce que les conseils amicaux et le service quotidien[ ... ]",
     "title": "Formation pour devenir vendeur"
   },
   {
@@ -1832,7 +1832,7 @@
     "Description_de": "Die Operationstechnischen Assistent*innen (OTA) sind ein unverzichtbarer Bestandteil im OP-Team. Sie übernehmen vielfältige Aufgaben, die zum reibungslosen Ablauf einer Operation beitragen. In ihrer Rüstung aka OP-Kleidung sorgen sie für die optimale[ ... ]",
     "Training_de": "Operationstechnische/r Assistent/in",
     "Training": "Assistante technique chirurgicale",
-    "description": "Les assistants techniques chirurgicaux (OTA) sont un élément indispensable de l'équipe chirurgicale. Ils assument des tâches variées qui contribuent au bon déroulement d’une opération. Dans leur armure, c'est-à-dire leurs vêtements chirurgicaux, ils assurent une[ ... ]",
+    "description": "Les assistants techniques chirurgicaux (OTA) sont un élément indispensable de l’équipe chirurgicale. Ils assument des tâches variées qui contribuent au bon déroulement d’une opération. Dans leur armure, c'est-à-dire leurs vêtements chirurgicaux, ils assurent une[ ... ]",
     "title": "Formation en assistance technique chirurgicale"
   },
   {
@@ -1866,7 +1866,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Radiologie (MTR) arbeiten mit modernsten medizinischen Geräten, wie CT-Scannern, MRTs und Röntgengeräten, um hochauflösende Bilder des Körpers zu erstellen. An der Schnittstelle zwischen Technik, Ärzt*innen und P[ ... ]",
     "Training_de": "MTR (Medizinische/r Technologe/Technologin für Radiologie)",
     "Training": "MTR (Technologue médical/Technologue en radiologie)",
-    "description": "Les technologues médicaux en radiologie (MTR) travaillent avec les équipements médicaux les plus récents, tels que des tomodensitomètres, des IRM et des appareils à rayons X, pour créer des images haute résolution du corps. A l'interface entre technologie, médecins et P[ ... ]",
+    "description": "Les technologues médicaux en radiologie (MTR) travaillent avec les équipements médicaux les plus modernes, tels que les tomodensitomètres, les IRM et les appareils à rayons X, pour créer des images haute résolution du corps. A l'interface entre la technologie, les médecins et les P[ ... ]",
     "title": "Formation en technologie médicale pour la radiologie"
   },
   {
@@ -2274,7 +2274,7 @@
     "Description_de": "Info: Bei ausländischem Schulabschluss ist die Anerkennung der\nGleichwertigkeit des Schulabschlusses sowie der Nachweis der deutschen\nSprachkenntnisse auf B2-Niveau erforderlich",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Assistante de soins gériatriques",
-    "description": "Info : Si vous disposez d'un diplôme d'une école étrangère, une reconnaissance est requise\nEquivalence du certificat de fin d'études et preuve de maîtrise de la langue allemande\nCompétences linguistiques de niveau B2 requises",
+    "description": "Info : Si vous possédez un diplôme d'une école étrangère, une reconnaissance est requise\nEquivalence du certificat de fin d'études et preuve de maîtrise de la langue allemande\nCompétences linguistiques de niveau B2 requises",
     "title": "Formation pour les aides-soignants en gériatrie"
   },
   {
@@ -2495,7 +2495,7 @@
     "Description_de": "Du interessierst Dich für Chemie und die Geheimnisse der Natur, besitzen mathematisch-naturwissenschaftliches Verständnis sowie experimentelles Geschick? Dann kommt eine Ausbildung zum Chemielaboranten (m/w/d)&nbsp;für Dich in Frage.Chemielaboranten [ ... ]",
     "Training_de": "Chemielaborant/in",
     "Training": "Assistant de laboratoire de chimie",
-    "description": "Êtes-vous intéressé par la chimie et les secrets de la nature, et avez-vous une compréhension des mathématiques et des sciences naturelles ainsi que des compétences expérimentales ? Alors une formation de laborantin de chimie (h/f/d) est une possibilité pour vous.Les laborantins de chimie [ ... ]",
+    "description": "Êtes-vous intéressé par la chimie et les secrets de la nature, et avez-vous une compréhension des mathématiques et des sciences naturelles ainsi que des compétences expérimentales ? Alors une formation de laborantin de chimie (h/f/d) est une option pour vous.Les laborantins de chimie [ ... ]",
     "title": "Formation de technicien de laboratoire de chimie"
   },
   {
@@ -2563,7 +2563,7 @@
     "Description_de": "Das erwartet Dich bei uns:\nTheorie &amp; Praxis im Wechsel:&nbsp;Dein Theorieunterricht findet an einer Pflegeschule statt, während Du im praktischen Teil in unserer Einrichtung sowie in Krankenhäuser[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Spécialiste en soins infirmiers",
-    "description": "Voici ce qui vous attend chez nous :\nThéorie et amp; Pratique en alternance : Vos cours théoriques se déroulent dans une école d'infirmières, tandis que vous effectuez la partie pratique dans notre établissement et en milieu hospitalier[ ... ]",
+    "description": "Voilà ce qui vous attend chez nous :\nThéorie et amp; Pratique en alternance : Vos cours théoriques se déroulent dans une école d'infirmières, tandis que vous effectuez la partie pratique dans notre établissement et en milieu hospitalier[ ... ]",
     "title": "Formation pour devenir infirmière spécialisée"
   },
   {
@@ -2580,7 +2580,7 @@
     "Description_de": "Du möchtest in der Pflege arbeiten und beruflich flexibel bleiben? Dann ist der/die Pflegefachmann:frau die richtige Ausbildung für Dich!Mit der neuen generalistischen Ausbildung vereinen wir die drei Pflegefachberufe Altenpflege, Gesundheits- und Kr[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Spécialiste en soins infirmiers",
-    "description": "Souhaitez-vous travailler dans le domaine des soins infirmiers et rester flexible sur le plan professionnel ? Alors la formation infirmière spécialisée est faite pour vous. Avec la nouvelle formation généraliste, nous combinons les trois métiers infirmiers que sont les soins gériatriques, la santé et le médical[ ... ]",
+    "description": "Souhaitez-vous travailler dans le domaine des soins infirmiers et rester flexible sur le plan professionnel ? Alors la formation infirmière spécialisée est faite pour vous. Avec la nouvelle formation généraliste, nous combinons les trois métiers infirmiers que sont les soins gériatriques, la santé et les soins médicaux.[ ... ]",
     "title": "Formation de spécialiste en soins infirmiers"
   },
   {
@@ -2647,8 +2647,8 @@
     "date": "2024-12-22T11:50:19Z",
     "Description_de": "Der Studiengang qualifiziert Dich zur Spezialistin bzw. zum Spezialisten in der Prävention, die bzw. der gesundheitsförderliche Maßnahmen in den zentralen Handlungsfeldern Bewegung, Ernährung und Entspannung/- Stressmanagement plant, koordiniert, ums[ ... ]",
     "Training_de": "Duales Studium Gesundheitsmanagement",
-    "Training": "Programme d'études double en gestion de la santé",
-    "description": "La formation vous qualifie pour devenir un spécialiste de la prévention qui planifie, coordonne et met en œuvre des mesures de promotion de la santé dans les domaines centraux de l'activité, de l'alimentation et de la relaxation/gestion du stress afin de[ ... ]",
+    "Training": "Parcours double en gestion de la santé",
+    "description": "La formation vous qualifie pour devenir un spécialiste de la prévention qui planifie, coordonne et coordonne des mesures de promotion de la santé dans les domaines centraux de l'activité, de l'alimentation et de la relaxation/gestion du stress afin de[ ... ]",
     "title": "Programme d'études double Bachelor of Arts Health Management"
   }
 ]
