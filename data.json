@@ -608,7 +608,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Radiologie arbeiten mit modernsten medizinischen Geräten, wie CT-Scannern, MRTs und Röntgengeräten, um hochauflösende Bilder des Körpers zu erstellen. An der Schnittstelle zwischen Technik, Ärzt*innen und P[ ... ]",
     "Training_de": "MTR (Medizinische/r Technologe/Technologin für Radiologie)",
     "Training": "MTR (Technologue médical/Technologue en radiologie)",
-    "description": "Les technologues médicaux en radiologie travaillent avec des équipements médicaux de pointe, tels que des tomodensitomètres, des IRM et des appareils à rayons X, pour créer des images haute résolution du corps. A l'interface entre technologie, médecins et P[ ... ]",
+    "description": "Les technologues médicaux en radiologie travaillent avec des équipements médicaux de pointe, tels que des tomodensitomètres, des IRM et des appareils à rayons X, pour créer des images haute résolution du corps. A l'interface entre la technologie, les médecins et les P[ ... ]",
     "title": "Formation en technologie médicale pour la radiologie "
   },
   {
@@ -727,7 +727,7 @@
     "Description_de": "In der dreijährigen Ausbildung erwerben Sie ein breites Spektrum an Fähigkeiten und Fertigkeiten in verschiedensten Bereichen der Medizin/Physiotherapie.Inhalte sind unter anderem folgende Module: Bewegungssystem: Hier wird schwerpunktmäßig die funkti[ ... ]",
     "Training_de": "Physiotherapeut/in",
     "Training": "Physiothérapeute",
-    "description": "Au cours de la formation de trois ans, vous acquerrez un large éventail de compétences et d'aptitudes dans une grande variété de domaines de la médecine/physiothérapie. Le contenu comprend les modules suivants : Système de mouvement : l'accent est mis ici sur le fonctionnel[ ... ]",
+    "description": "Au cours de la formation de trois ans, vous acquerrez un large éventail de compétences et d'aptitudes dans divers domaines de la médecine/physiothérapie. Le contenu comprend les modules suivants : Système de mouvement : l'accent est mis ici sur le fonctionnel[ ... ]",
     "title": "Formation de physiothérapeute"
   },
   {
@@ -914,7 +914,7 @@
     "Description_de": "Gesundheits- und Krankenpflegehelferinnen und Krankenpflegehelfer pflegen Menschen im Krankenhaus, in Pflegeheimen oder zu Hause. Sie tun dies nach Anweisung und unter Anleitung einer Pflegefachkraft. Sie fördern die Selbständigkeit von Pflegebedürft[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "Les aides-soignants et infirmiers soignent les personnes hospitalisées, en maisons de retraite ou à domicile. Vous faites cela selon les instructions et sous la direction d’un professionnel des soins infirmiers. Ils favorisent l'autonomie des personnes nécessitant des soins[ ... ]",
+    "description": "Les aides-soignants et infirmiers s'occupent des personnes hospitalisées, en maisons de retraite ou à domicile. Vous faites cela selon les instructions et sous la direction d’un professionnel des soins infirmiers. Ils favorisent l'autonomie des personnes nécessitant des soins[ ... ]",
     "title": "Formation d'auxiliaire de santé et d'infirmière"
   },
   {
@@ -1000,7 +1000,7 @@
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Assistante de soins gériatriques",
     "description": "À partir de là, « Plus d'options » ! Pour les personnes handicapées et bien sûr aussi pour vous, votre formation et votre avenir chez nous, ça fait du bien d'aider et de soutenir d'autres personnes ? Alors vous êtes au bon endroit ! Comme [ ... ]",
-    "title": "Formation d'aide-soignant en gériatrie"
+    "title": "Formation pour les aides-soignants en gériatrie"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-heilerziehungspfleger-in-m-w-d-markgroeningen-bei-habila-gmbh-in-markgroeningen-c8297701-904f-403d-8bea-bd54280c1d62/",
@@ -1033,7 +1033,7 @@
     "Description_de": "Pflegefachfrauen und -männer erfassen den Zustand und die Bedürfnisse der Patient'*innen individuell und setzen sich dafür ein, ihre Gesundheit und Eigenständigkeit wieder zu erlangen, zu verbessern, zu erhalten und zu fördern - mit engagierter mensc[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Spécialiste en soins infirmiers",
-    "description": "Les infirmières spécialisées évaluent l'état et les besoins des patients individuellement et s'engagent à retrouver, améliorer, maintenir et promouvoir leur santé et leur autonomie - avec des personnes engagées[ ... ]",
+    "description": "Les infirmières spécialisées évaluent l'état et les besoins des patients individuellement et travaillent pour retrouver, améliorer, maintenir et promouvoir leur santé et leur autonomie - avec des personnes engagées[ ... ]",
     "title": "Formation de spécialiste en soins infirmiers"
   },
   {
@@ -1050,7 +1050,7 @@
     "Description_de": "Info: Bei ausländischem Schulabschluss ist die Anerkennung der\nGleichwertigkeit des Schulabschlusses sowie der Nachweis der deutschen\nSprachkenntnisse auf B2-Niveau erforderlich",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Assistante de soins gériatriques",
-    "description": "Info : Si vous disposez d'un diplôme d'une école étrangère, une reconnaissance est requise\nEquivalence du certificat de fin d'études et preuve de maîtrise de la langue allemande\nCompétences linguistiques de niveau B2 requises",
+    "description": "Info : Si vous possédez un diplôme d'une école étrangère, une reconnaissance est requise\nEquivalence du certificat de fin d'études et preuve de maîtrise de la langue allemande\nCompétences linguistiques de niveau B2 requises",
     "title": "Formation pour les aides-soignants en gériatrie"
   },
   {
@@ -1084,8 +1084,8 @@
     "Description_de": "Dann bist Du in der Pflege mehr als richtig!&nbsp;In der einjährigen Altenpflegeausbildung erlernst Du die Fähigkeiten und Kenntnisse, die für eine qualifizierte Mitwirkung und  Mithilfe bei der Betreuung, Versorgung und Pflege älterer Menschen wicht[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Assistante de soins gériatriques",
-    "description": "Alors les soins infirmiers sont plus que le bon choix pour vous ! Au cours de la formation d'un an en soins infirmiers gériatriques, vous acquerrez les compétences et les connaissances qui sont importantes pour une participation et une assistance qualifiées dans les soins, l'offre et les soins aux personnes âgées[ ... ]",
-    "title": "Formation d'aide-soignant en gériatrie"
+    "description": "Alors les soins infirmiers sont le bon choix pour vous ! Au cours de la formation d'un an en soins infirmiers gériatriques, vous acquerrez les compétences et les connaissances qui sont importantes pour une participation et une assistance qualifiées dans les soins, l'offre et les soins aux personnes âgées[ ... ]",
+    "title": "Formation pour les aides-soignants en gériatrie"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-zur-pflegefachfrau-zum-pflegefachmann-m-w-d-2025-bei-diakoniewerk-martha-maria-e-v-in-stuttgart-30c7ff21-b469-43f5-88a5-fd080a480ac1/",
@@ -1866,7 +1866,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Radiologie (MTR) arbeiten mit modernsten medizinischen Geräten, wie CT-Scannern, MRTs und Röntgengeräten, um hochauflösende Bilder des Körpers zu erstellen. An der Schnittstelle zwischen Technik, Ärzt*innen und P[ ... ]",
     "Training_de": "MTR (Medizinische/r Technologe/Technologin für Radiologie)",
     "Training": "MTR (Technologue médical/Technologue en radiologie)",
-    "description": "Les technologues médicaux en radiologie (MTR) travaillent avec les équipements médicaux les plus récents, tels que des tomodensitomètres, des IRM et des appareils à rayons X, pour créer des images haute résolution du corps. A l'interface entre technologie, médecins et P[ ... ]",
+    "description": "Les technologues médicaux en radiologie (MTR) travaillent avec les équipements médicaux les plus modernes, tels que les tomodensitomètres, les IRM et les appareils à rayons X, pour créer des images haute résolution du corps. A l'interface entre la technologie, les médecins et les P[ ... ]",
     "title": "Formation en technologie médicale pour la radiologie"
   },
   {
@@ -2138,7 +2138,7 @@
     "Description_de": "Gesundheits- und Krankenpflegehelferinnen und Krankenpflegehelfer pflegen Menschen im Krankenhaus, in Pflegeheimen oder zu Hause. Sie tun dies nach Anweisung und unter Anleitung einer Pflegefachkraft. Sie fördern die Selbständigkeit von Pflegebedürft[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "Les aides-soignants et infirmiers soignent les personnes hospitalisées, en maisons de retraite ou à domicile. Vous faites cela selon les instructions et sous la direction d’un professionnel des soins infirmiers. Ils favorisent l'autonomie des personnes nécessitant des soins[ ... ]",
+    "description": "Les aides-soignants et infirmiers s'occupent des personnes hospitalisées, en maisons de retraite ou à domicile. Vous faites cela selon les instructions et sous la direction d’un professionnel des soins infirmiers. Ils favorisent l'autonomie des personnes nécessitant des soins[ ... ]",
     "title": "Formation d'auxiliaire de santé et d'infirmière"
   },
   {
@@ -2224,7 +2224,7 @@
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Assistante de soins gériatriques",
     "description": "À partir de là, « Plus d'options » ! Pour les personnes handicapées et bien sûr aussi pour vous, votre formation et votre avenir chez nous, ça fait du bien d'aider et de soutenir d'autres personnes ? Alors vous êtes au bon endroit ! Comme [ ... ]",
-    "title": "Formation d'aide-soignant en gériatrie"
+    "title": "Formation pour les aides-soignants en gériatrie"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-heilerziehungspfleger-in-m-w-d-markgroeningen-bei-habila-gmbh-in-markgroeningen-c8297701-904f-403d-8bea-bd54280c1d62/",
@@ -2257,7 +2257,7 @@
     "Description_de": "Pflegefachfrauen und -männer erfassen den Zustand und die Bedürfnisse der Patient'*innen individuell und setzen sich dafür ein, ihre Gesundheit und Eigenständigkeit wieder zu erlangen, zu verbessern, zu erhalten und zu fördern - mit engagierter mensc[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Spécialiste en soins infirmiers",
-    "description": "Les infirmières spécialisées évaluent l'état et les besoins des patients individuellement et s'engagent à retrouver, améliorer, maintenir et promouvoir leur santé et leur autonomie - avec des personnes engagées[ ... ]",
+    "description": "Les infirmières spécialisées évaluent l'état et les besoins des patients individuellement et travaillent pour retrouver, améliorer, maintenir et promouvoir leur santé et leur autonomie - avec des personnes engagées[ ... ]",
     "title": "Formation de spécialiste en soins infirmiers"
   },
   {
@@ -2274,7 +2274,7 @@
     "Description_de": "Info: Bei ausländischem Schulabschluss ist die Anerkennung der\nGleichwertigkeit des Schulabschlusses sowie der Nachweis der deutschen\nSprachkenntnisse auf B2-Niveau erforderlich",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Assistante de soins gériatriques",
-    "description": "Info : Si vous disposez d'un diplôme d'une école étrangère, une reconnaissance est requise\nEquivalence du certificat de fin d'études et preuve de maîtrise de la langue allemande\nCompétences linguistiques de niveau B2 requises",
+    "description": "Info : Si vous possédez un diplôme d'une école étrangère, une reconnaissance est requise\nEquivalence du certificat de fin d'études et preuve de maîtrise de la langue allemande\nCompétences linguistiques de niveau B2 requises",
     "title": "Formation pour les aides-soignants en gériatrie"
   },
   {
@@ -2308,8 +2308,8 @@
     "Description_de": "Dann bist Du in der Pflege mehr als richtig!&nbsp;In der einjährigen Altenpflegeausbildung erlernst Du die Fähigkeiten und Kenntnisse, die für eine qualifizierte Mitwirkung und  Mithilfe bei der Betreuung, Versorgung und Pflege älterer Menschen wicht[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Assistante de soins gériatriques",
-    "description": "Alors les soins infirmiers sont plus que le bon choix pour vous ! Au cours de la formation d'un an en soins infirmiers gériatriques, vous acquerrez les compétences et les connaissances qui sont importantes pour une participation et une assistance qualifiées dans les soins, l'offre et les soins aux personnes âgées[ ... ]",
-    "title": "Formation d'aide-soignant en gériatrie"
+    "description": "Alors les soins infirmiers sont le bon choix pour vous ! Au cours de la formation d'un an en soins infirmiers gériatriques, vous acquerrez les compétences et les connaissances qui sont importantes pour une participation et une assistance qualifiées dans les soins, l'offre et les soins aux personnes âgées[ ... ]",
+    "title": "Formation pour les aides-soignants en gériatrie"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-zur-pflegefachfrau-zum-pflegefachmann-m-w-d-2025-bei-diakoniewerk-martha-maria-e-v-in-stuttgart-30c7ff21-b469-43f5-88a5-fd080a480ac1/",
@@ -2495,7 +2495,7 @@
     "Description_de": "Du interessierst Dich für Chemie und die Geheimnisse der Natur, besitzen mathematisch-naturwissenschaftliches Verständnis sowie experimentelles Geschick? Dann kommt eine Ausbildung zum Chemielaboranten (m/w/d)&nbsp;für Dich in Frage.Chemielaboranten [ ... ]",
     "Training_de": "Chemielaborant/in",
     "Training": "Assistant de laboratoire de chimie",
-    "description": "Êtes-vous intéressé par la chimie et les secrets de la nature, et avez-vous une compréhension des mathématiques et des sciences naturelles ainsi que des compétences expérimentales ? Alors une formation de technicien de laboratoire de chimie (h/f/d) est une option pour vous.Techniciens de laboratoire de chimie [ ... ]",
+    "description": "Êtes-vous intéressé par la chimie et les secrets de la nature, et avez-vous une compréhension des mathématiques et des sciences naturelles ainsi que des compétences expérimentales ? Alors une formation de laborantin de chimie (h/f/d) est une option pour vous.Les laborantins de chimie [ ... ]",
     "title": "Formation de technicien de laboratoire de chimie"
   },
   {
@@ -2563,7 +2563,7 @@
     "Description_de": "Das erwartet Dich bei uns:\nTheorie &amp; Praxis im Wechsel:&nbsp;Dein Theorieunterricht findet an einer Pflegeschule statt, während Du im praktischen Teil in unserer Einrichtung sowie in Krankenhäuser[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Spécialiste en soins infirmiers",
-    "description": "Voilà ce qui vous attend chez nous :\nThéorie et amp; Pratique en alternance : Vos cours théoriques se déroulent dans une école d'infirmières, tandis que vous effectuez la partie pratique dans notre établissement et en milieu hospitalier[ ... ]",
+    "description": "Voici ce qui vous attend chez nous :\nThéorie et amp; Pratique en alternance : Vos cours théoriques se déroulent dans une école d'infirmières, tandis que vous effectuez la partie pratique dans notre établissement et en milieu hospitalier[ ... ]",
     "title": "Formation pour devenir infirmière spécialisée"
   },
   {
@@ -2580,7 +2580,7 @@
     "Description_de": "Du möchtest in der Pflege arbeiten und beruflich flexibel bleiben? Dann ist der/die Pflegefachmann:frau die richtige Ausbildung für Dich!Mit der neuen generalistischen Ausbildung vereinen wir die drei Pflegefachberufe Altenpflege, Gesundheits- und Kr[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Spécialiste en soins infirmiers",
-    "description": "Souhaitez-vous travailler dans le domaine des soins infirmiers et rester flexible sur le plan professionnel ? Alors la formation infirmière spécialisée est faite pour vous. Avec la nouvelle formation généraliste, nous combinons les trois professions infirmières que sont les soins gériatriques, la santé et la médecine[ ... ]",
+    "description": "Souhaitez-vous travailler dans le domaine des soins infirmiers et rester flexible sur le plan professionnel ? Alors la formation infirmière spécialisée est faite pour vous. Avec la nouvelle formation généraliste, nous combinons les trois métiers infirmiers que sont les soins gériatriques, la santé et les soins médicaux.[ ... ]",
     "title": "Formation de spécialiste en soins infirmiers"
   },
   {
@@ -2597,7 +2597,7 @@
     "Description_de": "Möchtest Du Menschen neue berufliche Perspektiven eröffnen? Dann passt eine Ausbildung in Arbeitserziehung zu Dir.Arbeitserziehung - Pädagogische Ausbildung oder Umschulung für Berufserfahrene mit vielseitigen PerspektivenArbeitserzieher:innen sind a[ ... ]",
     "Training_de": "Arbeitserzieher/in",
     "Training": "Éducateur au travail",
-    "description": "Vous souhaitez ouvrir de nouvelles perspectives professionnelles aux gens ? Alors la formation en éducation ouvrière est faite pour vous. L'éducation ouvrière - une formation pédagogique ou un recyclage pour des professionnels expérimentés ayant des perspectives diverses.[ ... ]",
+    "description": "Vous souhaitez ouvrir de nouvelles perspectives professionnelles aux gens ? Alors la formation en éducation ouvrière est faite pour vous. L'éducation ouvrière - la formation pédagogique ou le recyclage pour les professionnels expérimentés avec des perspectives variées sont un[ ... ]",
     "title": "Formation d'éducateur syndical"
   },
   {
@@ -2614,8 +2614,8 @@
     "Description_de": "Hast du Interesse an der Betreuung und Pflege älterer Menschen? Mach eine Ausbildung in der Altenpflegehilfe.In nur einem Jahr zu einem Job mit besten Zukunftsaussichten – Ausbildung zum/zur Altenpflegehelfer:inVerbinde deine Kompetenz im Umgang mit [ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Assistante de soins gériatriques",
-    "description": "Êtes-vous intéressé à vous occuper et à prendre soin des personnes âgées? Suivez une formation en aide aux soins gériatriques Obtenez un emploi avec les meilleures perspectives d'avenir en un an seulement - formation pour devenir aide-soignant en gériatrie :en Combinez vos compétences dans la gestion des [...]",
-    "title": "Formation d'aide-soignant en gériatrie"
+    "description": "Êtes-vous intéressé à vous occuper et à prendre soin des personnes âgées? Suivez une formation d'aide-soignant en gériatrie Obtenez un emploi avec les meilleures perspectives d'avenir en un an seulement - formation pour devenir aide-soignant en gériatrie :en Combinez vos compétences dans la gestion des [ ... ]",
+    "title": "Formation pour les aides-soignants en gériatrie"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/duales-studium-bachelor-of-arts-fitnessoekonomie-m-w-d-bei-deutsche-hochschule-fuer-praevention-und-gesundheitsmanagement-gmbh-in-stuttgart-a912b805-1f52-4c93-a3f1-1796923f3b47/",
@@ -2647,8 +2647,8 @@
     "date": "2024-12-22T11:50:19Z",
     "Description_de": "Der Studiengang qualifiziert Dich zur Spezialistin bzw. zum Spezialisten in der Prävention, die bzw. der gesundheitsförderliche Maßnahmen in den zentralen Handlungsfeldern Bewegung, Ernährung und Entspannung/- Stressmanagement plant, koordiniert, ums[ ... ]",
     "Training_de": "Duales Studium Gesundheitsmanagement",
-    "Training": "Programme d'études double en gestion de la santé",
-    "description": "La formation vous qualifie pour devenir un spécialiste de la prévention qui planifie, coordonne et coordonne des mesures de promotion de la santé dans les domaines centraux de l'activité, de l'alimentation et de la relaxation/gestion du stress afin de[ ... ]",
+    "Training": "Parcours double en gestion de la santé",
+    "description": "La formation vous qualifie pour devenir un spécialiste de la prévention qui planifie, coordonne et met en œuvre des mesures de promotion de la santé dans les domaines centraux de l'activité, de l'alimentation et de la relaxation/gestion du stress afin de[ ... ]",
     "title": "Programme d'études double Bachelor of Arts Health Management"
   }
 ]
