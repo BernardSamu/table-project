@@ -64,7 +64,7 @@
     "Description_de": "audalis ist eine mittelständische Wirtschaftskanzlei mit Hauptsitz in Dortmund. Seit mittlerweile über 90 Jahren beraten wir mittelständische Unternehmen, Familienunternehmen, Privatpersonen sowie die öffentliche Hand.Zur Erweiterung unseres Teams am[ ... ]",
     "Training_de": "Duales Studium BWL",
     "Training": "Programme d'études doubles en administration des affaires",
-    "description": "audalis est un cabinet d'avocats d'affaires de taille moyenne dont le siège social est à Dortmund. Depuis plus de 90 ans, nous conseillons les entreprises de taille moyenne, les entreprises familiales, les particuliers et le secteur public.Pour élargir notre équipe chez[ ... ]",
+    "description": "audalis est un cabinet d'avocats d'affaires de taille moyenne dont le siège social est à Dortmund. Depuis plus de 90 ans, nous conseillons les entreprises de taille moyenne, les entreprises familiales, les particuliers et le secteur public. Pour agrandir notre équipe chez[ ... ]",
     "title": "Programme d'études doubles en administration des affaires et en fiscalité (B.Sc.)"
   },
   {
@@ -625,7 +625,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Funktionsdiagnostik  führen mit Hilfe medizinischer Geräte und komplexer elektronischer Messverfahren ärztlich verordnete Untersuchungen durch, um medizinische Informationen über die Funktionen des menschlic[ ... ]",
     "Training_de": "MTF (Medizinische/r Technologe/Technologin für Funktionsdiagnostik)",
     "Training": "MTF (Technologue médical en diagnostic fonctionnel)",
-    "description": "Les technologues médicaux en diagnostic fonctionnel utilisent des dispositifs médicaux et des procédures de mesure électroniques complexes pour effectuer des examens médicalement prescrits afin d'obtenir des informations médicales sur les fonctions de l'être humain [...]",
+    "description": "Les technologues médicaux en diagnostic fonctionnel utilisent des dispositifs médicaux et des procédures de mesure électroniques complexes pour effectuer des examens médicalement prescrits afin d'obtenir des informations médicales sur les fonctions de l'être humain.",
     "title": "Formation en technologie médicale pour le diagnostic fonctionnel"
   },
   {
@@ -1066,7 +1066,7 @@
     "date": "2024-12-22T11:52:09Z",
     "Description_de": "Der Ausbildungsberuf Kauffrau/-mann im Gesundheitswesen ermöglicht dir die Kombination von kaufmännischem Wissen mit gesundheitsspezifischen Themen.",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
     "description": "L'apprentissage en tant que gestionnaire d'entreprise dans le secteur de la santé vous permet de combiner des connaissances commerciales avec des sujets spécifiques à la santé.",
     "title": "Apprentissage en tant que gestionnaire d'entreprise dans le secteur de la santé"
   },
@@ -1134,7 +1134,7 @@
     "date": "2024-12-22T11:52:05Z",
     "Description_de": "­",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
     "description": "­",
     "title": "Formation de commis à la gestion de bureau"
   },
@@ -1322,7 +1322,7 @@
     "Description_de": "audalis ist eine mittelständische Wirtschaftskanzlei mit Hauptsitz in Dortmund. Seit mittlerweile über 90 Jahren beraten wir mittelständische Unternehmen, Familienunternehmen, Privatpersonen sowie die öffentliche Hand.Zur Erweiterung unseres Teams am[ ... ]",
     "Training_de": "Duales Studium BWL",
     "Training": "Programme d'études doubles en administration des affaires",
-    "description": "audalis est un cabinet d'avocats d'affaires de taille moyenne dont le siège social est à Dortmund. Depuis plus de 90 ans, nous conseillons les entreprises de taille moyenne, les entreprises familiales, les particuliers et le secteur public.Pour élargir notre équipe chez[ ... ]",
+    "description": "audalis est un cabinet d'avocats d'affaires de taille moyenne dont le siège social est à Dortmund. Depuis plus de 90 ans, nous conseillons les entreprises de taille moyenne, les entreprises familiales, les particuliers et le secteur public. Pour agrandir notre équipe chez[ ... ]",
     "title": "Programme d'études doubles en administration des affaires et en fiscalité (B.Sc.)"
   },
   {
@@ -2290,7 +2290,7 @@
     "date": "2024-12-22T11:50:44Z",
     "Description_de": "Der Ausbildungsberuf Kauffrau/-mann im Gesundheitswesen ermöglicht dir die Kombination von kaufmännischem Wissen mit gesundheitsspezifischen Themen.",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
     "description": "L'apprentissage en tant que gestionnaire d'entreprise dans le secteur de la santé vous permet de combiner des connaissances commerciales avec des sujets spécifiques à la santé.",
     "title": "Apprentissage en tant que gestionnaire d'entreprise dans le secteur de la santé"
   },
@@ -2358,7 +2358,7 @@
     "date": "2024-12-22T11:50:39Z",
     "Description_de": "­",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
     "description": "­",
     "title": "Formation de commis à la gestion de bureau"
   },
@@ -2546,7 +2546,7 @@
     "Description_de": "Chemielaboranten (m/w/d) bereiten chemische Untersuchungen vor und führen sie durch. Sie protokollieren Versuchsergebnisse und werten sie aus. Im Rahmen von Neuentwicklungen stellen sie Mustermaterialien her und erproben diese. Das breit gefächerte A[ ... ]",
     "Training_de": "Chemielaborant/in",
     "Training": "technicien de laboratoire de chimie",
-    "description": "Les techniciens de laboratoire en chimie (h/f/d) préparent et réalisent des tests chimiques. Ils enregistrent et évaluent les résultats des tests. Dans le cadre de nouveaux développements, ils produisent et testent des échantillons de matériaux. La large gamme[ ... ]",
+    "description": "Les techniciens de laboratoire en chimie (h/f/d) préparent et réalisent des tests chimiques. Ils enregistrent et évaluent les résultats des tests. Dans le cadre de nouveaux développements, ils produisent et testent des échantillons de matériaux. La large gamme de[ ... ]",
     "title": "Formation de technicien de laboratoire chimique"
   },
   {
