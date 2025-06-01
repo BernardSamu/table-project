@@ -642,7 +642,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Laboratoriumsanalytik  führen mit Hilfe verschiedener Verfahren und Techniken vielfältige labortechnische Untersuchungen durch. Die Arbeit der MTL bildet somit die Grundlage für jegliche gesicherte ärztliche[ ... ]",
     "Training_de": "MTL (Medizinische/r Technologe/Technologin für Laboratoriumsanalytik)",
     "Training": "MTL (Technologue médical en analyse de laboratoire)",
-    "description": "Les technologues médicaux en analyse de laboratoire effectuent une vaste gamme de tests de laboratoire en utilisant diverses procédures et techniques. Le travail du MTL constitue ainsi la base de toute assurance médicale[ ... ]",
+    "description": "Les technologues médicaux en analyse de laboratoire effectuent une vaste gamme de tests de laboratoire en utilisant diverses procédures et techniques. Le travail du MTL constitue ainsi la base de toute médecine sécurisée[ ... ]",
     "title": "Formation en technologie médicale pour les analyses de laboratoire"
   },
   {
@@ -727,7 +727,7 @@
     "Description_de": "In der dreijährigen Ausbildung erwerben Sie ein breites Spektrum an Fähigkeiten und Fertigkeiten in verschiedensten Bereichen der Medizin/Physiotherapie.Inhalte sind unter anderem folgende Module: Bewegungssystem: Hier wird schwerpunktmäßig die funkti[ ... ]",
     "Training_de": "Physiotherapeut/in",
     "Training": "Physiothérapeute",
-    "description": "Au cours de cette formation de trois ans, vous acquerrez un large éventail de compétences et d’aptitudes dans divers domaines de la médecine/physiothérapie. Le contenu comprend les modules suivants : Système musculo-squelettique : Il se concentre sur le système fonctionnel [ ... ]",
+    "description": "Au cours de cette formation de trois ans, vous acquerrez un large éventail de compétences et d’aptitudes dans divers domaines de la médecine/physiothérapie. Le contenu comprend les modules suivants : Système musculo-squelettique : L'accent est mis ici sur le système fonctionnel[ ... ]",
     "title": "Formation de physiothérapeute"
   },
   {
@@ -1118,7 +1118,7 @@
     "Description_de": "In der einjährigen Gesundheits- und Krankenpflegehilfeausbildung wirst Du darauf vorbereitet, Teil des Pflegeteams zu sein. Hierbei assistierst Du den Pflegefachpersonen, pflegerische Aufgaben bei der Versorgung von Menschen in allen Lebensphasen und[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "Au cours de la formation d'un an d'assistant de santé et d'infirmière, vous serez préparé à faire partie de l'équipe infirmière. Vous assisterez le personnel infirmier dans l'exécution des tâches infirmières dans le cadre des soins aux personnes à toutes les étapes de la vie et[ ... ]",
+    "description": "Au cours de la formation d'un an d'assistant de santé et d'infirmière, vous serez préparé à faire partie de l'équipe infirmière. Vous assisterez le personnel infirmier dans l'exécution des tâches infirmières dans le cadre des soins prodigués aux personnes à toutes les étapes de la vie et[ ... ]",
     "title": "Formation des aides-soignants et auxiliaires de santé"
   },
   {
@@ -1407,7 +1407,7 @@
     "Description_de": "Die Förderung von Kindern liegt Dir am Herzen? Dann bewirb Dich für ein duales Studium Kindheitspädagogik und gestalte die Zukunft von Kindern aktiv mit.&nbsp;👧🧒",
     "Training_de": "Duales Studium Sozialpädagogik",
     "Training": "Programme d'études en alternance en pédagogie sociale",
-    "description": "Soutenir les enfants est-il important pour vous ? Alors postulez pour un programme d’études en alternance en éducation de la petite enfance et façonnez activement l’avenir des enfants.",
+    "description": "Soutenir les enfants est-il important pour vous ? Alors postulez pour un programme d’études en alternance en éducation de la petite enfance et façonnez activement l’avenir des enfants. 👧🧒",
     "title": "Programme d'études en alternance en éducation de la petite enfance "
   },
   {
@@ -1883,7 +1883,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Funktionsdiagnostik (MTF) führen mit Hilfe medizinischer Geräte und komplexer elektronischer Messverfahren ärztlich verordnete Untersuchungen durch, um medizinische Informationen über die Funktionen des menschlic[ ... ]",
     "Training_de": "MTF (Medizinische/r Technologe/Technologin für Funktionsdiagnostik)",
     "Training": "MTF (Technologue médical en diagnostic fonctionnel)",
-    "description": "Les technologues médicaux en diagnostic fonctionnel (MTF) utilisent des dispositifs médicaux et des procédures de mesure électroniques complexes pour effectuer des examens médicalement prescrits afin d'obtenir des informations médicales sur les fonctions de l'être humain[...]",
+    "description": "Les technologues médicaux en diagnostic fonctionnel (MTF) utilisent des dispositifs médicaux et des procédures de mesure électroniques complexes pour effectuer des examens médicalement prescrits afin d'obtenir des informations médicales sur les fonctions de l'être humain.",
     "title": "Formation en technologie médicale pour le diagnostic fonctionnel "
   },
   {
@@ -1900,7 +1900,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Laboratoriumsanalytik (MTL) führen mit Hilfe verschiedener Verfahren und Techniken vielfältige labortechnische Untersuchungen durch. Die Arbeit der MTL bildet somit die Grundlage für jegliche gesicherte ärztliche[ ... ]",
     "Training_de": "MTL (Medizinische/r Technologe/Technologin für Laboratoriumsanalytik)",
     "Training": "MTL (Technologue médical en analyse de laboratoire)",
-    "description": "Les technologues médicaux en analyse de laboratoire (TML) effectuent une vaste gamme de tests de laboratoire en utilisant diverses procédures et techniques. Le travail du MTL constitue ainsi la base de toute assurance médicale[ ... ]",
+    "description": "Les technologues médicaux en analyse de laboratoire (TML) effectuent une vaste gamme de tests de laboratoire en utilisant diverses procédures et techniques. Le travail du MTL constitue ainsi la base de toute médecine sécurisée[ ... ]",
     "title": "Formation en technologie médicale pour les analyses de laboratoire "
   },
   {
@@ -2342,7 +2342,7 @@
     "Description_de": "In der einjährigen Gesundheits- und Krankenpflegehilfeausbildung wirst Du darauf vorbereitet, Teil des Pflegeteams zu sein. Hierbei assistierst Du den Pflegefachpersonen, pflegerische Aufgaben bei der Versorgung von Menschen in allen Lebensphasen und[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "Au cours de la formation d'un an d'assistant de santé et d'infirmière, vous serez préparé à faire partie de l'équipe infirmière. Vous assisterez le personnel infirmier dans l'exécution des tâches infirmières dans le cadre des soins aux personnes à toutes les étapes de la vie et[ ... ]",
+    "description": "Au cours de la formation d'un an d'assistant de santé et d'infirmière, vous serez préparé à faire partie de l'équipe infirmière. Vous assisterez le personnel infirmier dans l'exécution des tâches infirmières dans le cadre des soins prodigués aux personnes à toutes les étapes de la vie et[ ... ]",
     "title": "Formation des aides-soignants et auxiliaires de santé"
   },
   {
@@ -2614,7 +2614,7 @@
     "Description_de": "Hast du Interesse an der Betreuung und Pflege älterer Menschen? Mach eine Ausbildung in der Altenpflegehilfe.In nur einem Jahr zu einem Job mit besten Zukunftsaussichten – Ausbildung zum/zur Altenpflegehelfer:inVerbinde deine Kompetenz im Umgang mit [ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "assistant en soins gériatriques",
-    "description": "Êtes-vous intéressé à prendre soin des personnes âgées et à les accompagner ? Effectuer un apprentissage en tant qu'assistant en soins gériatriques. Obtenez un emploi avec d’excellentes perspectives d’avenir en seulement un an – en suivant une formation pour devenir assistant en soins gériatriques. Combinez vos compétences pour gérer [ ... ]",
+    "description": "Êtes-vous intéressé à prendre soin des personnes âgées et à les accompagner ? Effectuer un apprentissage en tant qu'assistant en soins gériatriques. Obtenez un emploi avec d’excellentes perspectives d’avenir en seulement un an – en suivant une formation pour devenir assistant en soins gériatriques. Combinez votre expertise dans le traitement des [ ... ]",
     "title": "Formation d'assistant en soins gériatriques"
   },
   {
@@ -2648,7 +2648,7 @@
     "Description_de": "Der Studiengang qualifiziert Dich zur Spezialistin bzw. zum Spezialisten in der Prävention, die bzw. der gesundheitsförderliche Maßnahmen in den zentralen Handlungsfeldern Bewegung, Ernährung und Entspannung/- Stressmanagement plant, koordiniert, ums[ ... ]",
     "Training_de": "Duales Studium Gesundheitsmanagement",
     "Training": "Programme d'études doubles en gestion de la santé",
-    "description": "Le cours vous qualifie en tant que spécialiste en prévention qui planifie, coordonne et met en œuvre des mesures de promotion de la santé dans les domaines clés de l'exercice, de la nutrition et de la relaxation/gestion du stress[...]",
+    "description": "Le cours vous qualifie en tant que spécialiste en prévention qui planifie, coordonne et met en œuvre des mesures de promotion de la santé dans les domaines clés de l'exercice, de la nutrition et de la relaxation/gestion du stress.[...]",
     "title": "Programme d'études doubles Baccalauréat en gestion de la santé"
   }
 ]
