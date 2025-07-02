@@ -81,7 +81,7 @@
     "Description_de": "Führe eine unserer Filialen zum Erfolg\n\nDu möchtest mehr erreichen und Verantwortung übernehmen – auch ohne Studium? Dann ist unsere Fachausbildung zum Marktleiter (m/w/d) genau das Richtige für dich. In 2 bis 2,5 Jahren erwirbst du den IHK-Abschluss[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "Commis de vente au détail",
-    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir responsable de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de commerce et d'industrie (IHK)[...]",
+    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir responsable de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez le diplôme de la Chambre de commerce et d'industrie (IHK)[...]",
     "title": "Formation spécialisée pour devenir chef de marché"
   },
   {
@@ -98,7 +98,7 @@
     "Description_de": "Richtiges Verkaufen will gelernt sein\nDeine Ausbildung zum Verkäufer (m/w/d) im Lebensmitteleinzelhandel ist eine abwechslungsreiche und vielseitige Tätigkeit, die Kontaktfreudigkeit erfordert. Denn die freundliche Beratung und der tägliche Service f[ ... ]",
     "Training_de": "Verkäufer/in",
     "Training": "Vendeuse",
-    "description": "Une bonne vente exige de la pratique\nVotre formation de vendeur (h/f/d) dans le secteur de la distribution alimentaire est un métier varié et diversifié qui exige de la sociabilité. Parce que les conseils avisés et le service quotidien[...]",
+    "description": "Une bonne vente exige de la pratique\nVotre formation de vendeur (h/f/d) dans le secteur de la distribution alimentaire est un métier varié et diversifié qui exige de la sociabilité. Parce que les conseils avisés et le service au quotidien[...]",
     "title": "Formation pour devenir vendeur"
   },
   {
@@ -149,7 +149,7 @@
     "Description_de": "Die Förderung von Kindern liegt Dir am Herzen? Dann bewirb Dich für ein duales Studium Kindheitspädagogik und gestalte die Zukunft von Kindern aktiv mit.👧🧒",
     "Training_de": "Duales Studium Sozialpädagogik",
     "Training": "Programme d'études en alternance en pédagogie sociale",
-    "description": "Soutenir les enfants est-il important pour vous ? Alors, postulez à un double diplôme en éducation de la petite enfance et participez activement à façonner l'avenir des enfants.",
+    "description": "Soutenir les enfants est-il important pour vous ? Alors, postulez à un double diplôme en éducation de la petite enfance et participez activement à façonner l'avenir des enfants.👧🧒",
     "title": "Programme d'études doubles en éducation de la petite enfance (B.A.)"
   },
   {
@@ -336,7 +336,7 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "Commis de vente au détail",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort de plus de 110 ans d'expérience, ALDI est à l'origine du principe du discount. Notre mission est d'offrir à tous, partout et à tout moment, les[ ... ]",
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort de plus de 110 ans d'expérience, ALDI est l'inventeur du principe du discount. Notre mission est d'offrir à tous, partout et à tout moment, les[ ... ]",
     "title": "Formation de vendeur ou de commerçant au détail"
   },
   {
@@ -353,7 +353,7 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Handelsfachwirt/in",
     "Training": "Spécialiste commercial",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort de plus de 110 ans d'expérience, ALDI est à l'origine du principe du discount. Notre mission est d'offrir à tous, partout et à tout moment, les[ ... ]",
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort de plus de 110 ans d'expérience, ALDI est l'inventeur du principe du discount. Notre mission est d'offrir à tous, partout et à tout moment, les[ ... ]",
     "title": "Programme Abitur pour les spécialistes commerciaux"
   },
   {
@@ -421,7 +421,7 @@
     "Description_de": "Wir sind ein wachsendes mittelständisches Unternehmen im Garten- und Landschaftsbau, das mit über 40 Jahren Erfahrung und frischem Schwung Kundenträume erfüllt. Im Braunschweiger Land sind wir die Experten für hochwertige Neuanlagen, Grünflächenpfleg[ ... ]",
     "Training_de": "Landschaftsgärtner/in",
     "Training": "Paysagiste",
-    "description": "Nous sommes une entreprise de jardinage et d'aménagement paysager de taille moyenne en pleine croissance, forte de plus de 40 ans d'expérience et d'une approche innovante, qui répond aux besoins de nos clients. Dans la région de Brunswick, nous sommes experts en nouvelles installations de haute qualité, en entretien d'espaces verts[...]",
+    "description": "Nous sommes une entreprise de jardinage et d'aménagement paysager de taille moyenne en pleine croissance, forte de plus de 40 ans d'expérience et d'une approche innovante, qui répond aux attentes de nos clients. Dans la région de Brunswick, nous sommes experts en nouvelles installations de haute qualité, en entretien d'espaces verts[...]",
     "title": "Formation de paysagiste / jardinier"
   },
   {
@@ -540,7 +540,7 @@
     "Description_de": "Richtiges Verkaufen will gelernt sein\nDeine Ausbildung zum Verkäufer (m/w/d) im Lebensmitteleinzelhandel ist eine abwechslungsreiche und vielseitige Tätigkeit, die Kontaktfreudigkeit erfordert. Denn die freundliche Beratung und der tägliche Service f[ ... ]",
     "Training_de": "Verkäufer/in",
     "Training": "Vendeuse",
-    "description": "Une bonne vente exige de la pratique\nVotre formation de vendeur (h/f/d) dans le secteur de la distribution alimentaire est un métier varié et diversifié qui exige de la sociabilité. Parce que les conseils avisés et le service quotidien[...]",
+    "description": "Une bonne vente exige de la pratique\nVotre formation de vendeur (h/f/d) dans le secteur de la distribution alimentaire est un métier varié et diversifié qui exige de la sociabilité. Parce que les conseils avisés et le service au quotidien[...]",
     "title": "Formation pour devenir vendeur"
   },
   {
@@ -557,7 +557,7 @@
     "Description_de": "Führe eine unserer Filialen zum Erfolg\n\nDu möchtest mehr erreichen und Verantwortung übernehmen – auch ohne Studium? Dann ist unsere Fachausbildung zum Marktleiter (m/w/d) genau das Richtige für dich. In 2 bis 2,5 Jahren erwirbst du den IHK-Abschluss[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "Commis de vente au détail",
-    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir responsable de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de commerce et d'industrie (IHK)[...]",
+    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir responsable de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez le diplôme de la Chambre de commerce et d'industrie (IHK)[...]",
     "title": "Formation spécialisée pour devenir chef de marché"
   },
   {
@@ -608,7 +608,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Radiologie arbeiten mit modernsten medizinischen Geräten, wie CT-Scannern, MRTs und Röntgengeräten, um hochauflösende Bilder des Körpers zu erstellen. An der Schnittstelle zwischen Technik, Ärzt*innen und P[ ... ]",
     "Training_de": "MTR (Medizinische/r Technologe/Technologin für Radiologie)",
     "Training": "MTR (Technologue médical en radiologie)",
-    "description": "Les radiologues médicaux utilisent des équipements médicaux de pointe, tels que des scanners, des IRM et des appareils à rayons X, pour créer des images haute résolution du corps. À l'interface entre la technologie, les médecins et [...]",
+    "description": "Les radiologues médicaux utilisent des équipements médicaux de pointe, tels que des scanners, des IRM et des appareils à rayons X, pour créer des images haute résolution du corps. À l'interface entre la technologie, les médecins et […]",
     "title": "Formation en technologie médicale pour la radiologie"
   },
   {
@@ -625,7 +625,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Funktionsdiagnostik  führen mit Hilfe medizinischer Geräte und komplexer elektronischer Messverfahren ärztlich verordnete Untersuchungen durch, um medizinische Informationen über die Funktionen des menschlic[ ... ]",
     "Training_de": "MTF (Medizinische/r Technologe/Technologin für Funktionsdiagnostik)",
     "Training": "MTF (Technologue médical en diagnostic fonctionnel)",
-    "description": "Les technologues médicaux en diagnostic fonctionnel utilisent des dispositifs médicaux et des procédures de mesure électroniques complexes pour effectuer des examens médicalement prescrits afin d'obtenir des informations médicales sur les fonctions de l'être humain [...]",
+    "description": "Les technologues médicaux en diagnostic fonctionnel utilisent des dispositifs médicaux et des procédures de mesure électroniques complexes pour effectuer des examens médicalement prescrits afin d'obtenir des informations médicales sur les fonctions de l'être humain.",
     "title": "Formation en technologie médicale pour le diagnostic fonctionnel"
   },
   {
@@ -659,7 +659,7 @@
     "Description_de": "Ausbildung zur Alltagsbegleitung / Betreuungskraft (m/w/d)\n\nStell dir vor, du arbeitest für das größte diakonische Pflegeunternehmen in Baden-[ ... ]",
     "Training_de": "Alltagsbegleiter/in",
     "Training": "Compagnon de tous les jours",
-    "description": "Formation d'accompagnant/aidant au quotidien (h/f/d)\n\nImaginez travailler pour la plus grande organisation de soins diaconaux de Bade-[ ... ]",
+    "description": "Formation pour devenir accompagnateur/aidant (h/f/d)\n\nImaginez travailler pour la plus grande organisation de soins diaconaux de Bade-[ ... ]",
     "title": "Formation pour devenir accompagnateur/aidant au quotidien"
   },
   {
@@ -710,7 +710,7 @@
     "Description_de": "Ergotherapie ist eine ganzheitliche medizinisch-therapeutische Behandlung, die auch pädagogische, psychologische und soziale Aspekte einbezieht. Sie erhalten somit einen weit gefächerten Einblick in verschiedenste Themenbereiche. Hier eine Auswahl:Ar[ ... ]",
     "Training_de": "Ergotherapeut/in",
     "Training": "ergothérapeute",
-    "description": "L'ergothérapie est une approche médico-thérapeutique holistique qui intègre également des aspects éducatifs, psychologiques et sociaux. Elle offre un aperçu complet d'un large éventail de sujets. En voici une sélection :[...]",
+    "description": "L'ergothérapie est un traitement médico-thérapeutique holistique qui intègre également des aspects éducatifs, psychologiques et sociaux. Elle offre un aperçu complet de sujets variés. En voici une sélection :[...]",
     "title": "Formation d'ergothérapeute"
   },
   {
@@ -727,7 +727,7 @@
     "Description_de": "In der dreijährigen Ausbildung erwerben Sie ein breites Spektrum an Fähigkeiten und Fertigkeiten in verschiedensten Bereichen der Medizin/Physiotherapie.Inhalte sind unter anderem folgende Module: Bewegungssystem: Hier wird schwerpunktmäßig die funkti[ ... ]",
     "Training_de": "Physiotherapeut/in",
     "Training": "Physiothérapeute",
-    "description": "Durant cette formation de trois ans, vous acquerrez un large éventail de compétences et d'aptitudes dans divers domaines de la médecine et de la physiothérapie. Le contenu comprend les modules suivants : Système musculo-squelettique : Ce module se concentre sur le système fonctionnel [ ... ]",
+    "description": "Durant cette formation de trois ans, vous acquerrez un large éventail de compétences et d'aptitudes dans divers domaines de la médecine et de la physiothérapie. Le contenu comprend les modules suivants : Système musculo-squelettique : L'accent est mis ici sur le système fonctionnel[ ... ]",
     "title": "Formation de physiothérapeute"
   },
   {
@@ -914,7 +914,7 @@
     "Description_de": "Gesundheits- und Krankenpflegehelferinnen und Krankenpflegehelfer pflegen Menschen im Krankenhaus, in Pflegeheimen oder zu Hause. Sie tun dies nach Anweisung und unter Anleitung einer Pflegefachkraft. Sie fördern die Selbständigkeit von Pflegebedürft[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "Les aides-soignants soignent les personnes à l'hôpital, en maison de retraite ou à domicile. Ils exercent leur activité sous la direction d'une infirmière qualifiée. Ils favorisent l'autonomie des personnes nécessitant des soins[...]",
+    "description": "Les aides-soignants soignent les personnes à l'hôpital, en maison de retraite ou à domicile. Ils exercent leurs activités sous la direction d'une infirmière qualifiée. Ils favorisent l'autonomie des personnes nécessitant des soins[...]",
     "title": "Formation d'assistant de santé et d'infirmière"
   },
   {
@@ -965,7 +965,7 @@
     "Description_de": "Als Gesundheits- und Krankenpflegehelfer sind Sie die rechte Hand der examinierten Pflegekräfte auf Station. Sie pflegen und versorgen kranke und pflegebedürftige Menschen unter der Anleitung von Pflegefachkräften, begleiten den Genesungsprozess, unt[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "En tant qu'aide-soignant, vous êtes le bras droit des infirmières diplômées d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de la santé, vous accompagnez leur rétablissement et [...]",
+    "description": "En tant qu'aide-soignant(e), vous êtes le bras droit des infirmières diplômées d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de la santé, vous accompagnez leur rétablissement et [...]",
     "title": "Formation d'assistant de santé et d'infirmière"
   },
   {
@@ -1033,7 +1033,7 @@
     "Description_de": "Pflegefachfrauen und -männer erfassen den Zustand und die Bedürfnisse der Patient'*innen individuell und setzen sich dafür ein, ihre Gesundheit und Eigenständigkeit wieder zu erlangen, zu verbessern, zu erhalten und zu fördern - mit engagierter mensc[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "professionnel des soins infirmiers",
-    "description": "Les infirmières évaluent l'état et les besoins de leurs patients individuellement et s'engagent à retrouver, améliorer, maintenir et promouvoir leur santé et leur indépendance - avec des ressources humaines engagées[...]",
+    "description": "Les infirmières évaluent l'état et les besoins de leurs patients individuellement et s'efforcent de retrouver, d'améliorer, de maintenir et de promouvoir leur santé et leur indépendance - avec des ressources humaines engagées[...]",
     "title": "Formation en tant que professionnel infirmier"
   },
   {
@@ -1066,7 +1066,7 @@
     "date": "2024-12-22T11:52:09Z",
     "Description_de": "Der Ausbildungsberuf Kauffrau/-mann im Gesundheitswesen ermöglicht dir die Kombination von kaufmännischem Wissen mit gesundheitsspezifischen Themen.",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
     "description": "L'apprentissage en tant que gestionnaire d'entreprise dans le secteur de la santé vous permet de combiner des connaissances commerciales avec des sujets spécifiques à la santé.",
     "title": "Apprentissage en tant que gestionnaire d'entreprise dans le secteur de la santé"
   },
@@ -1134,7 +1134,7 @@
     "date": "2024-12-22T11:52:05Z",
     "Description_de": "­",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
     "description": "­",
     "title": "Formation de commis à la gestion de bureau"
   },
@@ -1220,7 +1220,7 @@
     "Description_de": "Der Studiengang qualifiziert Dich für die vielfältigen Einsatzgebiete des Sportmarktes und bereitet Dich auf Schlüsselpositionen z. B. in Vereinen, Verbänden, bei Agenturen, Sportartikelherstellern sowie in kommerziellen Sport- und Freizeitanlagen vo[ ... ]",
     "Training_de": "Duales Studium Sportökonomie",
     "Training": "Programme d'études doubles en économie du sport",
-    "description": "Le programme vous qualifie pour les divers domaines du marché du sport et vous prépare à des postes clés, par exemple, dans des clubs, des associations, des agences, des fabricants d'articles de sport et des installations commerciales de sport et de loisirs.[...]",
+    "description": "Le programme vous qualifie pour les divers domaines du marché du sport et vous prépare à des postes clés, par exemple, dans des clubs, des associations, des agences, des fabricants d'articles de sport et dans des installations commerciales de sport et de loisirs.[...]",
     "title": "Programme d'études doubles Baccalauréat ès arts en économie du sport"
   },
   {
@@ -1356,7 +1356,7 @@
     "Description_de": "Richtiges Verkaufen will gelernt sein\n Deine Ausbildung zum Verkäufer (m/w/d) im Lebensmitteleinzelhandel ist eine abwechslungsreiche und vielseitige Tätigkeit, die    Kontaktfreudigkeit erfordert. Denn die freundliche Beratung und der tägliche Service f[ ... ]",
     "Training_de": "Verkäufer/in",
     "Training": "Vendeuse",
-    "description": "Une bonne vente exige de la pratique\nVotre formation de vendeur (h/f/d) dans le secteur de la distribution alimentaire est un métier varié et diversifié qui exige de la sociabilité. Parce que les conseils avisés et le service quotidien[...]",
+    "description": "Une bonne vente exige de la pratique\nVotre formation de vendeur (h/f/d) dans le secteur de la distribution alimentaire est un métier varié et diversifié qui exige de la sociabilité. Parce que les conseils avisés et le service au quotidien[...]",
     "title": "Formation pour devenir vendeur"
   },
   {
@@ -1594,7 +1594,7 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "Commis de vente au détail",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort de plus de 110 ans d'expérience, ALDI est à l'origine du principe du discount. Notre mission est d'offrir à tous, partout et à tout moment, les[ ... ]",
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort de plus de 110 ans d'expérience, ALDI est l'inventeur du principe du discount. Notre mission est d'offrir à tous, partout et à tout moment, les[ ... ]",
     "title": "Formation de vendeur ou de commerçant au détail"
   },
   {
@@ -1611,7 +1611,7 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Handelsfachwirt/in",
     "Training": "Spécialiste commercial",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort de plus de 110 ans d'expérience, ALDI est à l'origine du principe du discount. Notre mission est d'offrir à tous, partout et à tout moment, les[ ... ]",
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort de plus de 110 ans d'expérience, ALDI est l'inventeur du principe du discount. Notre mission est d'offrir à tous, partout et à tout moment, les[ ... ]",
     "title": "Programme Abitur pour les spécialistes commerciaux"
   },
   {
@@ -1679,7 +1679,7 @@
     "Description_de": "Wir sind ein wachsendes mittelständisches Unternehmen im Garten- und Landschaftsbau, das mit über 40 Jahren Erfahrung und frischem Schwung Kundenträume erfüllt. Im Braunschweiger Land sind wir die Experten für hochwertige Neuanlagen, Grünflächenpfleg[ ... ]",
     "Training_de": "Landschaftsgärtner/in",
     "Training": "Paysagiste",
-    "description": "Nous sommes une entreprise de jardinage et d'aménagement paysager de taille moyenne en pleine croissance, forte de plus de 40 ans d'expérience et d'une approche innovante, qui répond aux besoins de nos clients. Dans la région de Brunswick, nous sommes experts en nouvelles installations de haute qualité, en entretien d'espaces verts[...]",
+    "description": "Nous sommes une entreprise de jardinage et d'aménagement paysager de taille moyenne en pleine croissance, forte de plus de 40 ans d'expérience et d'une approche innovante, qui répond aux attentes de nos clients. Dans la région de Brunswick, nous sommes experts en nouvelles installations de haute qualité, en entretien d'espaces verts[...]",
     "title": "Formation de paysagiste / jardinier"
   },
   {
@@ -1747,7 +1747,7 @@
     "Description_de": "Die Gesellschaft braucht Dich! Bist Du bereit Verantwortung \n für die Gesundheit anderer zu übernehmen und dort zu unterstützen, wo Hilfebedarf besteht? Sei Du die Person, die Menschen in allen  Altersstufen versorgt und sie dabei begleitet, ihre \nGesu[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "professionnel des soins infirmiers",
-    "description": "La société a besoin de vous ! Êtes-vous prêt à prendre soin de la santé des autres et à apporter votre soutien là où ils en ont besoin ? Prenez soin des personnes de tous âges et soutenez-les dans leur santé.",
+    "description": "La société a besoin de vous ! Êtes-vous prêt à prendre soin de la santé des autres et à apporter votre soutien là où ils en ont besoin ? Soyez celui qui prend soin des personnes de tous âges et les accompagne dans leur santé[...]",
     "title": "Formation en tant que professionnel infirmier"
   },
   {
@@ -1798,7 +1798,7 @@
     "Description_de": "Richtiges Verkaufen will gelernt sein\n Deine Ausbildung zum Verkäufer (m/w/d) im Lebensmitteleinzelhandel ist eine abwechslungsreiche und vielseitige Tätigkeit, die  Kontaktfreudigkeit erfordert. Denn die freundliche Beratung und der tägliche Service f[ ... ]",
     "Training_de": "Verkäufer/in",
     "Training": "Vendeuse",
-    "description": "Une bonne vente exige de la pratique\nVotre formation de vendeur (h/f/d) dans le secteur de la distribution alimentaire est un métier varié et diversifié qui exige de la sociabilité. Parce que les conseils avisés et le service quotidien[...]",
+    "description": "Une bonne vente exige de la pratique\nVotre formation de vendeur (h/f/d) dans le secteur de la distribution alimentaire est un métier varié et diversifié qui exige de la sociabilité. Parce que les conseils avisés et le service au quotidien[...]",
     "title": "Formation pour devenir vendeur"
   },
   {
@@ -1815,7 +1815,7 @@
     "Description_de": "Führe eine unserer Filialen zum Erfolg\n\nDu möchtest mehr erreichen und Verantwortung übernehmen – auch ohne Studium? Dann ist unsere Fachausbildung zum Marktleiter (m/w/d) genau das Richtige für dich. In 2 bis 2,5 Jahren erwirbst du den IHK-Abschluss[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "Commis de vente au détail",
-    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir responsable de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de commerce et d'industrie (IHK)[...]",
+    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir responsable de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez le diplôme de la Chambre de commerce et d'industrie (IHK)[...]",
     "title": "Formation spécialisée pour devenir chef de marché"
   },
   {
@@ -1934,7 +1934,7 @@
     "Description_de": "Ergotherapie ist eine ganzheitliche medizinisch-therapeutische Behandlung, die auch pädagogische, psychologische und soziale Aspekte einbezieht. Sie erhalten somit einen weit gefächerten Einblick in verschiedenste Themenbereiche. Hier eine Auswahl:Ar[ ... ]",
     "Training_de": "Ergotherapeut/in",
     "Training": "ergothérapeute",
-    "description": "L'ergothérapie est une approche médico-thérapeutique holistique qui intègre également des aspects éducatifs, psychologiques et sociaux. Elle offre un aperçu complet d'un large éventail de sujets. En voici une sélection :[...]",
+    "description": "L'ergothérapie est un traitement médico-thérapeutique holistique qui intègre également des aspects éducatifs, psychologiques et sociaux. Elle offre un aperçu complet de sujets variés. En voici une sélection :[...]",
     "title": "Formation d'ergothérapeute"
   },
   {
@@ -2138,7 +2138,7 @@
     "Description_de": "Gesundheits- und Krankenpflegehelferinnen und Krankenpflegehelfer pflegen Menschen im Krankenhaus, in Pflegeheimen oder zu Hause. Sie tun dies nach Anweisung und unter Anleitung einer Pflegefachkraft. Sie fördern die Selbständigkeit von Pflegebedürft[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "Les aides-soignants soignent les personnes à l'hôpital, en maison de retraite ou à domicile. Ils exercent leur activité sous la direction d'une infirmière qualifiée. Ils favorisent l'autonomie des personnes nécessitant des soins[...]",
+    "description": "Les aides-soignants soignent les personnes à l'hôpital, en maison de retraite ou à domicile. Ils exercent leurs activités sous la direction d'une infirmière qualifiée. Ils favorisent l'autonomie des personnes nécessitant des soins[...]",
     "title": "Formation d'assistant de santé et d'infirmière"
   },
   {
@@ -2189,7 +2189,7 @@
     "Description_de": "Als Gesundheits- und Krankenpflegehelfer sind Sie die rechte Hand der examinierten Pflegekräfte auf Station. Sie pflegen und versorgen kranke und pflegebedürftige Menschen unter der Anleitung von Pflegefachkräften, begleiten den Genesungsprozess, unt[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "En tant qu'aide-soignant, vous êtes le bras droit des infirmières diplômées d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de la santé, vous accompagnez leur rétablissement et [...]",
+    "description": "En tant qu'aide-soignant(e), vous êtes le bras droit des infirmières diplômées d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de la santé, vous accompagnez leur rétablissement et [...]",
     "title": "Formation d'assistant de santé et d'infirmière"
   },
   {
@@ -2257,7 +2257,7 @@
     "Description_de": "Pflegefachfrauen und -männer erfassen den Zustand und die Bedürfnisse der Patient'*innen individuell und setzen sich dafür ein, ihre Gesundheit und Eigenständigkeit wieder zu erlangen, zu verbessern, zu erhalten und zu fördern - mit engagierter mensc[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "professionnel des soins infirmiers",
-    "description": "Les infirmières évaluent l'état et les besoins de leurs patients individuellement et s'engagent à retrouver, améliorer, maintenir et promouvoir leur santé et leur indépendance - avec des ressources humaines engagées[...]",
+    "description": "Les infirmières évaluent l'état et les besoins de leurs patients individuellement et s'efforcent de retrouver, d'améliorer, de maintenir et de promouvoir leur santé et leur indépendance - avec des ressources humaines engagées[...]",
     "title": "Formation en tant que professionnel infirmier"
   },
   {
@@ -2290,7 +2290,7 @@
     "date": "2024-12-22T11:50:44Z",
     "Description_de": "Der Ausbildungsberuf Kauffrau/-mann im Gesundheitswesen ermöglicht dir die Kombination von kaufmännischem Wissen mit gesundheitsspezifischen Themen.",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
     "description": "L'apprentissage en tant que gestionnaire d'entreprise dans le secteur de la santé vous permet de combiner des connaissances commerciales avec des sujets spécifiques à la santé.",
     "title": "Apprentissage en tant que gestionnaire d'entreprise dans le secteur de la santé"
   },
@@ -2358,7 +2358,7 @@
     "date": "2024-12-22T11:50:39Z",
     "Description_de": "­",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
     "description": "­",
     "title": "Formation de commis à la gestion de bureau"
   },
@@ -2444,7 +2444,7 @@
     "Description_de": "Der Studiengang qualifiziert Dich für die vielfältigen Einsatzgebiete des Sportmarktes und bereitet Dich auf Schlüsselpositionen z. B. in Vereinen, Verbänden, bei Agenturen, Sportartikelherstellern sowie in kommerziellen Sport- und Freizeitanlagen vo[ ... ]",
     "Training_de": "Duales Studium Sportökonomie",
     "Training": "Programme d'études doubles en économie du sport",
-    "description": "Le programme vous qualifie pour les divers domaines du marché du sport et vous prépare à des postes clés, par exemple, dans des clubs, des associations, des agences, des fabricants d'articles de sport et des installations commerciales de sport et de loisirs.[...]",
+    "description": "Le programme vous qualifie pour les divers domaines du marché du sport et vous prépare à des postes clés, par exemple, dans des clubs, des associations, des agences, des fabricants d'articles de sport et dans des installations commerciales de sport et de loisirs.[...]",
     "title": "Programme d'études doubles Baccalauréat ès arts en économie du sport"
   },
   {
@@ -2461,7 +2461,7 @@
     "Description_de": "Ab 01.09.2025 suchen wir für unseren Standort Tübingen Auszubildende alsCHEMIELABORANT (M/W/D). SAGE YES ZU CHT:\nSpannende Aufgaben in einem etablierten, erfolgreichen Unternehmen\nIntensive Einarbeitung in Deine Aufgabe\nEin professionelles Umfeld in Ve[ ... ]",
     "Training_de": "Chemielaborant/in",
     "Training": "technicien de laboratoire de chimie",
-    "description": "À compter du 1er septembre 2025, nous recherchons des stagiaires pour devenir techniciens de laboratoire en chimie (H/F/D) sur notre site de Tübingen. DITES OUI AU CHT :\nDes missions passionnantes au sein d'une entreprise établie et prospère\nUne formation intensive adaptée à votre poste\nUn environnement professionnel dans [ ... ]",
+    "description": "À compter du 1er septembre 2025, nous recherchons des stagiaires pour devenir techniciens de laboratoire en chimie (H/F/D) sur notre site de Tübingen. DITES OUI AU CHT :\nDes missions stimulantes au sein d'une entreprise établie et prospère\nUne formation intensive adaptée à votre poste\nUn environnement professionnel dans [ ... ]",
     "title": "Formation de technicien de laboratoire chimique"
   },
   {
@@ -2580,7 +2580,7 @@
     "Description_de": "Du möchtest in der Pflege arbeiten und beruflich flexibel bleiben? Dann ist der/die Pflegefachmann:frau die richtige Ausbildung für Dich!Mit der neuen generalistischen Ausbildung vereinen wir die drei Pflegefachberufe Altenpflege, Gesundheits- und Kr[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "professionnel des soins infirmiers",
-    "description": "Vous souhaitez travailler dans le secteur infirmier tout en conservant une certaine flexibilité professionnelle ? Alors, le diplôme d'infirmier est fait pour vous ! Avec cette nouvelle formation généraliste, nous combinons les trois professions infirmières : soins gériatriques, santé et cr[ ... ]",
+    "description": "Vous souhaitez travailler dans le secteur infirmier tout en conservant une certaine flexibilité professionnelle ? Alors, le diplôme d'infirmier est fait pour vous ! Cette nouvelle formation généraliste combine les trois professions infirmières : soins gériatriques, santé et cr[ ... ]",
     "title": "Formation en tant que professionnel infirmier"
   },
   {
@@ -2648,7 +2648,7 @@
     "Description_de": "Der Studiengang qualifiziert Dich zur Spezialistin bzw. zum Spezialisten in der Prävention, die bzw. der gesundheitsförderliche Maßnahmen in den zentralen Handlungsfeldern Bewegung, Ernährung und Entspannung/- Stressmanagement plant, koordiniert, ums[ ... ]",
     "Training_de": "Duales Studium Gesundheitsmanagement",
     "Training": "Programme d'études doubles en gestion de la santé",
-    "description": "Le cours vous qualifie en tant que spécialiste en prévention qui planifie, coordonne et met en œuvre des mesures de promotion de la santé dans les domaines clés de l'exercice, de la nutrition et de la relaxation/gestion du stress.[...]",
+    "description": "Le cours vous qualifie en tant que spécialiste en prévention qui planifie, coordonne et met en œuvre des mesures de promotion de la santé dans les domaines clés de l'exercice, de la nutrition et de la relaxation/gestion du stress[...]",
     "title": "Programme d'études doubles Baccalauréat en gestion de la santé"
   }
 ]
