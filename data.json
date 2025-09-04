@@ -234,7 +234,7 @@
     "Description_de": "Dein Berufsbild:Du möchtest irgendwas mit Mathe machen, aber so praxisnah wie möglich? Dann studiere Elektro- und Informationstechnik mit vertiefter Praxis bei Siemens Mobility und krempele schon mal die Ärmel hoch! Ingenieure (w/m/d) der Elektro- un[ ... ]",
     "Training_de": "Duales Studium Elektro- und Informationstechnik",
     "Training": "Programme d'études doubles en génie électrique et informatique",
-    "description": "Votre profil professionnel : Vous souhaitez vous spécialiser dans les mathématiques, tout en bénéficiant d'une expérience pratique optimale ? Alors, étudiez le génie électrique et les technologies de l'information chez Siemens Mobility et bénéficiez d'une solide expérience pratique. Préparez-vous à relever vos manches ! Ingénieurs en génie électrique et informatique (f/h/d)[ ... ]",
+    "description": "Votre profil professionnel : Vous souhaitez vous spécialiser dans les mathématiques, tout en bénéficiant d'une expérience pratique optimale ? Alors, étudiez le génie électrique et les technologies de l'information chez Siemens Mobility et bénéficiez d'une solide expérience pratique. Préparez-vous à relever vos manches ! Ingénieurs en électricité et technologies de l'information (f/h/d) [ ... ]",
     "title": "Programme de génie électrique et de l'information (B.Eng.) avec formation pratique approfondie 2025"
   },
   {
@@ -592,7 +592,7 @@
     "Training_de": "Operationstechnische/r Assistent/in",
     "Training": "assistant de salle d'opération",
     "description": "Vous souhaitez travailler aux côtés d'autres professionnels au bloc opératoire ? Vous recherchez un centre de formation convivial où nous nous rencontrons sur un pied d'égalité et apprenons à nous connaître personnellement ? Alors, vous êtes au bon endroit : la Kreisspitalstiftung Wei[ ... ]",
-    "title": "Formation d'assistant chirurgical"
+    "title": "Formation d'assistant de salle d'opération"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-mtr-medizinische-r-technologe-technologin-fuer-radiologie-m-w-d-bei-universitaetsklinikum-ulm-akademie-fuer-gesundheitsberufe-in-ulm-8071f3c0-5009-4b91-9944-32fb3a536215/",
@@ -608,7 +608,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Radiologie arbeiten mit modernsten medizinischen Geräten, wie CT-Scannern, MRTs und Röntgengeräten, um hochauflösende Bilder des Körpers zu erstellen. An der Schnittstelle zwischen Technik, Ärzt*innen und P[ ... ]",
     "Training_de": "MTR (Medizinische/r Technologe/Technologin für Radiologie)",
     "Training": "MTR (Technologue médical en radiologie)",
-    "description": "Les radiologues médicaux utilisent des équipements médicaux de pointe, tels que des scanners, des IRM et des appareils à rayons X, pour créer des images haute résolution du corps. À l'interface entre la technologie, les médecins et [...]",
+    "description": "Les technologues en radiologie médicale utilisent des équipements médicaux de pointe, tels que des scanners, des IRM et des appareils de radiographie, pour créer des images haute résolution du corps. À l'interface entre la technologie, les médecins et [...]",
     "title": "Formation en technologie médicale pour la radiologie"
   },
   {
@@ -965,7 +965,7 @@
     "Description_de": "Als Gesundheits- und Krankenpflegehelfer sind Sie die rechte Hand der examinierten Pflegekräfte auf Station. Sie pflegen und versorgen kranke und pflegebedürftige Menschen unter der Anleitung von Pflegefachkräften, begleiten den Genesungsprozess, unt[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "En tant qu'aide-soignant(e), vous êtes le bras droit des infirmières diplômées d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de la santé, vous accompagnez leur rétablissement et [...]",
+    "description": "En tant qu'aide-soignant, vous êtes le bras droit des infirmières diplômées d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de la santé, vous accompagnez leur rétablissement et [...]",
     "title": "Formation d'assistant de santé et d'infirmière"
   },
   {
@@ -1066,7 +1066,7 @@
     "date": "2024-12-22T11:52:09Z",
     "Description_de": "Der Ausbildungsberuf Kauffrau/-mann im Gesundheitswesen ermöglicht dir die Kombination von kaufmännischem Wissen mit gesundheitsspezifischen Themen.",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
     "description": "L'apprentissage d'assistant de gestion des soins de santé vous permet de combiner des connaissances commerciales avec des sujets spécifiques à la santé.",
     "title": "Apprentissage en tant que gestionnaire d'entreprise dans le secteur de la santé"
   },
@@ -1134,7 +1134,7 @@
     "date": "2024-12-22T11:52:05Z",
     "Description_de": "­",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
     "description": "­",
     "title": "Formation de commis à la gestion de bureau"
   },
@@ -1152,7 +1152,7 @@
     "Description_de": "Ausbildung als Pflegefachmann/-frau (Start: 01.04.2025)(m/w/d)\nStell dir vor, du arbeitest für das größte diakonische Pflegeunternehmen in Baden-Württemberg[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "professionnel des soins infirmiers",
-    "description": "Formation d'infirmier(ère) (Début : 1er avril 2025) (h/f/d)\nImaginez travailler pour la plus grande entreprise de soins infirmiers diaconaux du Bade-Wurtemberg[ ... ]",
+    "description": "Formation d'infirmier (Début : 1er avril 2025) (h/f/d)\nImaginez travailler pour la plus grande organisation infirmière diaconale du Bade-Wurtemberg[ ... ]",
     "title": "Formation en tant que professionnel infirmier"
   },
   {
@@ -1169,7 +1169,7 @@
     "Description_de": "Ausbildung als Pflegefachmann/-frau (Start: 01.04.2025)(m/w/d)\nStell dir vor, du arbeitest für das größte diakonische Pflegeunternehmen in Baden-Württemberg[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "professionnel des soins infirmiers",
-    "description": "Formation d'infirmier(ère) (Début : 1er avril 2025) (h/f/d)\nImaginez travailler pour la plus grande entreprise de soins infirmiers diaconaux du Bade-Wurtemberg[ ... ]",
+    "description": "Formation d'infirmier (Début : 1er avril 2025) (h/f/d)\nImaginez travailler pour la plus grande organisation infirmière diaconale du Bade-Wurtemberg[ ... ]",
     "title": "Formation en tant que professionnel infirmier"
   },
   {
@@ -1356,7 +1356,7 @@
     "Description_de": "Richtiges Verkaufen will gelernt sein\n Deine Ausbildung zum Verkäufer (m/w/d) im Lebensmitteleinzelhandel ist eine abwechslungsreiche und vielseitige Tätigkeit, die    Kontaktfreudigkeit erfordert. Denn die freundliche Beratung und der tägliche Service f[ ... ]",
     "Training_de": "Verkäufer/in",
     "Training": "Vendeuse",
-    "description": "Une bonne vente exige de la pratique\nVotre formation de vendeur (h/f/d) dans le secteur de la distribution alimentaire est un métier varié et diversifié qui exige de la sociabilité. Parce que les conseils avisés et le service au quotidien[...]",
+    "description": "Une bonne vente exige de la pratique\nVotre formation de vendeur (h/f/d) dans le secteur de la distribution alimentaire est un métier varié et diversifié qui exige de la sociabilité. Parce que les conseils avisés et le service quotidien[...]",
     "title": "Formation pour devenir vendeur"
   },
   {
@@ -1798,7 +1798,7 @@
     "Description_de": "Richtiges Verkaufen will gelernt sein\n Deine Ausbildung zum Verkäufer (m/w/d) im Lebensmitteleinzelhandel ist eine abwechslungsreiche und vielseitige Tätigkeit, die  Kontaktfreudigkeit erfordert. Denn die freundliche Beratung und der tägliche Service f[ ... ]",
     "Training_de": "Verkäufer/in",
     "Training": "Vendeuse",
-    "description": "Une bonne vente exige de la pratique\nVotre formation de vendeur (h/f/d) dans le secteur de la distribution alimentaire est un métier varié et diversifié qui exige de la sociabilité. Parce que les conseils avisés et le service au quotidien[...]",
+    "description": "Une bonne vente exige de la pratique\nVotre formation de vendeur (h/f/d) dans le secteur de la distribution alimentaire est un métier varié et diversifié qui exige de la sociabilité. Parce que les conseils avisés et le service quotidien[...]",
     "title": "Formation pour devenir vendeur"
   },
   {
@@ -1883,7 +1883,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Funktionsdiagnostik (MTF) führen mit Hilfe medizinischer Geräte und komplexer elektronischer Messverfahren ärztlich verordnete Untersuchungen durch, um medizinische Informationen über die Funktionen des menschlic[ ... ]",
     "Training_de": "MTF (Medizinische/r Technologe/Technologin für Funktionsdiagnostik)",
     "Training": "MTF (Technologue médical en diagnostic fonctionnel)",
-    "description": "Les technologues médicaux en diagnostic fonctionnel (MTF) utilisent des dispositifs médicaux et des procédures de mesure électroniques complexes pour effectuer des examens médicalement prescrits afin d'obtenir des informations médicales sur les fonctions de l'être humain.",
+    "description": "Les technologues médicaux en diagnostic fonctionnel (MTF) utilisent des dispositifs médicaux et des procédures de mesure électroniques complexes pour effectuer des examens médicalement prescrits afin d'obtenir des informations médicales sur les fonctions de l'être humain[...]",
     "title": "Formation en technologie médicale pour le diagnostic fonctionnel"
   },
   {
@@ -1900,7 +1900,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Laboratoriumsanalytik (MTL) führen mit Hilfe verschiedener Verfahren und Techniken vielfältige labortechnische Untersuchungen durch. Die Arbeit der MTL bildet somit die Grundlage für jegliche gesicherte ärztliche[ ... ]",
     "Training_de": "MTL (Medizinische/r Technologe/Technologin für Laboratoriumsanalytik)",
     "Training": "MTL (Technologue médical en analyse de laboratoire)",
-    "description": "Les technologues médicaux en analyses de laboratoire (TML) effectuent une vaste gamme d'analyses de laboratoire à l'aide de procédures et de techniques variées. Leur travail constitue ainsi la base de toute analyse médicale fiable.",
+    "description": "Les technologues médicaux en analyse de laboratoire (TMA) effectuent une vaste gamme d'analyses de laboratoire à l'aide de procédures et de techniques variées. Leur travail constitue ainsi la base de toute analyse médicale fiable.",
     "title": "Formation en technologie médicale pour les analyses de laboratoire"
   },
   {
@@ -2189,7 +2189,7 @@
     "Description_de": "Als Gesundheits- und Krankenpflegehelfer sind Sie die rechte Hand der examinierten Pflegekräfte auf Station. Sie pflegen und versorgen kranke und pflegebedürftige Menschen unter der Anleitung von Pflegefachkräften, begleiten den Genesungsprozess, unt[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "En tant qu'aide-soignant(e), vous êtes le bras droit des infirmières diplômées d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de la santé, vous accompagnez leur rétablissement et [...]",
+    "description": "En tant qu'aide-soignant, vous êtes le bras droit des infirmières diplômées d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de la santé, vous accompagnez leur rétablissement et [...]",
     "title": "Formation d'assistant de santé et d'infirmière"
   },
   {
@@ -2290,7 +2290,7 @@
     "date": "2024-12-22T11:50:44Z",
     "Description_de": "Der Ausbildungsberuf Kauffrau/-mann im Gesundheitswesen ermöglicht dir die Kombination von kaufmännischem Wissen mit gesundheitsspezifischen Themen.",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
     "description": "L'apprentissage d'assistant de gestion des soins de santé vous permet de combiner des connaissances commerciales avec des sujets spécifiques à la santé.",
     "title": "Apprentissage en tant que gestionnaire d'entreprise dans le secteur de la santé"
   },
@@ -2358,7 +2358,7 @@
     "date": "2024-12-22T11:50:39Z",
     "Description_de": "­",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
     "description": "­",
     "title": "Formation de commis à la gestion de bureau"
   },
@@ -2376,7 +2376,7 @@
     "Description_de": "Ausbildung als Pflegefachmann/-frau (Start: 01.04.2025)(m/w/d)\nStell dir vor, du arbeitest für das größte diakonische Pflegeunternehmen in Baden-Württemberg[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "professionnel des soins infirmiers",
-    "description": "Formation d'infirmier(ère) (Début : 1er avril 2025) (h/f/d)\nImaginez travailler pour la plus grande entreprise de soins infirmiers diaconaux du Bade-Wurtemberg[ ... ]",
+    "description": "Formation d'infirmier (Début : 1er avril 2025) (h/f/d)\nImaginez travailler pour la plus grande organisation infirmière diaconale du Bade-Wurtemberg[ ... ]",
     "title": "Formation en tant que professionnel infirmier"
   },
   {
@@ -2393,7 +2393,7 @@
     "Description_de": "Ausbildung als Pflegefachmann/-frau (Start: 01.04.2025)(m/w/d)\nStell dir vor, du arbeitest für das größte diakonische Pflegeunternehmen in Baden-Württemberg[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "professionnel des soins infirmiers",
-    "description": "Formation d'infirmier(ère) (Début : 1er avril 2025) (h/f/d)\nImaginez travailler pour la plus grande entreprise de soins infirmiers diaconaux du Bade-Wurtemberg[ ... ]",
+    "description": "Formation d'infirmier (Début : 1er avril 2025) (h/f/d)\nImaginez travailler pour la plus grande organisation infirmière diaconale du Bade-Wurtemberg[ ... ]",
     "title": "Formation en tant que professionnel infirmier"
   },
   {
@@ -2563,7 +2563,7 @@
     "Description_de": "Das erwartet Dich bei uns:\nTheorie &amp; Praxis im Wechsel:&nbsp;Dein Theorieunterricht findet an einer Pflegeschule statt, während Du im praktischen Teil in unserer Einrichtung sowie in Krankenhäuser[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "professionnel des soins infirmiers",
-    "description": "Ce que vous pouvez attendre de nous :\nAlternance théorie et pratique : votre formation théorique se déroulera dans une école d'infirmières, tandis que la partie pratique se déroulera dans nos locaux et en milieu hospitalier.",
+    "description": "Ce qui vous attend chez nous :\nAlternance théorie et pratique : votre formation théorique se déroulera dans une école d'infirmières, tandis que la partie pratique se déroulera dans nos locaux et en milieu hospitalier.",
     "title": "Formation pour devenir un professionnel des soins infirmiers"
   },
   {
@@ -2580,7 +2580,7 @@
     "Description_de": "Du möchtest in der Pflege arbeiten und beruflich flexibel bleiben? Dann ist der/die Pflegefachmann:frau die richtige Ausbildung für Dich!Mit der neuen generalistischen Ausbildung vereinen wir die drei Pflegefachberufe Altenpflege, Gesundheits- und Kr[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "professionnel des soins infirmiers",
-    "description": "Vous souhaitez travailler dans le secteur infirmier tout en conservant une certaine flexibilité professionnelle ? Alors, la qualification d'infirmier est faite pour vous ! Cette nouvelle formation généraliste combine les trois professions infirmières : soins gériatriques, santé et cr[ ... ]",
+    "description": "Vous souhaitez travailler dans le secteur infirmier tout en conservant une certaine flexibilité professionnelle ? Alors, la qualification d'infirmier est faite pour vous ! Avec cette nouvelle formation généraliste, nous combinons les trois professions infirmières : soins gériatriques, santé et cr[ ... ]",
     "title": "Formation en tant que professionnel infirmier"
   },
   {
