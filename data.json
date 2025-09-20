@@ -81,7 +81,7 @@
     "Description_de": "Führe eine unserer Filialen zum Erfolg\n\nDu möchtest mehr erreichen und Verantwortung übernehmen – auch ohne Studium? Dann ist unsere Fachausbildung zum Marktleiter (m/w/d) genau das Richtige für dich. In 2 bis 2,5 Jahren erwirbst du den IHK-Abschluss[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "Employé de magasin",
-    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir directeur de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de commerce et d'industrie (IHK)[...]",
+    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir responsable de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de commerce et d'industrie (IHK)[...]",
     "title": "Formation spécialisée pour devenir chef de marché"
   },
   {
@@ -149,7 +149,7 @@
     "Description_de": "Die Förderung von Kindern liegt Dir am Herzen? Dann bewirb Dich für ein duales Studium Kindheitspädagogik und gestalte die Zukunft von Kindern aktiv mit.👧🧒",
     "Training_de": "Duales Studium Sozialpädagogik",
     "Training": "Programme d'études en alternance en pédagogie sociale",
-    "description": "Soutenir les enfants est-il important pour vous ? Alors, postulez pour un double diplôme en éducation de la petite enfance et participez activement à façonner l'avenir des enfants.",
+    "description": "Soutenir les enfants est important pour vous ? Alors, postulez pour un double diplôme en éducation de la petite enfance et participez activement à façonner l'avenir des enfants.",
     "title": "Programme d'études doubles en éducation de l'enfance (B.A.)"
   },
   {
@@ -557,7 +557,7 @@
     "Description_de": "Führe eine unserer Filialen zum Erfolg\n\nDu möchtest mehr erreichen und Verantwortung übernehmen – auch ohne Studium? Dann ist unsere Fachausbildung zum Marktleiter (m/w/d) genau das Richtige für dich. In 2 bis 2,5 Jahren erwirbst du den IHK-Abschluss[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "Employé de magasin",
-    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir directeur de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de commerce et d'industrie (IHK)[...]",
+    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir responsable de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de commerce et d'industrie (IHK)[...]",
     "title": "Formation spécialisée pour devenir chef de marché"
   },
   {
@@ -574,7 +574,7 @@
     "Description_de": "Die Operationstechnischen Assistent*innen  sind ein unverzichtbarer Bestandteil im OP-Team. Sie übernehmen vielfältige Aufgaben, die zum reibungslosen Ablauf einer Operation beitragen. In ihrer Rüstung aka OP-Kleidung sorgen sie für die optimale[ ... ]",
     "Training_de": "Operationstechnische/r Assistent/in",
     "Training": "assistant de salle d'opération",
-    "description": "Les techniciens chirurgicaux sont un élément indispensable de l'équipe chirurgicale. Ils effectuent un large éventail de tâches qui contribuent au bon déroulement d'une intervention. Vêtus de leur tenue chirurgicale, ils assurent un fonctionnement optimal[...]",
+    "description": "Les techniciens chirurgicaux sont un élément indispensable de l'équipe chirurgicale. Ils effectuent un large éventail de tâches qui contribuent au bon déroulement d'une intervention. Vêtus de leur tenue chirurgicale, ils assurent un[...]",
     "title": "Formation d'assistant chirurgical"
   },
   {
@@ -608,7 +608,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Radiologie arbeiten mit modernsten medizinischen Geräten, wie CT-Scannern, MRTs und Röntgengeräten, um hochauflösende Bilder des Körpers zu erstellen. An der Schnittstelle zwischen Technik, Ärzt*innen und P[ ... ]",
     "Training_de": "MTR (Medizinische/r Technologe/Technologin für Radiologie)",
     "Training": "MTR (Technologue médical en radiologie)",
-    "description": "Les technologues en radiologie médicale utilisent des équipements médicaux de pointe, tels que des scanners, des IRM et des appareils à rayons X, pour créer des images haute résolution du corps. À l'interface entre la technologie, les médecins et [...]",
+    "description": "Les radiologues médicaux utilisent des équipements médicaux de pointe, tels que des scanners, des IRM et des appareils à rayons X, pour créer des images haute résolution du corps. À l'interface entre la technologie, les médecins et [...]",
     "title": "Formation en technologie médicale pour la radiologie"
   },
   {
@@ -813,7 +813,7 @@
     "Training_de": "Heilerziehungspfleger/in",
     "Training": "Enseignant en éducation spécialisée",
     "description": "Description succincte\nFormation de 3 ans\nDiplôme : Licence professionnelle\nAlternance théorie-pratique\nRémunération de la formation en pratique professionnelle\n\nConditions d'admission :\n\nBaccalauréat et stage de 12 mois\nBaccalauréat et formation complémentaire [ ... ]",
-    "title": "Formation d'infirmière spécialisée"
+    "title": "Formation d'enseignant spécialisé"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-pflegefachmann-frau-m-w-d-bei-psychiatrisches-zentrum-nordbaden-in-wiesloch-61cbe462-9c67-4f68-aa6f-8355c24d9cac/",
@@ -965,7 +965,7 @@
     "Description_de": "Als Gesundheits- und Krankenpflegehelfer sind Sie die rechte Hand der examinierten Pflegekräfte auf Station. Sie pflegen und versorgen kranke und pflegebedürftige Menschen unter der Anleitung von Pflegefachkräften, begleiten den Genesungsprozess, unt[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "En tant qu'aide-soignant(e), vous êtes le bras droit des infirmiers(ères) diplômé(e)s d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de santé, vous les accompagnez dans leur rétablissement et [...]",
+    "description": "En tant qu'aide-soignant(e), vous êtes le bras droit des infirmières diplômées d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de santé, vous les accompagnez dans leur rétablissement et [...]",
     "title": "Formation d'assistant de santé et d'infirmière"
   },
   {
@@ -1017,7 +1017,7 @@
     "Training_de": "Heilerziehungspfleger/in",
     "Training": "Enseignant en éducation spécialisée",
     "description": "À partir de maintenant, « Plus d'opportunités » ! Pour les personnes en situation de handicap et, bien sûr, pour vous, votre formation et votre avenir parmi nous. Si vous êtes motivé, avez le sens des relations sociales et savez ce qui motive les autres, vous êtes au bon endroit. […]",
-    "title": "Formation d'infirmière spécialisée"
+    "title": "Formation d'enseignant spécialisé"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-pflegefachmann-frau-m-w-d-bei-zentrum-fuer-psychiatrie-klinikum-schloss-winnenden-adoer-in-winnenden-f9b0c294-f1aa-48d4-b568-2ef6bc897e7d/",
@@ -1203,7 +1203,7 @@
     "Description_de": "Du möchtest für andere Menschen da sein. Du bist einfühlsam im Umgang mit kranken oder alten Menschen. Du arbeitest gerne im Team.Und Du willst eine praxisorientierte Ausbildung machen, auf die du aufbauen kannst.Dann gestalte dein[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "Vous souhaitez être présent pour les autres. Vous faites preuve d'empathie envers les personnes malades ou âgées. Vous aimez travailler en équipe. Et vous souhaitez suivre une formation pratique et enrichissante. Alors, concevez votre[ ... ]",
+    "description": "Vous souhaitez être présent pour les autres. Vous faites preuve d'empathie auprès des personnes malades ou âgées. Vous aimez travailler en équipe. Et vous souhaitez suivre une formation pratique et enrichissante. Alors, concevez votre[ ... ]",
     "title": "Formation d'assistant de santé et d'infirmière"
   },
   {
@@ -1815,7 +1815,7 @@
     "Description_de": "Führe eine unserer Filialen zum Erfolg\n\nDu möchtest mehr erreichen und Verantwortung übernehmen – auch ohne Studium? Dann ist unsere Fachausbildung zum Marktleiter (m/w/d) genau das Richtige für dich. In 2 bis 2,5 Jahren erwirbst du den IHK-Abschluss[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "Employé de magasin",
-    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir directeur de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de commerce et d'industrie (IHK)[...]",
+    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir responsable de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de commerce et d'industrie (IHK)[...]",
     "title": "Formation spécialisée pour devenir chef de marché"
   },
   {
@@ -2037,7 +2037,7 @@
     "Training_de": "Heilerziehungspfleger/in",
     "Training": "Enseignant en éducation spécialisée",
     "description": "Description succincte\nFormation de 3 ans\nDiplôme : Licence professionnelle\nAlternance théorie-pratique\nRémunération de la formation en pratique professionnelle\n\nConditions d'admission :\n\nBaccalauréat et stage de 12 mois\nBaccalauréat et formation complémentaire [ ... ]",
-    "title": "Formation d'infirmière spécialisée"
+    "title": "Formation d'enseignant spécialisé"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-pflegefachmann-frau-m-w-d-bei-psychiatrisches-zentrum-nordbaden-in-wiesloch-61cbe462-9c67-4f68-aa6f-8355c24d9cac/",
@@ -2189,7 +2189,7 @@
     "Description_de": "Als Gesundheits- und Krankenpflegehelfer sind Sie die rechte Hand der examinierten Pflegekräfte auf Station. Sie pflegen und versorgen kranke und pflegebedürftige Menschen unter der Anleitung von Pflegefachkräften, begleiten den Genesungsprozess, unt[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "En tant qu'aide-soignant(e), vous êtes le bras droit des infirmiers(ères) diplômé(e)s d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de santé, vous les accompagnez dans leur rétablissement et [...]",
+    "description": "En tant qu'aide-soignant(e), vous êtes le bras droit des infirmières diplômées d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de santé, vous les accompagnez dans leur rétablissement et [...]",
     "title": "Formation d'assistant de santé et d'infirmière"
   },
   {
@@ -2241,7 +2241,7 @@
     "Training_de": "Heilerziehungspfleger/in",
     "Training": "Enseignant en éducation spécialisée",
     "description": "À partir de maintenant, « Plus d'opportunités » ! Pour les personnes en situation de handicap et, bien sûr, pour vous, votre formation et votre avenir parmi nous. Si vous êtes motivé, avez le sens des relations sociales et savez ce qui motive les autres, vous êtes au bon endroit. […]",
-    "title": "Formation d'infirmière spécialisée"
+    "title": "Formation d'enseignant spécialisé"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-pflegefachmann-frau-m-w-d-bei-zentrum-fuer-psychiatrie-klinikum-schloss-winnenden-adoer-in-winnenden-f9b0c294-f1aa-48d4-b568-2ef6bc897e7d/",
@@ -2427,7 +2427,7 @@
     "Description_de": "Du möchtest für andere Menschen da sein. Du bist einfühlsam im Umgang mit kranken oder alten Menschen. Du arbeitest gerne im Team.Und Du willst eine praxisorientierte Ausbildung machen, auf die du aufbauen kannst.Dann gestalte dein[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "Vous souhaitez être présent pour les autres. Vous faites preuve d'empathie envers les personnes malades ou âgées. Vous aimez travailler en équipe. Et vous souhaitez suivre une formation pratique et enrichissante. Alors, concevez votre[ ... ]",
+    "description": "Vous souhaitez être présent pour les autres. Vous faites preuve d'empathie auprès des personnes malades ou âgées. Vous aimez travailler en équipe. Et vous souhaitez suivre une formation pratique et enrichissante. Alors, concevez votre[ ... ]",
     "title": "Formation d'assistant de santé et d'infirmière"
   },
   {
@@ -2529,7 +2529,7 @@
     "Description_de": "Chemie, Naturwissenschaften und Technik sind genau dein Ding? On top wünscht du dir einen zukunftsorientierten Traumjob mit vielfältigen Einsatzmöglichkeiten? Du hast Wissenshunger und willst herausfinden, was noch in dir steckt? Dann b[ ... ]",
     "Training_de": "Chemielaborant/in",
     "Training": "technicien de laboratoire en chimie",
-    "description": "La chimie, les sciences naturelles et la technologie sont-elles votre truc ? Envie d'un emploi de rêve, porteur d'avenir et offrant un large éventail d'opportunités ? Vous avez soif de connaissances et souhaitez découvrir vos autres talents ? Alors b[ ... ]",
+    "description": "La chimie, les sciences naturelles et la technologie sont-elles votre truc ? Envie d'un emploi de rêve, porteur d'avenir et offrant un large éventail d'opportunités ? Vous avez soif de connaissances et souhaitez découvrir vos autres talents ? Alors, b[ ... ]",
     "title": "Formation de technicien de laboratoire en chimie"
   },
   {
@@ -2564,7 +2564,7 @@
     "Training_de": "Pflegefachmann/-frau",
     "Training": "professionnel des soins infirmiers",
     "description": "Ce que vous pouvez attendre de nous :\nAlternance théorie et pratique : Votre formation théorique se déroulera en école d'infirmières, tandis que la partie pratique se déroulera dans nos locaux et en milieu hospitalier.",
-    "title": "Formation pour devenir professionnel des soins infirmiers"
+    "title": "Formation pour devenir un professionnel des soins infirmiers"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-pflegefachmann-frau-m-w-d-bei-maxq-im-bfw-unternehmen-fuer-bildung-berufsfortbildungswerk-gemeinnuetzige-bildungseinrichtung-des-dgb-gmbh-bfw-in-stuttgart-c443fe1e-6b95-4901-8f12-fdb6ebe105ae/",
@@ -2614,7 +2614,7 @@
     "Description_de": "Hast du Interesse an der Betreuung und Pflege älterer Menschen? Mach eine Ausbildung in der Altenpflegehilfe.In nur einem Jahr zu einem Job mit besten Zukunftsaussichten – Ausbildung zum/zur Altenpflegehelfer:inVerbinde deine Kompetenz im Umgang mit [ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "assistant en soins gériatriques",
-    "description": "Vous souhaitez prendre soin des personnes âgées et les accompagner ? Formez-vous au métier d'aide-soignant gériatrique. En un an seulement, obtenez un emploi prometteur grâce à cette formation. Misez sur votre expertise en matière de prise en charge des personnes âgées.",
+    "description": "Vous souhaitez prendre soin des personnes âgées et les accompagner ? Formez-vous au métier d'aide-soignant gériatrique. En un an seulement, obtenez un emploi prometteur. Combinez votre expertise en gestion des personnes âgées avec […]",
     "title": "Formation d'assistant en soins gériatriques"
   },
   {
