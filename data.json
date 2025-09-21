@@ -81,7 +81,7 @@
     "Description_de": "Führe eine unserer Filialen zum Erfolg\n\nDu möchtest mehr erreichen und Verantwortung übernehmen – auch ohne Studium? Dann ist unsere Fachausbildung zum Marktleiter (m/w/d) genau das Richtige für dich. In 2 bis 2,5 Jahren erwirbst du den IHK-Abschluss[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "Employé de magasin",
-    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir directeur de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de commerce et d'industrie (IHK)[...]",
+    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir responsable de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de commerce et d'industrie (IHK)[...]",
     "title": "Formation spécialisée pour devenir chef de marché"
   },
   {
@@ -234,7 +234,7 @@
     "Description_de": "Dein Berufsbild:Du möchtest irgendwas mit Mathe machen, aber so praxisnah wie möglich? Dann studiere Elektro- und Informationstechnik mit vertiefter Praxis bei Siemens Mobility und krempele schon mal die Ärmel hoch! Ingenieure (w/m/d) der Elektro- un[ ... ]",
     "Training_de": "Duales Studium Elektro- und Informationstechnik",
     "Training": "Programme d'études en alternance en génie électrique et informatique",
-    "description": "Votre profil professionnel : Vous souhaitez vous spécialiser dans les mathématiques, tout en bénéficiant d'une expérience pratique optimale ? Alors, étudiez le génie électrique et les technologies de l'information chez Siemens Mobility et bénéficiez d'une solide expérience pratique. Préparez-vous à relever vos manches ! Ingénieurs en génie électrique et informatique (f/h/d)[ ... ]",
+    "description": "Votre profil professionnel : Vous souhaitez vous spécialiser dans les mathématiques, tout en bénéficiant d'une expérience pratique optimale ? Alors, étudiez le génie électrique et les technologies de l'information chez Siemens Mobility et bénéficiez d'une solide expérience pratique. Préparez-vous à relever vos manches ! Ingénieurs en électricité et technologies de l'information (f/h/d) [ ... ]",
     "title": "Programme de génie électrique et de l'information (B.Eng.) avec formation pratique approfondie 2025"
   },
   {
@@ -557,7 +557,7 @@
     "Description_de": "Führe eine unserer Filialen zum Erfolg\n\nDu möchtest mehr erreichen und Verantwortung übernehmen – auch ohne Studium? Dann ist unsere Fachausbildung zum Marktleiter (m/w/d) genau das Richtige für dich. In 2 bis 2,5 Jahren erwirbst du den IHK-Abschluss[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "Employé de magasin",
-    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir directeur de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de commerce et d'industrie (IHK)[...]",
+    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir responsable de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de commerce et d'industrie (IHK)[...]",
     "title": "Formation spécialisée pour devenir chef de marché"
   },
   {
@@ -574,7 +574,7 @@
     "Description_de": "Die Operationstechnischen Assistent*innen  sind ein unverzichtbarer Bestandteil im OP-Team. Sie übernehmen vielfältige Aufgaben, die zum reibungslosen Ablauf einer Operation beitragen. In ihrer Rüstung aka OP-Kleidung sorgen sie für die optimale[ ... ]",
     "Training_de": "Operationstechnische/r Assistent/in",
     "Training": "assistant de salle d'opération",
-    "description": "Les techniciens chirurgicaux sont un élément indispensable de l'équipe chirurgicale. Ils effectuent un large éventail de tâches qui contribuent au bon déroulement d'une opération. Vêtus de leur tenue chirurgicale, ils assurent un fonctionnement optimal[...]",
+    "description": "Les techniciens chirurgicaux sont un élément indispensable de l'équipe chirurgicale. Ils effectuent un large éventail de tâches qui contribuent au bon déroulement d'une intervention. Vêtus de leur tenue chirurgicale, ils assurent un[...]",
     "title": "Formation d'assistant chirurgical"
   },
   {
@@ -592,7 +592,7 @@
     "Training_de": "Operationstechnische/r Assistent/in",
     "Training": "assistant de salle d'opération",
     "description": "Vous souhaitez travailler aux côtés d'autres professionnels au bloc opératoire ? Vous recherchez un centre de formation convivial où nous nous rencontrons sur un pied d'égalité et apprenons à nous connaître personnellement ? Alors, vous êtes au bon endroit : la Kreisspitalstiftung Wei[ ... ]",
-    "title": "Formation d'assistant de salle d'opération"
+    "title": "Formation d'assistant chirurgical"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-mtr-medizinische-r-technologe-technologin-fuer-radiologie-m-w-d-bei-universitaetsklinikum-ulm-akademie-fuer-gesundheitsberufe-in-ulm-8071f3c0-5009-4b91-9944-32fb3a536215/",
@@ -608,7 +608,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Radiologie arbeiten mit modernsten medizinischen Geräten, wie CT-Scannern, MRTs und Röntgengeräten, um hochauflösende Bilder des Körpers zu erstellen. An der Schnittstelle zwischen Technik, Ärzt*innen und P[ ... ]",
     "Training_de": "MTR (Medizinische/r Technologe/Technologin für Radiologie)",
     "Training": "MTR (Technologue médical en radiologie)",
-    "description": "Les radiologues médicaux utilisent des équipements médicaux de pointe, tels que des scanners, des IRM et des appareils à rayons X, pour créer des images haute résolution du corps. À l'interface entre la technologie, les médecins et [...]",
+    "description": "Les technologues en radiologie médicale utilisent des équipements médicaux de pointe, tels que des scanners, des IRM et des appareils à rayons X, pour créer des images haute résolution du corps. À l'interface entre la technologie, les médecins et [...]",
     "title": "Formation en technologie médicale pour la radiologie"
   },
   {
@@ -813,7 +813,7 @@
     "Training_de": "Heilerziehungspfleger/in",
     "Training": "Enseignant en éducation spécialisée",
     "description": "Description succincte\nFormation de 3 ans\nDiplôme : Licence professionnelle\nAlternance théorie-pratique\nRémunération de la formation en pratique professionnelle\n\nConditions d'admission :\n\nBaccalauréat et stage de 12 mois\nBaccalauréat et formation complémentaire [ ... ]",
-    "title": "Formation d'infirmière spécialisée"
+    "title": "Formation d'enseignant spécialisé"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-pflegefachmann-frau-m-w-d-bei-psychiatrisches-zentrum-nordbaden-in-wiesloch-61cbe462-9c67-4f68-aa6f-8355c24d9cac/",
@@ -965,7 +965,7 @@
     "Description_de": "Als Gesundheits- und Krankenpflegehelfer sind Sie die rechte Hand der examinierten Pflegekräfte auf Station. Sie pflegen und versorgen kranke und pflegebedürftige Menschen unter der Anleitung von Pflegefachkräften, begleiten den Genesungsprozess, unt[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "En tant qu'aide-soignant(e), vous êtes le bras droit des infirmières diplômées d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de santé, vous les accompagnez dans leur rétablissement et [...]",
+    "description": "En tant qu'aide-soignant(e), vous êtes le bras droit des infirmiers(ères) diplômé(e)s d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de santé, vous les accompagnez dans leur rétablissement et [...]",
     "title": "Formation d'assistant de santé et d'infirmière"
   },
   {
@@ -1017,7 +1017,7 @@
     "Training_de": "Heilerziehungspfleger/in",
     "Training": "Enseignant en éducation spécialisée",
     "description": "À partir de maintenant, « Plus d'opportunités » ! Pour les personnes en situation de handicap et, bien sûr, pour vous, votre formation et votre avenir parmi nous. Si vous êtes motivé, avez le sens des relations sociales et savez ce qui motive les autres, vous êtes au bon endroit. […]",
-    "title": "Formation d'infirmière spécialisée"
+    "title": "Formation d'enseignant spécialisé"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-pflegefachmann-frau-m-w-d-bei-zentrum-fuer-psychiatrie-klinikum-schloss-winnenden-adoer-in-winnenden-f9b0c294-f1aa-48d4-b568-2ef6bc897e7d/",
@@ -1050,7 +1050,7 @@
     "Description_de": "Info: Bei ausländischem Schulabschluss ist die Anerkennung der\nGleichwertigkeit des Schulabschlusses sowie der Nachweis der deutschen\nSprachkenntnisse auf B2-Niveau erforderlich",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "assistant en soins gériatriques",
-    "description": "Remarque : Si vous êtes titulaire d'un diplôme de fin d'études étranger, une reconnaissance de l'équivalence du diplôme de fin d'études et une preuve de compétences en langue allemande au niveau B2 sont requises.",
+    "description": "Remarque : Si vous êtes titulaire d'un diplôme de fin d'études étranger, une reconnaissance de l'équivalence du diplôme de fin d'études et une preuve de compétences en allemand au niveau B2 sont requises.",
     "title": "Formation d'assistant en soins gériatriques"
   },
   {
@@ -1066,7 +1066,7 @@
     "date": "2024-12-22T11:52:09Z",
     "Description_de": "Der Ausbildungsberuf Kauffrau/-mann im Gesundheitswesen ermöglicht dir die Kombination von kaufmännischem Wissen mit gesundheitsspezifischen Themen.",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
     "description": "L'apprentissage d'assistant de gestion des soins de santé vous permet de combiner des connaissances commerciales avec des sujets spécifiques à la santé.",
     "title": "Apprentissage en tant que gestionnaire d'entreprise dans le secteur de la santé"
   },
@@ -1134,7 +1134,7 @@
     "date": "2024-12-22T11:52:05Z",
     "Description_de": "­",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
     "description": "­",
     "title": "Formation de commis à la gestion de bureau"
   },
@@ -1186,7 +1186,7 @@
     "Description_de": "In der Pflege hast du die Chance, jeden Tag einen echten Unterschied im Leben von Menschen zu machen. Arbeitszeit ist auch Lebenszeit: Als Pflegehelfer:in (w/m/d) bereicherst du den Alltag deiner Mitmenschen und sorgst dafür, dass ihre Welt ein klein[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "assistant en soins gériatriques",
-    "description": "En soins infirmiers, vous avez l'opportunité d'améliorer concrètement la vie des gens au quotidien. Le temps de travail est aussi une vie : en tant qu'aide-soignant (f/h/d), vous enrichissez le quotidien de ceux qui vous entourent et embellissez leur quotidien. […]",
+    "description": "En soins infirmiers, vous avez l'opportunité d'améliorer concrètement la vie des gens au quotidien. Le temps de travail est aussi une vie : en tant qu'aide-soignant (f/h/d), vous enrichissez le quotidien de ceux qui vous entourent et leur offrez un cadre de vie plus agréable. […]",
     "title": "Formation d'aide-soignant (f/h/d)"
   },
   {
@@ -1407,7 +1407,7 @@
     "Description_de": "Die Förderung von Kindern liegt Dir am Herzen? Dann bewirb Dich für ein duales Studium Kindheitspädagogik und gestalte die Zukunft von Kindern aktiv mit.&nbsp;👧🧒",
     "Training_de": "Duales Studium Sozialpädagogik",
     "Training": "Programme d'études en alternance en pédagogie sociale",
-    "description": "Soutenir les enfants est important pour vous ? Alors, postulez pour un double diplôme en éducation de la petite enfance et participez activement à façonner l'avenir des enfants. 👧🧒",
+    "description": "Soutenir les enfants est-il important pour vous ? Alors, postulez pour un double diplôme en éducation de la petite enfance et participez activement à façonner l'avenir des enfants.",
     "title": "Programme d'études en alternance en éducation de la petite enfance"
   },
   {
@@ -1815,7 +1815,7 @@
     "Description_de": "Führe eine unserer Filialen zum Erfolg\n\nDu möchtest mehr erreichen und Verantwortung übernehmen – auch ohne Studium? Dann ist unsere Fachausbildung zum Marktleiter (m/w/d) genau das Richtige für dich. In 2 bis 2,5 Jahren erwirbst du den IHK-Abschluss[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "Employé de magasin",
-    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir directeur de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de commerce et d'industrie (IHK)[...]",
+    "description": "Menez l'un de nos magasins vers le succès\n\nEnvie de vous dépasser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir responsable de magasin (h/f/d) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de commerce et d'industrie (IHK)[...]",
     "title": "Formation spécialisée pour devenir chef de marché"
   },
   {
@@ -1900,7 +1900,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Laboratoriumsanalytik (MTL) führen mit Hilfe verschiedener Verfahren und Techniken vielfältige labortechnische Untersuchungen durch. Die Arbeit der MTL bildet somit die Grundlage für jegliche gesicherte ärztliche[ ... ]",
     "Training_de": "MTL (Medizinische/r Technologe/Technologin für Laboratoriumsanalytik)",
     "Training": "MTL (Technologue médical en analyse de laboratoire)",
-    "description": "Les technologues médicaux en analyses de laboratoire (TML) effectuent une vaste gamme d'analyses de laboratoire à l'aide de procédures et de techniques variées. Leur travail constitue ainsi la base de toute analyse médicale fiable.",
+    "description": "Les technologues médicaux en analyses de laboratoire (TML) effectuent une vaste gamme d'analyses de laboratoire à l'aide de procédures et de techniques variées. Leur travail constitue ainsi la base de toute analyse médicale fiable[ ... ]",
     "title": "Formation en technologie médicale pour les analyses de laboratoire"
   },
   {
@@ -2037,7 +2037,7 @@
     "Training_de": "Heilerziehungspfleger/in",
     "Training": "Enseignant en éducation spécialisée",
     "description": "Description succincte\nFormation de 3 ans\nDiplôme : Licence professionnelle\nAlternance théorie-pratique\nRémunération de la formation en pratique professionnelle\n\nConditions d'admission :\n\nBaccalauréat et stage de 12 mois\nBaccalauréat et formation complémentaire [ ... ]",
-    "title": "Formation d'infirmière spécialisée"
+    "title": "Formation d'enseignant spécialisé"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-pflegefachmann-frau-m-w-d-bei-psychiatrisches-zentrum-nordbaden-in-wiesloch-61cbe462-9c67-4f68-aa6f-8355c24d9cac/",
@@ -2189,7 +2189,7 @@
     "Description_de": "Als Gesundheits- und Krankenpflegehelfer sind Sie die rechte Hand der examinierten Pflegekräfte auf Station. Sie pflegen und versorgen kranke und pflegebedürftige Menschen unter der Anleitung von Pflegefachkräften, begleiten den Genesungsprozess, unt[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "Assistante de santé et infirmière",
-    "description": "En tant qu'aide-soignant(e), vous êtes le bras droit des infirmières diplômées d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de santé, vous les accompagnez dans leur rétablissement et [...]",
+    "description": "En tant qu'aide-soignant(e), vous êtes le bras droit des infirmiers(ères) diplômé(e)s d'État du service. Vous prenez soin des personnes malades et dépendantes sous la supervision de professionnels de santé, vous les accompagnez dans leur rétablissement et [...]",
     "title": "Formation d'assistant de santé et d'infirmière"
   },
   {
@@ -2241,7 +2241,7 @@
     "Training_de": "Heilerziehungspfleger/in",
     "Training": "Enseignant en éducation spécialisée",
     "description": "À partir de maintenant, « Plus d'opportunités » ! Pour les personnes en situation de handicap et, bien sûr, pour vous, votre formation et votre avenir parmi nous. Si vous êtes motivé, avez le sens des relations sociales et savez ce qui motive les autres, vous êtes au bon endroit. […]",
-    "title": "Formation d'infirmière spécialisée"
+    "title": "Formation d'enseignant spécialisé"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-pflegefachmann-frau-m-w-d-bei-zentrum-fuer-psychiatrie-klinikum-schloss-winnenden-adoer-in-winnenden-f9b0c294-f1aa-48d4-b568-2ef6bc897e7d/",
@@ -2274,7 +2274,7 @@
     "Description_de": "Info: Bei ausländischem Schulabschluss ist die Anerkennung der\nGleichwertigkeit des Schulabschlusses sowie der Nachweis der deutschen\nSprachkenntnisse auf B2-Niveau erforderlich",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "assistant en soins gériatriques",
-    "description": "Remarque : Si vous êtes titulaire d'un diplôme de fin d'études étranger, une reconnaissance de l'équivalence du diplôme de fin d'études et une preuve de compétences en langue allemande au niveau B2 sont requises.",
+    "description": "Remarque : Si vous êtes titulaire d'un diplôme de fin d'études étranger, une reconnaissance de l'équivalence du diplôme de fin d'études et une preuve de compétences en allemand au niveau B2 sont requises.",
     "title": "Formation d'assistant en soins gériatriques"
   },
   {
@@ -2290,7 +2290,7 @@
     "date": "2024-12-22T11:50:44Z",
     "Description_de": "Der Ausbildungsberuf Kauffrau/-mann im Gesundheitswesen ermöglicht dir die Kombination von kaufmännischem Wissen mit gesundheitsspezifischen Themen.",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
     "description": "L'apprentissage d'assistant de gestion des soins de santé vous permet de combiner des connaissances commerciales avec des sujets spécifiques à la santé.",
     "title": "Apprentissage en tant que gestionnaire d'entreprise dans le secteur de la santé"
   },
@@ -2358,7 +2358,7 @@
     "date": "2024-12-22T11:50:39Z",
     "Description_de": "­",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
     "description": "­",
     "title": "Formation de commis à la gestion de bureau"
   },
@@ -2410,7 +2410,7 @@
     "Description_de": "In der Pflege hast du die Chance, jeden Tag einen echten Unterschied im Leben von Menschen zu machen. Arbeitszeit ist auch Lebenszeit: Als Pflegehelfer:in (w/m/d) bereicherst du den Alltag deiner Mitmenschen und sorgst dafür, dass ihre Welt ein klein[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "assistant en soins gériatriques",
-    "description": "En soins infirmiers, vous avez l'opportunité d'améliorer concrètement la vie des gens au quotidien. Le temps de travail est aussi une vie : en tant qu'aide-soignant (f/h/d), vous enrichissez le quotidien de ceux qui vous entourent et embellissez leur quotidien. […]",
+    "description": "En soins infirmiers, vous avez l'opportunité d'améliorer concrètement la vie des gens au quotidien. Le temps de travail est aussi une vie : en tant qu'aide-soignant (f/h/d), vous enrichissez le quotidien de ceux qui vous entourent et leur offrez un cadre de vie plus agréable. […]",
     "title": "Formation d'aide-soignant (f/h/d)"
   },
   {
@@ -2495,7 +2495,7 @@
     "Description_de": "Du interessierst Dich für Chemie und die Geheimnisse der Natur, besitzen mathematisch-naturwissenschaftliches Verständnis sowie experimentelles Geschick? Dann kommt eine Ausbildung zum Chemielaboranten (m/w/d)&nbsp;für Dich in Frage.Chemielaboranten [ ... ]",
     "Training_de": "Chemielaborant/in",
     "Training": "technicien de laboratoire en chimie",
-    "description": "Vous êtes intéressé par la chimie et les mystères de la nature, vous avez de solides connaissances en mathématiques et en sciences, et vous possédez des compétences expérimentales ? Alors, un apprentissage de technicien de laboratoire en chimie (h/f/d) pourrait vous convenir. Techniciens de laboratoire en chimie [ ... ]",
+    "description": "Vous êtes intéressé par la chimie et les mystères de la nature ? Vous possédez des connaissances mathématiques et scientifiques ainsi que des compétences expérimentales ? Alors, un apprentissage de technicien de laboratoire en chimie (h/f/d) pourrait vous convenir. Techniciens de laboratoire en chimie [ ... ]",
     "title": "Formation de technicien de laboratoire en chimie"
   },
   {
@@ -2529,7 +2529,7 @@
     "Description_de": "Chemie, Naturwissenschaften und Technik sind genau dein Ding? On top wünscht du dir einen zukunftsorientierten Traumjob mit vielfältigen Einsatzmöglichkeiten? Du hast Wissenshunger und willst herausfinden, was noch in dir steckt? Dann b[ ... ]",
     "Training_de": "Chemielaborant/in",
     "Training": "technicien de laboratoire en chimie",
-    "description": "La chimie, les sciences naturelles et la technologie sont-elles votre truc ? Envie d'un emploi de rêve, porteur d'avenir et offrant un large éventail d'opportunités ? Vous avez soif de connaissances et souhaitez découvrir vos autres talents ? Alors b[ ... ]",
+    "description": "La chimie, les sciences naturelles et la technologie sont-elles votre truc ? Envie d'un emploi de rêve, porteur d'avenir et offrant un large éventail d'opportunités ? Vous avez soif de connaissances et souhaitez découvrir vos autres talents ? Alors, b[ ... ]",
     "title": "Formation de technicien de laboratoire en chimie"
   },
   {
@@ -2563,7 +2563,7 @@
     "Description_de": "Das erwartet Dich bei uns:\nTheorie &amp; Praxis im Wechsel:&nbsp;Dein Theorieunterricht findet an einer Pflegeschule statt, während Du im praktischen Teil in unserer Einrichtung sowie in Krankenhäuser[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "professionnel des soins infirmiers",
-    "description": "Ce que vous pouvez attendre de nous :\nAlternance théorie et pratique : Votre formation théorique se déroulera en école d'infirmières, tandis que la partie pratique se déroulera dans nos locaux et en milieu hospitalier.",
+    "description": "Ce qui vous attend chez nous :\nAlternance théorie et pratique : votre formation théorique se déroulera dans une école d'infirmières, tandis que la partie pratique se déroulera dans nos locaux et en milieu hospitalier.",
     "title": "Formation pour devenir professionnel des soins infirmiers"
   },
   {
