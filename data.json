@@ -149,7 +149,7 @@
     "Description_de": "Die Förderung von Kindern liegt Dir am Herzen? Dann bewirb Dich für ein duales Studium Kindheitspädagogik und gestalte die Zukunft von Kindern aktiv mit.👧🧒",
     "Training_de": "Duales Studium Sozialpädagogik",
     "Training": "Programme d'études en alternance en pédagogie sociale",
-    "description": "Soutenir les enfants est-il important pour vous ? Alors, postulez pour un double diplôme en éducation de la petite enfance et participez activement à façonner l'avenir des enfants.",
+    "description": "Soutenir les enfants est important pour vous ? Alors, postulez pour un double diplôme en éducation de la petite enfance et participez activement à façonner l'avenir des enfants.",
     "title": "Programme d'études doubles en éducation de l'enfance (B.A.)"
   },
   {
@@ -574,7 +574,7 @@
     "Description_de": "Die Operationstechnischen Assistent*innen  sind ein unverzichtbarer Bestandteil im OP-Team. Sie übernehmen vielfältige Aufgaben, die zum reibungslosen Ablauf einer Operation beitragen. In ihrer Rüstung aka OP-Kleidung sorgen sie für die optimale[ ... ]",
     "Training_de": "Operationstechnische/r Assistent/in",
     "Training": "assistant de salle d'opération",
-    "description": "Les techniciens chirurgicaux sont un élément indispensable de l'équipe chirurgicale. Ils effectuent un large éventail de tâches qui contribuent au bon déroulement d'une intervention. Vêtus de leur tenue chirurgicale, ils assurent un fonctionnement optimal[...]",
+    "description": "Les techniciens chirurgicaux sont un élément indispensable de l'équipe chirurgicale. Ils effectuent un large éventail de tâches qui contribuent au bon déroulement d'une intervention. Vêtus de leur tenue chirurgicale, ils assurent un[...]",
     "title": "Formation d'assistant chirurgical"
   },
   {
@@ -592,7 +592,7 @@
     "Training_de": "Operationstechnische/r Assistent/in",
     "Training": "assistant de salle d'opération",
     "description": "Vous souhaitez travailler aux côtés d'autres professionnels au bloc opératoire ? Vous recherchez un centre de formation convivial où nous nous rencontrons sur un pied d'égalité et apprenons à nous connaître personnellement ? Alors, vous êtes au bon endroit : la Kreisspitalstiftung Wei[ ... ]",
-    "title": "Formation d'assistant de salle d'opération"
+    "title": "Formation d'assistant chirurgical"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-mtr-medizinische-r-technologe-technologin-fuer-radiologie-m-w-d-bei-universitaetsklinikum-ulm-akademie-fuer-gesundheitsberufe-in-ulm-8071f3c0-5009-4b91-9944-32fb3a536215/",
@@ -1066,7 +1066,7 @@
     "date": "2024-12-22T11:52:09Z",
     "Description_de": "Der Ausbildungsberuf Kauffrau/-mann im Gesundheitswesen ermöglicht dir die Kombination von kaufmännischem Wissen mit gesundheitsspezifischen Themen.",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
     "description": "L'apprentissage d'assistant de gestion des soins de santé vous permet de combiner des connaissances commerciales avec des sujets spécifiques à la santé.",
     "title": "Apprentissage en tant que gestionnaire d'entreprise dans le secteur de la santé"
   },
@@ -1134,7 +1134,7 @@
     "date": "2024-12-22T11:52:05Z",
     "Description_de": "­",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
     "description": "­",
     "title": "Formation de commis à la gestion de bureau"
   },
@@ -1951,7 +1951,7 @@
     "Description_de": "In der dreijährigen Ausbildung erwerben Sie ein breites Spektrum an Fähigkeiten und Fertigkeiten in verschiedensten Bereichen der Medizin/Physiotherapie.Inhalte sind unter anderem folgende Module:Bewegungssystem: Hier wird schwerpunktmäßig die funkti[ ... ]",
     "Training_de": "Physiotherapeut/in",
     "Training": "Physiothérapeute",
-    "description": "Durant cette formation de trois ans, vous acquerrez un large éventail de compétences et d'aptitudes dans divers domaines de la médecine et de la physiothérapie. Le contenu comprend les modules suivants : Système moteur : Ce module se concentre sur le système fonctionnel [ ... ]",
+    "description": "Durant cette formation de trois ans, vous acquerrez un large éventail de compétences et d'aptitudes dans divers domaines de la médecine et de la physiothérapie. Le contenu comprend les modules suivants : Système moteur : Ce module se concentre sur le fonctionnement [ ... ]",
     "title": "Formation de physiothérapeute"
   },
   {
@@ -2290,7 +2290,7 @@
     "date": "2024-12-22T11:50:44Z",
     "Description_de": "Der Ausbildungsberuf Kauffrau/-mann im Gesundheitswesen ermöglicht dir die Kombination von kaufmännischem Wissen mit gesundheitsspezifischen Themen.",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
     "description": "L'apprentissage d'assistant de gestion des soins de santé vous permet de combiner des connaissances commerciales avec des sujets spécifiques à la santé.",
     "title": "Apprentissage en tant que gestionnaire d'entreprise dans le secteur de la santé"
   },
@@ -2358,7 +2358,7 @@
     "date": "2024-12-22T11:50:39Z",
     "Description_de": "­",
     "Training_de": "Kauffrau/-mann im Gesundheitswesen",
-    "Training": "Femme d'affaires/-manières dans le secteur de la santé",
+    "Training": "Femme d'affaires/-manière dans le secteur de la santé",
     "description": "­",
     "title": "Formation de commis à la gestion de bureau"
   },
@@ -2495,7 +2495,7 @@
     "Description_de": "Du interessierst Dich für Chemie und die Geheimnisse der Natur, besitzen mathematisch-naturwissenschaftliches Verständnis sowie experimentelles Geschick? Dann kommt eine Ausbildung zum Chemielaboranten (m/w/d)&nbsp;für Dich in Frage.Chemielaboranten [ ... ]",
     "Training_de": "Chemielaborant/in",
     "Training": "technicien de laboratoire en chimie",
-    "description": "Vous êtes intéressé par la chimie et les mystères de la nature ? Vous possédez des connaissances mathématiques et scientifiques ainsi que des compétences expérimentales ? Alors, un apprentissage de technicien de laboratoire en chimie (h/f/d) pourrait vous convenir. Techniciens de laboratoire en chimie [ ... ]",
+    "description": "Vous êtes intéressé par la chimie et les mystères de la nature, vous avez de solides connaissances en mathématiques et en sciences, et vous possédez des compétences expérimentales ? Alors, un apprentissage de technicien de laboratoire en chimie (h/f/d) pourrait vous convenir. Techniciens de laboratoire en chimie [ ... ]",
     "title": "Formation de technicien de laboratoire en chimie"
   },
   {
@@ -2512,7 +2512,7 @@
     "Description_de": "BE THE CHANGE I BE SGS&nbsp;heißt es für neugierige, leidenschaftliche und engagierte Menschen, die Stabilität, Entwicklungsmöglichkeiten und die Chance suchen, etwas zu bewirken. Die SGS-Gruppe ist das weltweit führende Unternehmen in den Bereichen [ ... ]",
     "Training_de": "Chemielaborant/in",
     "Training": "technicien de laboratoire en chimie",
-    "description": "SOYEZ LE CHANGEMENT I BE SGS s'adresse aux personnes curieuses, passionnées et engagées qui recherchent la stabilité, des opportunités de développement et la chance de faire la différence. Le groupe SGS est le leader mondial [...]",
+    "description": "SOYEZ LE CHANGEMENT, JE SUIS SGS est la devise des personnes curieuses, passionnées et engagées en quête de stabilité, d'opportunités d'évolution et de changement. Le groupe SGS est le leader mondial [...]",
     "title": "Formation de technicien de laboratoire en chimie"
   },
   {
@@ -2529,7 +2529,7 @@
     "Description_de": "Chemie, Naturwissenschaften und Technik sind genau dein Ding? On top wünscht du dir einen zukunftsorientierten Traumjob mit vielfältigen Einsatzmöglichkeiten? Du hast Wissenshunger und willst herausfinden, was noch in dir steckt? Dann b[ ... ]",
     "Training_de": "Chemielaborant/in",
     "Training": "technicien de laboratoire en chimie",
-    "description": "La chimie, les sciences naturelles et la technologie sont-elles votre truc ? Envie d'un emploi de rêve, porteur d'avenir et offrant un large éventail d'opportunités ? Vous avez soif de connaissances et souhaitez découvrir vos autres talents ? Alors, b[ ... ]",
+    "description": "La chimie, les sciences naturelles et la technologie sont-elles votre truc ? Envie d'un emploi de rêve, porteur d'avenir et offrant un large éventail d'opportunités ? Vous avez soif de connaissances et souhaitez découvrir vos autres talents ? Alors b[ ... ]",
     "title": "Formation de technicien de laboratoire en chimie"
   },
   {
@@ -2563,7 +2563,7 @@
     "Description_de": "Das erwartet Dich bei uns:\nTheorie &amp; Praxis im Wechsel:&nbsp;Dein Theorieunterricht findet an einer Pflegeschule statt, während Du im praktischen Teil in unserer Einrichtung sowie in Krankenhäuser[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "professionnel des soins infirmiers",
-    "description": "Ce qui vous attend chez nous :\nAlternance théorie et pratique : votre formation théorique se déroulera dans une école d'infirmières, tandis que la partie pratique se déroulera dans nos locaux et en milieu hospitalier.",
+    "description": "Ce que vous pouvez attendre de nous :\nAlternance théorie et pratique : Votre formation théorique se déroulera en école d'infirmières, tandis que la partie pratique se déroulera dans nos locaux et en milieu hospitalier.",
     "title": "Formation pour devenir un professionnel des soins infirmiers"
   },
   {
