@@ -13,7 +13,7 @@
     "Description_de": "Unsere Kunden und Kundinnen aus der Gastronomie sind unsere Motivation. Mit Leidenschaft, Kompetenz und Empathie tun wir alles dafür, sie optimal zu unterstützen. Unsere Mitarbeitenden sind unser Erfolgsrezept. Wir sind stolz [ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur offrir le meilleur soutien possible. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
+    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur apporter un soutien optimal. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
     "title": "Apprentissage comme vendeur en magasin"
   },
   {
@@ -30,7 +30,7 @@
     "Description_de": "Unsere Kunden und Kundinnen aus der Gastronomie sind unsere Motivation. Mit Leidenschaft, Kompetenz und Empathie tun wir alles dafür, sie optimal zu unterstützen. Unsere Mitarbeitenden sind unser Erfolgsrezept. Wir sind stolz [ ... ]",
     "Training_de": "Fachlagerist/in",
     "Training": "spécialiste d'entrepôt",
-    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur offrir le meilleur soutien possible. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
+    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur apporter un soutien optimal. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
     "title": "Formation de spécialiste d'entrepôt"
   },
   {
@@ -46,7 +46,7 @@
     "date": "2024-12-22T11:53:22Z",
     "Description_de": "In deiner 3-jährigen Ausbildung eignest du dir Techniken der Verkaufsförderung an und wirst zum Profi auf deinem Gebiet: Neben der freundlichen und sachkundigen Bedienung und Beratung der Kundschaft lernst du, wie wichtig die Präsentation und Dekorat[ ... ]",
     "Training_de": "Bäckereifachverkäufer/in",
-    "Training": "vendeur en boulangerie",
+    "Training": "Vendeur en boulangerie",
     "description": "Durant vos 3 années d'apprentissage, vous acquerrez des techniques de promotion des ventes et deviendrez un professionnel dans votre domaine : en plus de fournir un service et des conseils amicaux et compétents aux clients, vous apprendrez l'importance de la présentation et de la décoration[ ... ]",
     "title": "Apprentissage comme vendeur en boulangerie"
   },
@@ -81,7 +81,7 @@
     "Description_de": "Führe eine unserer Filialen zum Erfolg\n\nDu möchtest mehr erreichen und Verantwortung übernehmen – auch ohne Studium? Dann ist unsere Fachausbildung zum Marktleiter (m/w/d) genau das Richtige für dich. In 2 bis 2,5 Jahren erwirbst du den IHK-Abschluss[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Menez l'une de nos succursales au succès\n\nVous souhaitez évoluer et prendre des responsabilités, même sans diplôme universitaire ? Notre programme de formation spécialisée pour devenir responsable de magasin (H/F/D) est fait pour vous. En 2 à 2,5 ans, vous obtiendrez la qualification IHK (Chambre de Commerce et d'Industrie) [...]",
+    "description": "Menez l'un de nos magasins au succès\n\nEnvie de progresser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir gérant(e) de magasin (H/F/D) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de Commerce et d'Industrie (CCI).",
     "title": "Formation professionnelle pour devenir gestionnaire de marché"
   },
   {
@@ -115,8 +115,8 @@
     "Description_de": "In deiner Ausbildung bei Denns BioMarkt lernst du nach und nach jeden Bereich deines Marktes kennen. Dabei erfährst du alles von A wie Abschreibung bis Z wie Zitrusfrüchte. Du unterstützt dein Team tatkräftig im Tagesgeschäft und sorgst damit für ein[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects du magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe au quotidien et contribuerez ainsi à son bon fonctionnement.",
-    "title": "Apprentissage comme commis commercial"
+    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects de votre magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe dans ses opérations quotidiennes et contribuerez ainsi à son bon fonctionnement.",
+    "title": "Formation pour hommes et femmes d'affaires"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-kaufleute-im-einzelhandel-bei-globus-markthallen-holding-gmbh-co-kg-in-braunschweig-e2669a86-043a-4d05-95e2-89dbffc956cf/",
@@ -149,7 +149,7 @@
     "Description_de": "Die Förderung von Kindern liegt Dir am Herzen? Dann bewirb Dich für ein duales Studium Kindheitspädagogik und gestalte die Zukunft von Kindern aktiv mit.👧🧒",
     "Training_de": "Duales Studium Sozialpädagogik",
     "Training": "double cursus en pédagogie sociale",
-    "description": "Vous avez à cœur d'aider les enfants ? Alors, inscrivez-vous à un programme d'études en alternance en éducation de la petite enfance et contribuez activement à façonner l'avenir des enfants. 👧🧒",
+    "description": "Le soutien aux enfants vous tient à cœur ? Alors, inscrivez-vous à un programme de double diplôme en éducation de la petite enfance et contribuez activement à façonner l’avenir des enfants. 👧🧒",
     "title": "Double cursus d'études en éducation de la petite enfance (B.A.)"
   },
   {
@@ -200,7 +200,7 @@
     "Description_de": "Für uns ist&nbsp;„Let’s Go!“&nbsp;nicht einfach nur ein Slogan, sondern eine Einstellung. Wir lieben Technik und wir wollen begeistern. Wir haben Spaß und wir wollen inspirieren. Unsere Kunden und unser Team. Deshalb suchen wir Menschen, die diesen S[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Pour nous, « C’est parti ! » n’est pas qu’un slogan, c’est un état d’esprit. Nous sommes passionnés de technologie et nous voulons inspirer. Nous aimons nous amuser et nous voulons inspirer, nos clients comme nos équipes. C’est pourquoi nous recherchons des personnes qui partagent cet esprit.",
+    "description": "Pour nous, « C’est parti ! » n’est pas qu’un slogan, c’est un état d’esprit. Nous sommes passionnés de technologie et nous voulons inspirer. Nous prenons du plaisir et nous voulons inspirer, aussi bien nos clients que nos collaborateurs. C’est pourquoi nous recherchons des personnes qui partagent cet esprit.",
     "title": "Apprentissage comme vendeur en magasin"
   },
   {
@@ -303,7 +303,7 @@
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
     "description": "#VALUE!",
-    "title": "Apprentissage comme vendeur en magasin, spécialisé en charcuterie"
+    "title": "Apprentissage de vendeur en commerce de détail, spécialité charcuterie"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-zum-verkaeufer-fachrichtung-lebensmittel-m-w-d-bei-rewe-markt-gmbh-in-braunschweig-963274a4-9dd0-4561-883b-0545d5011477/",
@@ -336,7 +336,7 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de fournir à tous, partout et à tout moment, [...]",
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de proposer à tous, partout et à tout moment, [...]",
     "title": "Formation de vendeur ou de commerçant de détail"
   },
   {
@@ -353,8 +353,8 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Handelsfachwirt/in",
     "Training": "Spécialiste certifié du commerce de détail",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de fournir à tous, partout et à tout moment, [...]",
-    "title": "Programme d'Abiturient pour spécialistes commerciaux certifiés"
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de proposer à tous, partout et à tout moment, [...]",
+    "title": "Programme d'études secondaires pour les spécialistes commerciaux certifiés"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-verkaeufer-m-w-d-im-einzelhandel-bei-denns-biomarkt-gmbh-in-braunschweig-31186a8b-cdba-490b-9b40-c15741e434b6/",
@@ -370,7 +370,7 @@
     "Description_de": "In deiner Ausbildung bei Denns BioMarkt lernst du nach und nach jeden Bereich deines Marktes kennen. Dabei erfährst du alles von A wie Abschreibung bis Z wie Zitrusfrüchte. Du unterstützt dein Team tatkräftig im Tagesgeschäft und sorgst damit für ein[ ... ]",
     "Training_de": "Verkäufer/in",
     "Training": "Vendeuse",
-    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects du magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe au quotidien et contribuerez ainsi à son bon fonctionnement.",
+    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects de votre magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe dans ses opérations quotidiennes et contribuerez ainsi à son bon fonctionnement.",
     "title": "Formation des vendeurs"
   },
   {
@@ -387,8 +387,8 @@
     "Description_de": "In deiner Ausbildung bei Denns BioMarkt lernst du nach und nach jeden Bereich deines Marktes kennen. Dabei erfährst du alles von A wie Abschreibung bis Z wie Zitrusfrüchte. Du unterstützt dein Team tatkräftig im Tagesgeschäft und sorgst damit für ein[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects du magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe au quotidien et contribuerez ainsi à son bon fonctionnement.",
-    "title": "Apprentissage comme commis commercial"
+    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects de votre magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe dans ses opérations quotidiennes et contribuerez ainsi à son bon fonctionnement.",
+    "title": "Formation pour hommes et femmes d'affaires"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/auszubildende-verkaeufer-kaufleute-im-einzelhandel-m-w-d-2025-bei-a-t-u-auto-teile-unger-gmbh-co-kg-in-braunschweig-c266b358-a26e-430a-bdf8-39a9a782b5d2/",
@@ -422,7 +422,7 @@
     "Training_de": "Landschaftsgärtner/in",
     "Training": "paysagiste",
     "description": "Nous sommes une entreprise de taille moyenne en pleine croissance, spécialisée dans la conception de jardins et d'aménagements paysagers. Forts de plus de 40 ans d'expérience et d'une énergie renouvelée, nous concrétisons les rêves de nos clients. Dans la région de Brunswick, nous sommes les experts en aménagements paysagers de haute qualité et en entretien d'espaces verts.",
-    "title": "Formation de paysagiste / jardinier"
+    "title": "formation de paysagiste / jardinier"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-zum-kaufmann-im-einzelhandel-m-w-d-bei-metro-deutschland-gmbh-in-braunschweig-9f02d7f3-ac0a-45d3-a160-96f22b1c21fe/",
@@ -438,7 +438,7 @@
     "Description_de": "Unsere Kunden und Kundinnen aus der Gastronomie sind unsere Motivation. Mit Leidenschaft, Kompetenz und Empathie tun wir alles dafür, sie optimal zu unterstützen. Unsere Mitarbeitenden sind unser Erfolgsrezept. Wir sind stolz [ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur offrir le meilleur soutien possible. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
+    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur apporter un soutien optimal. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
     "title": "Apprentissage comme vendeur en magasin"
   },
   {
@@ -455,7 +455,7 @@
     "Description_de": "Unsere Kunden und Kundinnen aus der Gastronomie sind unsere Motivation. Mit Leidenschaft, Kompetenz und Empathie tun wir alles dafür, sie optimal zu unterstützen. Unsere Mitarbeitenden sind unser Erfolgsrezept. Wir sind stolz [ ... ]",
     "Training_de": "Fachlagerist/in",
     "Training": "spécialiste d'entrepôt",
-    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur offrir le meilleur soutien possible. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
+    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur apporter un soutien optimal. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
     "title": "Formation de spécialiste d'entrepôt"
   },
   {
@@ -472,7 +472,7 @@
     "Description_de": "Unsere Kunden und Kundinnen aus der Gastronomie sind unsere Motivation. Mit Leidenschaft, Kompetenz und Empathie tun wir alles dafür, sie optimal zu unterstützen. Unsere Mitarbeitenden sind unser Erfolgsrezept. Wir sind stolz [ ... ]",
     "Training_de": "Handelsfachwirt/in",
     "Training": "Spécialiste certifié du commerce de détail",
-    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur offrir le meilleur soutien possible. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
+    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur apporter un soutien optimal. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
     "title": "Programme d'études pour devenir spécialiste certifié du commerce de détail"
   },
   {
@@ -523,8 +523,8 @@
     "Description_de": "Unsere ACHAT Gruppe mit aktuell fast 50 Hotels und über 1.300 Mitarbeitenden sorgen täglich dafür, dass sich unsere Gäste wohlfühlen.Wir suchen professionelle Unterstützung, die wie wir, Lust auf einen innovativen, zukunftsorientierten und echt guten[ ... ]",
     "Training_de": "Hotelfachmann/-frau",
     "Training": "spécialiste hôtelier",
-    "description": "Notre groupe ACHAT, qui compte actuellement près de 50 hôtels et plus de 1 300 collaborateurs, veille chaque jour au confort de ses clients. Nous recherchons des professionnels qui, comme nous, sont passionnés par un environnement innovant, tourné vers l’avenir et véritablement axé sur l’excellence.",
-    "title": "Spécialiste hôtelière stagiaire / spécialiste hôtelière (femme)"
+    "description": "Notre groupe ACHAT, qui compte actuellement près de 50 hôtels et plus de 1 300 employés, veille à ce que nos clients se sentent comme chez eux chaque jour. Nous recherchons des professionnels qui, comme nous, s’intéressent à un environnement innovant, tourné vers l’avenir et véritablement axé sur l’excellence.",
+    "title": "stagiaire gérant d'hôtel"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-zum-verkaeufer-m-w-d-bei-netto-marken-discount-stiftung-co-kg-in-braunschweig-5d21627c-eb19-4818-a6b5-e6ce2193129c/",
@@ -557,7 +557,7 @@
     "Description_de": "Führe eine unserer Filialen zum Erfolg\n\nDu möchtest mehr erreichen und Verantwortung übernehmen – auch ohne Studium? Dann ist unsere Fachausbildung zum Marktleiter (m/w/d) genau das Richtige für dich. In 2 bis 2,5 Jahren erwirbst du den IHK-Abschluss[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Menez l'une de nos succursales au succès\n\nVous souhaitez évoluer et prendre des responsabilités, même sans diplôme universitaire ? Notre programme de formation spécialisée pour devenir responsable de magasin (H/F/D) est fait pour vous. En 2 à 2,5 ans, vous obtiendrez la qualification IHK (Chambre de Commerce et d'Industrie) [...]",
+    "description": "Menez l'un de nos magasins au succès\n\nEnvie de progresser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir gérant(e) de magasin (H/F/D) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de Commerce et d'Industrie (CCI).",
     "title": "Formation professionnelle pour devenir gestionnaire de marché"
   },
   {
@@ -574,7 +574,7 @@
     "Description_de": "Die Operationstechnischen Assistent*innen  sind ein unverzichtbarer Bestandteil im OP-Team. Sie übernehmen vielfältige Aufgaben, die zum reibungslosen Ablauf einer Operation beitragen. In ihrer Rüstung aka OP-Kleidung sorgen sie für die optimale[ ... ]",
     "Training_de": "Operationstechnische/r Assistent/in",
     "Training": "technicien chirurgical",
-    "description": "Les technologues en chirurgie sont un maillon indispensable de l'équipe du bloc opératoire. Ils accomplissent un large éventail de tâches qui contribuent au bon déroulement d'une intervention. Vêtus de leur tenue chirurgicale, ils assurent une protection optimale [...]",
+    "description": "Les techniciens de bloc opératoire sont un maillon indispensable de l'équipe. Ils accomplissent de nombreuses tâches qui contribuent au bon déroulement des interventions. Vêtus de leur tenue chirurgicale, ils assurent une protection optimale [...]",
     "title": "Formation d'assistant de salle d'opération"
   },
   {
@@ -607,8 +607,8 @@
     "date": "2024-12-22T11:52:45Z",
     "Description_de": "Die Medizinischen Technolog*innen für Radiologie arbeiten mit modernsten medizinischen Geräten, wie CT-Scannern, MRTs und Röntgengeräten, um hochauflösende Bilder des Körpers zu erstellen. An der Schnittstelle zwischen Technik, Ärzt*innen und P[ ... ]",
     "Training_de": "MTR (Medizinische/r Technologe/Technologin für Radiologie)",
-    "Training": "MTR (Technicien médical en radiologie)",
-    "description": "Les technologues en radiologie médicale utilisent des équipements médicaux de pointe, tels que les scanners, les IRM et les appareils à rayons X, pour créer des images haute résolution du corps. Ils assurent la liaison entre la technologie, les médecins et les patients.",
+    "Training": "MTR (Technologue médical en radiologie)",
+    "description": "Les radiologues médicaux utilisent des équipements médicaux de pointe, tels que des scanners, des IRM et des appareils à rayons X, pour créer des images haute résolution du corps. À l'interface entre la technologie, les médecins et [...]",
     "title": "Formation en technologie médicale pour la radiologie"
   },
   {
@@ -626,7 +626,7 @@
     "Training_de": "MTF (Medizinische/r Technologe/Technologin für Funktionsdiagnostik)",
     "Training": "MTF (Technologue médical en diagnostic fonctionnel)",
     "description": "Les technologues médicaux spécialisés en diagnostic fonctionnel utilisent des dispositifs médicaux et des procédures de mesure électroniques complexes pour réaliser des examens médicalement prescrits afin d'obtenir des informations médicales sur les fonctions du corps humain.",
-    "title": "Formation en technologies médicales pour le diagnostic fonctionnel"
+    "title": "Formation en technologie médicale pour le diagnostic fonctionnel"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/medizinische-technologie-fuer-laboratoriumsanalytik-mtl-bei-universitaetsklinikum-ulm-akademie-fuer-gesundheitsberufe-in-ulm-04f859c4-bf5e-4d54-8423-dd3aea9223de/",
@@ -641,8 +641,8 @@
     "date": "2024-12-22T11:52:42Z",
     "Description_de": "Die Medizinischen Technolog*innen für Laboratoriumsanalytik  führen mit Hilfe verschiedener Verfahren und Techniken vielfältige labortechnische Untersuchungen durch. Die Arbeit der MTL bildet somit die Grundlage für jegliche gesicherte ärztliche[ ... ]",
     "Training_de": "MTL (Medizinische/r Technologe/Technologin für Laboratoriumsanalytik)",
-    "Training": "MTL (Technologue médical en analyses de laboratoire)",
-    "description": "Les techniciens de laboratoire médical réalisent une vaste gamme d'analyses en utilisant diverses méthodes et techniques. Leur travail constitue ainsi la base de tout diagnostic médical fiable.",
+    "Training": "MTL (Technologue médical en analyse de laboratoire)",
+    "description": "Les technologues de laboratoire médical réalisent une vaste gamme d'analyses de laboratoire à l'aide de diverses méthodes et techniques. Leur travail constitue ainsi la base de tout diagnostic médical fiable.",
     "title": "Formation en technologie médicale pour les analyses de laboratoire"
   },
   {
@@ -694,7 +694,7 @@
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
     "description": "Vous recherchez une carrière variée et prometteuse ? Vous aimez travailler en équipe ? Vous souhaitez comprendre le fonctionnement du corps humain et les soins prodigués en médecine moderne ? Vous recherchez une entreprise de formation ? […]",
-    "title": "Formation en tant que professionnel infirmier"
+    "title": "formation en soins infirmiers"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-ergotherapeut-in-m-w-d-bei-krankenhaus-stiftung-der-niederbronner-schwestern-in-speyer-01f86c92-db4f-43e3-b654-7ff4c8dddd6a/",
@@ -727,7 +727,7 @@
     "Description_de": "In der dreijährigen Ausbildung erwerben Sie ein breites Spektrum an Fähigkeiten und Fertigkeiten in verschiedensten Bereichen der Medizin/Physiotherapie.Inhalte sind unter anderem folgende Module: Bewegungssystem: Hier wird schwerpunktmäßig die funkti[ ... ]",
     "Training_de": "Physiotherapeut/in",
     "Training": "Physiothérapeute",
-    "description": "Au cours de ce programme de formation de trois ans, vous acquerrez un large éventail de compétences dans divers domaines de la médecine et de la physiothérapie. Le cursus comprend les modules suivants : Système musculo-squelettique : Ce module est principalement axé sur les aspects fonctionnels [...]",
+    "description": "Au cours de cette formation de trois ans, vous acquerrez un large éventail de compétences et d'aptitudes dans divers domaines de la médecine/physiothérapie. Le contenu comprend les modules suivants : Système musculo-squelettique : Ce module est axé sur le fonctionnement […]",
     "title": "formation de physiothérapeute"
   },
   {
@@ -778,7 +778,7 @@
     "Description_de": "Pflegefachpersonen sind für die bestmögliche Versorgung und Betreuung der Patient*innen im ambulanten und stationären Bereich verantwortlich. Sie werden zur Pflege von Menschen aller Altersstufen und in allen Versorgungsbereichen (z.B. Krankenhäuser,[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Les professionnels infirmiers sont responsables de fournir les meilleurs soins et le meilleur soutien possibles aux patients, qu'ils soient hospitalisés ou en consultation externe. Ils sont employés pour soigner des personnes de tous âges et dans tous les contextes de soins (par exemple, les hôpitaux, [...]).",
+    "description": "Les infirmières sont chargées de prodiguer les meilleurs soins et le meilleur soutien possible aux patients, en milieu hospitalier comme en ambulatoire. Elles sont formées pour prendre en charge des personnes de tous âges et dans tous les contextes de soins (p. ex., hôpitaux,[...]",
     "title": "Formation en soins infirmiers - début avril 2025"
   },
   {
@@ -795,7 +795,7 @@
     "Description_de": "Achtung! Bewerbungen aus dem Ausland benötigen zwingend ein in Deutschland anerkanntes Schulzeugnis! Ansonsten können wir Ihre Bewerbung nicht bearbeiten!\nAusbildungsdauer: Die Ausbildung dauert drei Jahre. Sie beginnt jeweils zum 1. April oder 1. Ok[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Attention ! Les candidatures provenant de l’étranger doivent être accompagnées d’un certificat scolaire reconnu en Allemagne. À défaut, votre candidature ne pourra être traitée.\n\nDurée de la formation : La formation dure trois ans. Elle débute le 1er avril ou le 1er octobre [...]",
+    "description": "Attention ! Les candidatures en provenance de l’étranger doivent être accompagnées d’un certificat scolaire reconnu en Allemagne. À défaut, votre candidature ne pourra être traitée.\n\nDurée de la formation : La formation dure trois ans. Elle débute le 1er avril ou le 1er octobre de chaque année. [...]",
     "title": "formation en soins infirmiers"
   },
   {
@@ -811,7 +811,7 @@
     "date": "2024-12-22T11:52:29Z",
     "Description_de": "Kurzbeschreibung\n3 Jahre Ausbildung\nAbschluss: Bachelor Professional\nWechsel von Theorie und Praxis\nAusbildungsvergütung in der Fachpraxis\n\nZugangsvoraussetzungen:\n\nMittlere Reife und 12 monatiges Praktikum\nMittlere Reife in Kombination mit weiteren [ ... ]",
     "Training_de": "Heilerziehungspfleger/in",
-    "Training": "Enseignant spécialisé/soignant",
+    "Training": "enseignant spécialisé",
     "description": "Description succincte\n\nApprentissage de 3 ans\n\nDiplôme : Licence professionnelle\n\nAlternance de théorie et de pratique\nAlternance d’indemnité d’apprentissage pendant la formation pratique\n\nConditions d’admission :\n\nBaccalauréat et stage de 12 mois\nBaccalauréat complété par des qualifications supplémentaires [...]",
     "title": "Formation d'enseignant/soignant en éducation spécialisée"
   },
@@ -829,7 +829,7 @@
     "Description_de": "Achtung! Bewerbungen aus dem Ausland benötigen zwingend ein in Deutschland anerkanntes Schulzeugnis! Ansonsten können wir Ihre Bewerbung nicht bearbeiten!\nAusbildungsdauer: Die Ausbildung dauert drei Jahre. Sie beginnt jeweils zum 1. April oder 1. Ok[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Attention ! Les candidatures provenant de l’étranger doivent être accompagnées d’un certificat scolaire reconnu en Allemagne. À défaut, votre candidature ne pourra être traitée.\n\nDurée de la formation : La formation dure trois ans. Elle débute le 1er avril ou le 1er octobre [...]",
+    "description": "Attention ! Les candidatures en provenance de l’étranger doivent être accompagnées d’un certificat scolaire reconnu en Allemagne. À défaut, votre candidature ne pourra être traitée.\n\nDurée de la formation : La formation dure trois ans. Elle débute le 1er avril ou le 1er octobre de chaque année. [...]",
     "title": "formation en soins infirmiers"
   },
   {
@@ -845,7 +845,7 @@
     "date": "2024-12-22T11:52:25Z",
     "Description_de": "Die Ausbildung zum/zur Heilerziehungsassistent*in an der Theresia-Scherer-Schule, Fachschule für Sozialberufe, dauert zwei Jahre und erfolgt im Blocksystem mit Praxisphasen. Sie bietet dir die Möglichkeit, Fachwissen und Sozialkompetenz in der Arbeit[ ... ]",
     "Training_de": "Heilerziehungsassistent/in",
-    "Training": "assistant en éducation spécialisée",
+    "Training": "assistante en éducation spécialisée",
     "description": "La formation pour devenir assistant d'éducation spécialisée à l'école Theresia-Scherer, un établissement de formation professionnelle aux métiers du social, dure deux ans et suit un système de modules avec des phases pratiques. Elle vous offre la possibilité d'allier connaissances spécialisées et compétences sociales dans le travail.",
     "title": "Formation d'assistant en éducation spécialisée"
   },
@@ -862,7 +862,7 @@
     "date": "2024-12-22T11:52:24Z",
     "Description_de": "Kurzbeschreibung\n2 Jahre Ausbildung\nWechsel von Theorie und Praxis\nAusbildungsvergütung in der Fachpraxis\nZugangsvoraussetzung: Hauptschulabschluss (Vorpraktikum erwünscht)\nMöglichkeit den mittleren Bildungsabschluss zu erwerben\nMöglichkeit, im Ansch[ ... ]",
     "Training_de": "Heilerziehungsassistent/in",
-    "Training": "assistant en éducation spécialisée",
+    "Training": "assistante en éducation spécialisée",
     "description": "Description sommaire\n\nApprentissage de 2 ans\nAlternance de théorie et de pratique\nAllocation d'apprentissage pendant la formation pratique\nConditions d'admission : Diplôme de fin d'études secondaires (stage préalable souhaitable)\n\nPossibilité d'obtenir un diplôme de fin d'études secondaires supérieures\nPossibilité de poursuivre des études supérieures après l'apprentissage",
     "title": "Formation d'assistant en éducation spécialisée"
   },
@@ -881,7 +881,7 @@
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
     "description": "En tant qu'aide-soignant(e) qualifié(e), vous travaillez en collaboration avec de nombreux professionnels de santé. Vous assurez de manière autonome le soutien, les soins et l'accompagnement de personnes de tous âges et contribuez à la promotion, au maintien et à l'amélioration de leur santé.",
-    "title": "Formation d'assistant de soins aux personnes âgées (h/f/d)"
+    "title": "Formation pour devenir assistant en soins gériatriques (h/f/a)"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-pflegefachmann-frau-m-w-d-bei-srh-klinikum-karlsbad-langensteinbach-gmbh-in-karlsbad-7cdc3d6f-0e53-4e59-baf4-3316c42dcd67/",
@@ -897,7 +897,7 @@
     "Description_de": "Als international anerkanntes Fachkrankenhaus und wichtiger Akutversorger im Landkreis Karlsruhe investieren wir in unsere Mitarbeiter:innen, in eine effektive Infrastruktur und innovative Medizintechnik und können dadurch bestimmte Krankheitsbilder [ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "En tant qu'hôpital spécialisé de renommée internationale et important prestataire de soins aigus dans le district de Karlsruhe, nous investissons dans nos employés, dans des infrastructures performantes et des technologies médicales innovantes, et sommes ainsi en mesure de traiter certaines pathologies [...]",
+    "description": "En tant qu'hôpital spécialisé de renommée internationale et important fournisseur de soins aigus dans le district de Karlsruhe, nous investissons dans nos employés, dans une infrastructure efficace et dans une technologie médicale innovante, ce qui nous permet de traiter certains tableaux cliniques [...]",
     "title": "formation en soins infirmiers"
   },
   {
@@ -930,7 +930,7 @@
     "date": "2024-12-22T11:52:19Z",
     "Description_de": "Hauswirtschaft hat sich zu einem modernen, zukunftsorientierten Beruf entwickelt und bedeutet viel mehr als kochen, waschen und putzen. Seit August 2020 gibt es die modernisierte Ausbildung. Die Tätigkeitsfelder sind vielfältig. In der Ausbildung ler[ ... ]",
     "Training_de": "Hauswirtschafter/in",
-    "Training": "gouvernante",
+    "Training": "Gouvernante",
     "description": "L'économie domestique est devenue une profession moderne et tournée vers l'avenir, englobant bien plus que la cuisine, la lessive et le nettoyage. Un programme de formation modernisé est disponible depuis août 2020. Les domaines d'activité sont diversifiés. Au cours de la formation, les stagiaires apprennent [...]",
     "title": "Apprentissage comme gestionnaire domestique (h/f/d)"
   },
@@ -947,8 +947,8 @@
     "date": "2024-12-22T11:52:18Z",
     "Description_de": "Andere träumen noch von\neinem besseren Planeten. Wir bilden unterdessen Menschen aus, die schon im Hier\nund Jetzt den Gesellschaftswandel vorantreiben, Inklusion tagtäglich\nmitgestalten. Denn allen Heilerziehungspfleger:innen liegt ein Stückchen Welt[ ... ]",
     "Training_de": "Heilerziehungspfleger/in",
-    "Training": "Enseignant spécialisé/soignant",
-    "description": "D'autres rêvent encore d'une planète meilleure. Pendant ce temps, nous formons des personnes qui, dès aujourd'hui, sont des acteurs du changement social et qui œuvrent chaque jour pour une inclusion accrue. Car chaque enseignant spécialisé a un monde à portée de main [...]",
+    "Training": "enseignant spécialisé",
+    "description": "D'autres rêvent encore d'une planète meilleure. Parallèlement, nous formons des personnes qui sont déjà les moteurs du changement social, ici et maintenant, et qui contribuent chaque jour à façonner l'inclusion. Parce que tous les enseignants spécialisés ont un bout de monde à portée de main…",
     "title": "Formation d'enseignant spécialisé :"
   },
   {
@@ -982,7 +982,7 @@
     "Description_de": "In der dreijährigen Pflegeausbildung wirst Du darauf vorbereitet, Teil des Pflegeteams zu sein. Gemeinsam mit ausgebildeten Pflegenden unterstützt, betreust und versorgst du im Laufe deiner Ausbildung Patienten aller Altersgruppen in den Rems-Murr-Kl[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Au cours de votre formation infirmière de trois ans, vous serez préparé(e) à intégrer l'équipe soignante. Aux côtés d'infirmiers et infirmières qualifiés, vous assurerez la prise en charge et le traitement des patients de tous âges dans les hôpitaux du district de Rems-Murr tout au long de votre formation.",
+    "description": "Au cours de cette formation infirmière de trois ans, vous serez préparé(e) à intégrer l'équipe soignante. Aux côtés d'infirmiers et infirmières qualifiés, vous assurerez la prise en charge et le traitement des patients de tous âges dans les hôpitaux du district de Rems-Murr tout au long de votre formation.",
     "title": "formation en soins infirmiers"
   },
   {
@@ -999,8 +999,8 @@
     "Description_de": "Ab hier „Mehr Möglichkeiten“! Für Menschen mit Behinderung und selbstverständlich auch für Dich, Deine Ausbildung und Deine Zukunft bei uns.Anderen Menschen zu helfen und sie zu unterstützen fühlt sich gut an? Dann bist Du bei uns genau richtig! Als [ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
-    "description": "Désormais, place aux opportunités ! Pour les personnes en situation de handicap et, bien sûr, pour vous aussi, votre formation et votre avenir chez nous. Aider et soutenir les autres vous fait du bien ? Alors vous êtes au bon endroit ! [...]",
-    "title": "Formation d'assistant de soins aux personnes âgées"
+    "description": "Désormais, « Plus d'opportunités » ! Pour les personnes en situation de handicap et, bien sûr, pour vous, votre formation et votre avenir chez nous. Aider et soutenir les autres vous fait du bien ? Alors vous êtes au bon endroit ! [...]",
+    "title": "Formation d'assistant en soins gériatriques"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-heilerziehungspfleger-in-m-w-d-markgroeningen-bei-habila-gmbh-in-markgroeningen-c8297701-904f-403d-8bea-bd54280c1d62/",
@@ -1015,7 +1015,7 @@
     "date": "2024-12-22T11:52:13Z",
     "Description_de": "Ab hier \"Mehr Möglichkeiten\"! Für Menschen mit Behinderung und selbstverständlich auch für Dich, Deine Ausbildung und Deine Zukunft bei uns.Du bist motiviert, hast eine „soziale Ader“ und spürst wie andere „ticken“. Dann bist Du bei uns genau richtig[ ... ]",
     "Training_de": "Heilerziehungspfleger/in",
-    "Training": "Enseignant spécialisé/soignant",
+    "Training": "enseignant spécialisé",
     "description": "À partir de maintenant, « Plus d'opportunités » ! Pour les personnes en situation de handicap et, bien sûr, pour vous aussi, votre formation et votre avenir chez nous. Vous êtes motivé(e), avez une conscience sociale et comprenez les autres. Alors vous êtes au bon endroit ! [...]",
     "title": "Formation d'enseignant/soignant en éducation spécialisée"
   },
@@ -1084,8 +1084,8 @@
     "Description_de": "Dann bist Du in der Pflege mehr als richtig!&nbsp;In der einjährigen Altenpflegeausbildung erlernst Du die Fähigkeiten und Kenntnisse, die für eine qualifizierte Mitwirkung und  Mithilfe bei der Betreuung, Versorgung und Pflege älterer Menschen wicht[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
-    "description": "Alors vous êtes plus que prête pour une carrière d'infirmière ! Le programme de formation d'un an en soins infirmiers gériatriques vous permettra d'acquérir les compétences et les connaissances essentielles pour participer activement et avec professionnalisme aux soins, au soutien et aux soins infirmiers des personnes âgées [...]",
-    "title": "Formation d'assistant de soins aux personnes âgées"
+    "description": "Alors les soins infirmiers sont faits pour vous ! Au cours de la formation d'un an en gériatrie, vous acquerrez les compétences et les connaissances essentielles pour participer et contribuer de manière qualifiée aux soins, au soutien et aux soins infirmiers des personnes âgées. [...]",
+    "title": "Formation d'assistant en soins gériatriques"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-zur-pflegefachfrau-zum-pflegefachmann-m-w-d-2025-bei-diakoniewerk-martha-maria-e-v-in-stuttgart-30c7ff21-b469-43f5-88a5-fd080a480ac1/",
@@ -1118,7 +1118,7 @@
     "Description_de": "In der einjährigen Gesundheits- und Krankenpflegehilfeausbildung wirst Du darauf vorbereitet, Teil des Pflegeteams zu sein. Hierbei assistierst Du den Pflegefachpersonen, pflegerische Aufgaben bei der Versorgung von Menschen in allen Lebensphasen und[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "aide-soignant(e)",
-    "description": "Le programme de formation d'un an pour devenir aide-soignant(e) vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans leurs tâches auprès des personnes de tous âges et [...]",
+    "description": "La formation d'un an d'aide-soignant vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans la réalisation des tâches de soins auprès des personnes de tous âges et [...]",
     "title": "Formation d'aide-soignant(e)"
   },
   {
@@ -1186,7 +1186,7 @@
     "Description_de": "In der Pflege hast du die Chance, jeden Tag einen echten Unterschied im Leben von Menschen zu machen. Arbeitszeit ist auch Lebenszeit: Als Pflegehelfer:in (w/m/d) bereicherst du den Alltag deiner Mitmenschen und sorgst dafür, dass ihre Welt ein klein[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
-    "description": "En tant qu'aide-soignant(e), vous avez l'opportunité d'améliorer concrètement la vie des gens au quotidien. Le temps passé au travail est aussi un temps précieux pour la vie : en tant qu'aide-soignant(e), vous enrichissez le quotidien de ceux qui vous entourent et contribuez à rendre leur monde un peu plus agréable.",
+    "description": "En tant qu'aide-soignant(e), vous avez l'opportunité d'améliorer concrètement la vie des gens au quotidien. Le temps de travail est aussi un temps précieux pour la vie : en tant qu'aide-soignant(e), vous enrichissez le quotidien de ceux qui vous entourent et contribuez à rendre leur monde un peu plus agréable.",
     "title": "Formation d'aide-soignant (H/F/D)"
   },
   {
@@ -1203,7 +1203,7 @@
     "Description_de": "Du möchtest für andere Menschen da sein. Du bist einfühlsam im Umgang mit kranken oder alten Menschen. Du arbeitest gerne im Team.Und Du willst eine praxisorientierte Ausbildung machen, auf die du aufbauen kannst.Dann gestalte dein[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "aide-soignant(e)",
-    "description": "Vous souhaitez être présent pour les autres. Vous faites preuve d'empathie envers les personnes malades ou âgées. Vous appréciez le travail d'équipe. Et vous souhaitez suivre une formation pratique qui vous permettra d'évoluer. Alors, concevez votre [...]",
+    "description": "Vous souhaitez être présent pour les autres. Vous faites preuve d'empathie auprès des personnes malades ou âgées. Vous aimez travailler en équipe. Et vous souhaitez suivre une formation pratique et enrichissante. Alors, concevez votre[ ... ]",
     "title": "Formation d'aide-soignant(e)"
   },
   {
@@ -1219,7 +1219,7 @@
     "date": "2024-12-22T11:51:58Z",
     "Description_de": "Der Studiengang qualifiziert Dich für die vielfältigen Einsatzgebiete des Sportmarktes und bereitet Dich auf Schlüsselpositionen z. B. in Vereinen, Verbänden, bei Agenturen, Sportartikelherstellern sowie in kommerziellen Sport- und Freizeitanlagen vo[ ... ]",
     "Training_de": "Duales Studium Sportökonomie",
-    "Training": "double cursus en économie du sport",
+    "Training": "Programme d'études en alternance en économie du sport",
     "description": "Ce programme d'études vous qualifie pour les divers domaines d'application du marché du sport et vous prépare à des postes clés, par exemple dans les clubs, les associations, les agences, les fabricants d'articles de sport et les installations sportives et de loisirs commerciales [...]",
     "title": "Programme de double cursus Baccalauréat ès arts en économie du sport"
   },
@@ -1236,7 +1236,7 @@
     "date": "2024-12-22T11:51:57Z",
     "Description_de": "Ab 01.09.2025 suchen wir für unseren Standort Tübingen Auszubildende als CHEMIELABORANT (M/W/D. )SAGE YES ZU CHT:\n Spannende Aufgaben in einem etablierten, erfolgreichen Unternehmen\n  Intensive Einarbeitung in Deine Aufgabe\n Ein professionelles Umfeld in Ve[ ... ]",
     "Training_de": "Chemielaborant/in",
-    "Training": "technicien de laboratoire chimique",
+    "Training": "technicien de laboratoire en chimie",
     "description": "À compter du 1er septembre 2025, nous recherchons des stagiaires TECHNICIENS DE LABORATOIRE CHIMIQUE (H/F/D) pour notre site de Tübingen. REJOIGNEZ-NOUS !\n\nDes missions passionnantes au sein d'une entreprise reconnue et performante\n\nUne formation intensive\n\nUn environnement professionnel stimulant à Ve[ ... ]",
     "title": "Formation d'assistant de laboratoire chimique"
   },
@@ -1253,7 +1253,7 @@
     "date": "2024-12-22T11:51:56Z",
     "Description_de": "Entscheide Dich für eine praxisbezogene Ausbildung in Deutschlands traditionsreichster Gold- und Silberscheideanstalt. Durch Theorieunterricht an der Berufsschule sowie Praxisphasen im Betrieb wirst du optimal auf Deine Karriere vorbereitet.",
     "Training_de": "Chemielaborant/in",
-    "Training": "technicien de laboratoire chimique",
+    "Training": "technicien de laboratoire en chimie",
     "description": "Optez pour un apprentissage pratique dans la plus ancienne raffinerie d'or et d'argent d'Allemagne. Grâce à une formation théorique en école professionnelle et à des stages pratiques en entreprise, vous serez parfaitement préparé(e) à votre carrière.",
     "title": "Formation d'assistant de laboratoire chimique"
   },
@@ -1271,7 +1271,7 @@
     "Description_de": "Unsere Kunden und Kundinnen aus der Gastronomie sind unsere Motivation. Mit Leidenschaft, Kompetenz und Empathie tun wir alles dafür, sie optimal zu unterstützen. Unsere Mitarbeitenden sind unser Erfolgsrezept. Wir sind stolz [ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur offrir le meilleur soutien possible. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
+    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur apporter un soutien optimal. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
     "title": "Apprentissage comme vendeur en magasin"
   },
   {
@@ -1288,7 +1288,7 @@
     "Description_de": "Unsere Kunden und Kundinnen aus der Gastronomie sind unsere Motivation. Mit Leidenschaft, Kompetenz und Empathie tun wir alles dafür, sie optimal zu unterstützen. Unsere Mitarbeitenden sind unser Erfolgsrezept. Wir sind stolz [ ... ]",
     "Training_de": "Fachlagerist/in",
     "Training": "spécialiste d'entrepôt",
-    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur offrir le meilleur soutien possible. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
+    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur apporter un soutien optimal. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
     "title": "Formation de spécialiste d'entrepôt"
   },
   {
@@ -1304,7 +1304,7 @@
     "date": "2024-12-22T11:51:52Z",
     "Description_de": "In deiner 3-jährigen Ausbildung eignest du dir Techniken der Verkaufsförderung an und wirst zum Profi auf deinem Gebiet: Neben der freundlichen und sachkundigen Bedienung und Beratung der Kundschaft lernst du, wie wichtig die Präsentation und Dekorat[ ... ]",
     "Training_de": "Bäckereifachverkäufer/in",
-    "Training": "vendeur en boulangerie",
+    "Training": "Vendeur en boulangerie",
     "description": "Durant vos 3 années d'apprentissage, vous acquerrez des techniques de promotion des ventes et deviendrez un professionnel dans votre domaine : en plus de fournir un service et des conseils amicaux et compétents aux clients, vous apprendrez l'importance de la présentation et de la décoration[ ... ]",
     "title": "Apprentissage comme vendeur en boulangerie"
   },
@@ -1356,7 +1356,7 @@
     "Description_de": "Richtiges Verkaufen will gelernt sein\n Deine Ausbildung zum Verkäufer (m/w/d) im Lebensmitteleinzelhandel ist eine abwechslungsreiche und vielseitige Tätigkeit, die    Kontaktfreudigkeit erfordert. Denn die freundliche Beratung und der tägliche Service f[ ... ]",
     "Training_de": "Verkäufer/in",
     "Training": "Vendeuse",
-    "description": "La vente efficace s'acquiert avec la pratique.\n\nVotre apprentissage en tant qu'assistant(e) de vente (H/F/D) dans le secteur de la grande distribution alimentaire est un rôle varié et diversifié qui exige d'excellentes aptitudes à la communication. Un service client convivial et des interactions quotidiennes sont essentiels.",
+    "description": "La vente efficace demande de l'entraînement.\n\nVotre formation de vendeur (H/F/D) dans le secteur de la grande distribution alimentaire vous propose un métier varié et diversifié qui exige un bon relationnel. Les conseils avisés et le service quotidien [...]",
     "title": "Formation des vendeurs"
   },
   {
@@ -1373,8 +1373,8 @@
     "Description_de": "In deiner Ausbildung bei Denns BioMarkt lernst du nach und nach jeden Bereich deines Marktes kennen. Dabei erfährst du alles von A wie Abschreibung bis Z wie Zitrusfrüchte. Du unterstützt dein Team tatkräftig im Tagesgeschäft und sorgst damit für ein[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects du magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe au quotidien et contribuerez ainsi à son bon fonctionnement.",
-    "title": "Apprentissage comme commis commercial"
+    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects de votre magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe dans ses opérations quotidiennes et contribuerez ainsi à son bon fonctionnement.",
+    "title": "Formation pour hommes et femmes d'affaires"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-kaufleute-im-einzelhandel-bei-globus-markthallen-holding-gmbh-co-kg-in-braunschweig-e2669a86-043a-4d05-95e2-89dbffc956cf/",
@@ -1408,7 +1408,7 @@
     "Training_de": "Duales Studium Sozialpädagogik",
     "Training": "double cursus en pédagogie sociale",
     "description": "Vous avez à cœur d'aider les enfants ? Alors, inscrivez-vous à un programme d'études en alternance en éducation de la petite enfance et contribuez activement à façonner l'avenir des enfants. 👧🧒",
-    "title": "double cursus en éducation de la petite enfance"
+    "title": "double cursus d'études en éducation de la petite enfance"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-kaufmann-im-einzelhandel-m-w-d-bei-penny-markt-gmbh-in-braunschweig-2c32fdc5-25f8-4a29-9d34-a12be786ccea/",
@@ -1492,7 +1492,7 @@
     "Description_de": "Dein Berufsbild: Du möchtest irgendwas mit Mathe machen, aber so praxisnah wie möglich? Dann studiere Elektro- und Informationstechnik mit vertiefter Praxis bei Siemens Mobility und krempele schon mal die Ärmel hoch! Ingenieure (w/m/d) der Elektro- un[ ... ]",
     "Training_de": "Duales Studium Elektro- und Informationstechnik",
     "Training": "Double cursus en génie électrique et informatique",
-    "description": "Votre parcours professionnel : Vous souhaitez travailler dans le domaine des mathématiques, mais avec une orientation aussi pratique que possible ? Alors, étudiez le génie électrique et informatique avec une expérience pratique approfondie chez Siemens Mobility et préparez-vous à retrousser vos manches ! Ingénieurs en génie électrique et informatique (H/F/D) [...]",
+    "description": "Votre profil professionnel : Vous souhaitez travailler dans le domaine des mathématiques tout en acquérant un maximum d’expérience pratique ? Alors, étudiez le génie électrique et les technologies de l’information avec une formation pratique approfondie chez Siemens Mobility et préparez-vous à vous investir pleinement ! Ingénieurs en génie électrique et informatique (H/F/D)[ ... ]",
     "title": "Programme de génie électrique et informatique (B.Ing.) avec une expérience pratique approfondie 2025"
   },
   {
@@ -1561,7 +1561,7 @@
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
     "description": "#VALUE!",
-    "title": "Apprentissage comme vendeur en magasin, spécialisé en charcuterie"
+    "title": "Apprentissage de vendeur en commerce de détail, spécialité charcuterie"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-zum-verkaeufer-fachrichtung-lebensmittel-m-w-d-bei-rewe-markt-gmbh-in-braunschweig-963274a4-9dd0-4561-883b-0545d5011477/",
@@ -1594,7 +1594,7 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de fournir à tous, partout et à tout moment, [...]",
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de proposer à tous, partout et à tout moment, [...]",
     "title": "Formation de vendeur ou de commerçant de détail"
   },
   {
@@ -1611,8 +1611,8 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Handelsfachwirt/in",
     "Training": "Spécialiste certifié du commerce de détail",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de fournir à tous, partout et à tout moment, [...]",
-    "title": "Programme d'Abiturient pour spécialistes commerciaux certifiés"
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de proposer à tous, partout et à tout moment, [...]",
+    "title": "Programme d'études secondaires pour les spécialistes commerciaux certifiés"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-verkaeufer-m-w-d-im-einzelhandel-bei-denns-biomarkt-gmbh-in-braunschweig-31186a8b-cdba-490b-9b40-c15741e434b6/",
@@ -1628,7 +1628,7 @@
     "Description_de": "In deiner Ausbildung bei Denns BioMarkt lernst du nach und nach jeden Bereich deines Marktes kennen. Dabei erfährst du alles von A wie Abschreibung bis Z wie Zitrusfrüchte. Du unterstützt dein Team tatkräftig im Tagesgeschäft und sorgst damit für ein[ ... ]",
     "Training_de": "Verkäufer/in",
     "Training": "Vendeuse",
-    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects du magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe au quotidien et contribuerez ainsi à son bon fonctionnement.",
+    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects de votre magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe dans ses opérations quotidiennes et contribuerez ainsi à son bon fonctionnement.",
     "title": "Formation des vendeurs"
   },
   {
@@ -1645,8 +1645,8 @@
     "Description_de": "In deiner Ausbildung bei Denns BioMarkt lernst du nach und nach jeden Bereich deines Marktes kennen. Dabei erfährst du alles von A wie Abschreibung bis Z wie Zitrusfrüchte. Du unterstützt dein Team tatkräftig im Tagesgeschäft und sorgst damit für ein[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects du magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe au quotidien et contribuerez ainsi à son bon fonctionnement.",
-    "title": "Apprentissage comme commis commercial"
+    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects de votre magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe dans ses opérations quotidiennes et contribuerez ainsi à son bon fonctionnement.",
+    "title": "Formation pour hommes et femmes d'affaires"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/auszubildende-verkaeufer-kaufleute-im-einzelhandel-m-w-d-2025-bei-a-t-u-auto-teile-unger-gmbh-co-kg-in-braunschweig-c266b358-a26e-430a-bdf8-39a9a782b5d2/",
@@ -1663,7 +1663,7 @@
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
     "description": "Le concept d'ATU repose sur l'association unique d'un atelier et d'un magasin. Fondée à Weiden en 1985, ATU est devenue la plus grande chaîne d'ateliers d'Allemagne, avec aujourd'hui plus de 500 succursales et [...]",
-    "title": "vendeurs stagiaires et employés de magasin"
+    "title": "vendeurs stagiaires et employés de vente au détail"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/landschaftsgaertner-m-w-d-bei-die-landschaftsgaertner-in-braunschweig-051db702-f295-4057-8f9c-76baabafff50/",
@@ -1680,7 +1680,7 @@
     "Training_de": "Landschaftsgärtner/in",
     "Training": "paysagiste",
     "description": "Nous sommes une entreprise de taille moyenne en pleine croissance, spécialisée dans la conception de jardins et d'aménagements paysagers. Forts de plus de 40 ans d'expérience et d'une énergie renouvelée, nous concrétisons les rêves de nos clients. Dans la région de Brunswick, nous sommes les experts en aménagements paysagers de haute qualité et en entretien d'espaces verts.",
-    "title": "Formation de paysagiste / jardinier"
+    "title": "formation de paysagiste / jardinier"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-zum-kaufmann-im-einzelhandel-m-w-d-bei-metro-deutschland-gmbh-in-braunschweig-9f02d7f3-ac0a-45d3-a160-96f22b1c21fe/",
@@ -1696,7 +1696,7 @@
     "Description_de": "Unsere Kunden und Kundinnen aus der Gastronomie sind unsere Motivation. Mit Leidenschaft, Kompetenz und Empathie tun wir alles dafür, sie optimal zu unterstützen. Unsere Mitarbeitenden sind unser Erfolgsrezept. Wir sind stolz [ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur offrir le meilleur soutien possible. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
+    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur apporter un soutien optimal. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
     "title": "Apprentissage comme vendeur en magasin"
   },
   {
@@ -1713,7 +1713,7 @@
     "Description_de": "Unsere Kunden und Kundinnen aus der Gastronomie sind unsere Motivation. Mit Leidenschaft, Kompetenz und Empathie tun wir alles dafür, sie optimal zu unterstützen. Unsere Mitarbeitenden sind unser Erfolgsrezept. Wir sind stolz [ ... ]",
     "Training_de": "Fachlagerist/in",
     "Training": "spécialiste d'entrepôt",
-    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur offrir le meilleur soutien possible. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
+    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur apporter un soutien optimal. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
     "title": "Formation de spécialiste d'entrepôt"
   },
   {
@@ -1730,7 +1730,7 @@
     "Description_de": "Unsere Kunden und Kundinnen aus der Gastronomie sind unsere Motivation. Mit Leidenschaft, Kompetenz und Empathie tun wir alles dafür, sie optimal zu unterstützen. Unsere Mitarbeitenden sind unser Erfolgsrezept. Wir sind stolz [ ... ]",
     "Training_de": "Handelsfachwirt/in",
     "Training": "Spécialiste certifié du commerce de détail",
-    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur offrir le meilleur soutien possible. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
+    "description": "Nos clients du secteur de l'hôtellerie sont notre motivation. Avec passion, expertise et empathie, nous mettons tout en œuvre pour leur apporter un soutien optimal. Nos employés sont la clé de notre succès. Nous sommes fiers [...]",
     "title": "Programme d'études pour devenir spécialiste certifié du commerce de détail"
   },
   {
@@ -1747,7 +1747,7 @@
     "Description_de": "Die Gesellschaft braucht Dich! Bist Du bereit Verantwortung \n für die Gesundheit anderer zu übernehmen und dort zu unterstützen, wo Hilfebedarf besteht? Sei Du die Person, die Menschen in allen  Altersstufen versorgt und sie dabei begleitet, ihre \nGesu[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "La société a besoin de vous ! Êtes-vous prêt(e) à prendre vos responsabilités\n\npour la santé des autres et à apporter votre soutien là où c'est nécessaire ? Soyez la personne qui prend soin des personnes de tous âges et les accompagne dans leur démarche de préservation de leur santé.",
+    "description": "La société a besoin de vous ! Êtes-vous prêt(e) à prendre vos responsabilités\npour la santé des autres et à apporter votre soutien là où c'est nécessaire ? Soyez la personne qui prend soin des personnes de tous âges et les accompagne dans leur\nsanté [...]",
     "title": "formation en soins infirmiers"
   },
   {
@@ -1781,8 +1781,8 @@
     "Description_de": "Unsere ACHAT Gruppe mit aktuell fast 50 Hotels und über 1.300 Mitarbeitenden sorgen täglich dafür, dass sich unsere Gäste wohlfühlen.Wir suchen professionelle Unterstützung, die wie wir, Lust auf einen innovativen, zukunftsorientierten und echt guten[ ... ]",
     "Training_de": "Hotelfachmann/-frau",
     "Training": "spécialiste hôtelier",
-    "description": "Notre groupe ACHAT, qui compte actuellement près de 50 hôtels et plus de 1 300 collaborateurs, veille chaque jour au confort de ses clients. Nous recherchons des professionnels qui, comme nous, sont passionnés par un environnement innovant, tourné vers l’avenir et véritablement axé sur l’excellence.",
-    "title": "Spécialiste hôtelière stagiaire / spécialiste hôtelière (femme)"
+    "description": "Notre groupe ACHAT, qui compte actuellement près de 50 hôtels et plus de 1 300 employés, veille à ce que nos clients se sentent comme chez eux chaque jour. Nous recherchons des professionnels qui, comme nous, s’intéressent à un environnement innovant, tourné vers l’avenir et véritablement axé sur l’excellence.",
+    "title": "stagiaire gérant d'hôtel"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-zum-verkaeufer-m-w-d-bei-netto-marken-discount-stiftung-co-kg-in-braunschweig-5d21627c-eb19-4818-a6b5-e6ce2193129c/",
@@ -1815,7 +1815,7 @@
     "Description_de": "Führe eine unserer Filialen zum Erfolg\n\nDu möchtest mehr erreichen und Verantwortung übernehmen – auch ohne Studium? Dann ist unsere Fachausbildung zum Marktleiter (m/w/d) genau das Richtige für dich. In 2 bis 2,5 Jahren erwirbst du den IHK-Abschluss[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Menez l'une de nos succursales au succès\n\nVous souhaitez évoluer et prendre des responsabilités, même sans diplôme universitaire ? Notre programme de formation spécialisée pour devenir responsable de magasin (H/F/D) est fait pour vous. En 2 à 2,5 ans, vous obtiendrez la qualification IHK (Chambre de Commerce et d'Industrie) [...]",
+    "description": "Menez l'un de nos magasins au succès\n\nEnvie de progresser et d'assumer des responsabilités, même sans diplôme ? Notre formation spécialisée pour devenir gérant(e) de magasin (H/F/D) est faite pour vous. En deux à deux ans et demi, vous obtiendrez la qualification de la Chambre de Commerce et d'Industrie (CCI).",
     "title": "Formation professionnelle pour devenir gestionnaire de marché"
   },
   {
@@ -1832,7 +1832,7 @@
     "Description_de": "Die Operationstechnischen Assistent*innen (OTA) sind ein unverzichtbarer Bestandteil im OP-Team. Sie übernehmen vielfältige Aufgaben, die zum reibungslosen Ablauf einer Operation beitragen. In ihrer Rüstung aka OP-Kleidung sorgen sie für die optimale[ ... ]",
     "Training_de": "Operationstechnische/r Assistent/in",
     "Training": "technicien chirurgical",
-    "description": "Les techniciens de bloc opératoire (TBO) sont un maillon indispensable de l'équipe chirurgicale. Ils accomplissent un large éventail de tâches qui contribuent au bon déroulement d'une opération. Vêtus de leur tenue chirurgicale, ils assurent un environnement optimal [...]",
+    "description": "Les techniciens de bloc opératoire (TBO) sont un élément indispensable de l'équipe chirurgicale. Ils effectuent un large éventail de tâches qui contribuent au bon déroulement d'une intervention. Vêtus de leur tenue chirurgicale, ils assurent un fonctionnement optimal[...]",
     "title": "Formation d'assistant de salle d'opération"
   },
   {
@@ -1865,8 +1865,8 @@
     "date": "2024-12-22T11:51:14Z",
     "Description_de": "Die Medizinischen Technolog*innen für Radiologie (MTR) arbeiten mit modernsten medizinischen Geräten, wie CT-Scannern, MRTs und Röntgengeräten, um hochauflösende Bilder des Körpers zu erstellen. An der Schnittstelle zwischen Technik, Ärzt*innen und P[ ... ]",
     "Training_de": "MTR (Medizinische/r Technologe/Technologin für Radiologie)",
-    "Training": "MTR (Technicien médical en radiologie)",
-    "description": "Les technologues en radiologie médicale utilisent des équipements médicaux de pointe, tels que les scanners, les IRM et les appareils à rayons X, pour créer des images haute résolution du corps. Ils assurent la liaison entre la technologie, les médecins et les patients.",
+    "Training": "MTR (Technologue médical en radiologie)",
+    "description": "Les radiologues médicaux (RMM) utilisent des équipements médicaux de pointe, tels que des scanners, des IRM et des appareils à rayons X, pour créer des images haute résolution du corps. À l'interface entre la technologie, les médecins et [...]",
     "title": "Formation en technologie médicale pour la radiologie"
   },
   {
@@ -1899,7 +1899,7 @@
     "date": "2024-12-22T11:51:11Z",
     "Description_de": "Die Medizinischen Technolog*innen für Laboratoriumsanalytik (MTL) führen mit Hilfe verschiedener Verfahren und Techniken vielfältige labortechnische Untersuchungen durch. Die Arbeit der MTL bildet somit die Grundlage für jegliche gesicherte ärztliche[ ... ]",
     "Training_de": "MTL (Medizinische/r Technologe/Technologin für Laboratoriumsanalytik)",
-    "Training": "MTL (Technologue médical en analyses de laboratoire)",
+    "Training": "MTL (Technologue médical en analyse de laboratoire)",
     "description": "Les technologues de laboratoire médical (TLM) réalisent une vaste gamme d'analyses de laboratoire à l'aide de diverses méthodes et techniques. Leur travail constitue ainsi la base de tout diagnostic médical fiable.",
     "title": "Formation en technologie médicale pour les analyses de laboratoire"
   },
@@ -1918,7 +1918,7 @@
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
     "description": "Vous recherchez une carrière variée et prometteuse ? Vous aimez travailler en équipe ? Vous souhaitez comprendre le fonctionnement du corps humain et les soins prodigués en médecine moderne ? Vous recherchez une entreprise de formation ? […]",
-    "title": "Formation en tant que professionnel infirmier"
+    "title": "formation en soins infirmiers"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-ergotherapeut-in-m-w-d-bei-krankenhaus-stiftung-der-niederbronner-schwestern-in-speyer-01f86c92-db4f-43e3-b654-7ff4c8dddd6a/",
@@ -2002,7 +2002,7 @@
     "Description_de": "Pflegefachpersonen sind für die bestmögliche Versorgung und Betreuung der Patient*innen im ambulanten und stationären Bereich verantwortlich. Sie werden zur Pflege von Menschen aller Altersstufen und in allen Versorgungsbereichen (z.B. Krankenhäuser,[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Les professionnels infirmiers sont responsables de fournir les meilleurs soins et le meilleur soutien possibles aux patients, qu'ils soient hospitalisés ou en consultation externe. Ils sont employés pour soigner des personnes de tous âges et dans tous les contextes de soins (par exemple, les hôpitaux, [...]).",
+    "description": "Les infirmières sont chargées de prodiguer les meilleurs soins et le meilleur soutien possible aux patients, en milieu hospitalier comme en ambulatoire. Elles sont formées pour prendre en charge des personnes de tous âges et dans tous les contextes de soins (p. ex., hôpitaux,[...]",
     "title": "Formation en soins infirmiers - début avril 2025"
   },
   {
@@ -2019,7 +2019,7 @@
     "Description_de": "Info! Bewerbungen aus dem Ausland benötigen zwingend ein in Deutschland anerkanntes Schulzeugnis! Ansonsten können wir Ihre Bewerbung nicht bearbeiten!\nAusbildungsdauer: Die Ausbildung dauert drei Jahre. Sie beginnt jeweils zum 1. April oder 1. Ok[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Information importante ! Les candidatures provenant de l’étranger doivent être accompagnées d’un certificat scolaire reconnu en Allemagne. À défaut, votre candidature ne pourra être traitée.\n\nDurée de la formation : La formation dure trois ans. Elle débute le 1er avril ou le 1er octobre [...]",
+    "description": "Attention ! Les candidatures en provenance de l’étranger doivent être accompagnées d’un certificat scolaire reconnu en Allemagne ! À défaut, votre candidature ne pourra être traitée.\n\nDurée de la formation : La formation dure trois ans. Elle débute le 1er avril ou le 1er octobre de chaque année. [...]",
     "title": "formation en soins infirmiers"
   },
   {
@@ -2035,7 +2035,7 @@
     "date": "2024-12-22T11:51:02Z",
     "Description_de": "Kurzbeschreibung\n3 Jahre Ausbildung\nAbschluss: Bachelor Professional\nWechsel von Theorie und Praxis\nAusbildungsvergütung in der Fachpraxis\n\nZugangsvoraussetzungen:\n\nMittlere Reife und 12 monatiges Praktikum\nMittlere Reife in Kombination mit weiteren [ ... ]",
     "Training_de": "Heilerziehungspfleger/in",
-    "Training": "Enseignant spécialisé/soignant",
+    "Training": "enseignant spécialisé",
     "description": "Description succincte\n\nApprentissage de 3 ans\n\nDiplôme : Licence professionnelle\n\nAlternance de théorie et de pratique\nAlternance d’indemnité d’apprentissage pendant la formation pratique\n\nConditions d’admission :\n\nBaccalauréat et stage de 12 mois\nBaccalauréat complété par des qualifications supplémentaires [...]",
     "title": "Formation d'enseignant/soignant en éducation spécialisée"
   },
@@ -2053,7 +2053,7 @@
     "Description_de": "Info! Bewerbungen aus dem Ausland benötigen zwingend ein in Deutschland anerkanntes Schulzeugnis! Ansonsten können wir Ihre Bewerbung nicht bearbeiten!\nAusbildungsdauer: Die Ausbildung dauert drei Jahre. Sie beginnt jeweils zum 1. April oder 1. Ok[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Information importante ! Les candidatures provenant de l’étranger doivent être accompagnées d’un certificat scolaire reconnu en Allemagne. À défaut, votre candidature ne pourra être traitée.\n\nDurée de la formation : La formation dure trois ans. Elle débute le 1er avril ou le 1er octobre [...]",
+    "description": "Attention ! Les candidatures en provenance de l’étranger doivent être accompagnées d’un certificat scolaire reconnu en Allemagne ! À défaut, votre candidature ne pourra être traitée.\n\nDurée de la formation : La formation dure trois ans. Elle débute le 1er avril ou le 1er octobre de chaque année. [...]",
     "title": "formation en soins infirmiers"
   },
   {
@@ -2069,7 +2069,7 @@
     "date": "2024-12-22T11:51:00Z",
     "Description_de": "Die Ausbildung zum/zur Heilerziehungsassistent*in an der Theresia-Scherer-Schule, Fachschule für Sozialberufe, dauert zwei Jahre und erfolgt im Blocksystem mit Praxisphasen. Sie bietet dir die Möglichkeit, Fachwissen und Sozialkompetenz in der Arbeit[ ... ]",
     "Training_de": "Heilerziehungsassistent/in",
-    "Training": "assistant en éducation spécialisée",
+    "Training": "assistante en éducation spécialisée",
     "description": "La formation pour devenir assistant d'éducation spécialisée à l'école Theresia-Scherer, un établissement de formation professionnelle aux métiers du social, dure deux ans et suit un système de modules avec des phases pratiques. Elle vous offre la possibilité d'allier connaissances spécialisées et compétences sociales dans le travail.",
     "title": "Formation d'assistant en éducation spécialisée"
   },
@@ -2086,7 +2086,7 @@
     "date": "2024-12-22T11:50:59Z",
     "Description_de": "Kurzbeschreibung\n2 Jahre Ausbildung\nWechsel von Theorie und Praxis\nAusbildungsvergütung in der Fachpraxis\nZugangsvoraussetzung: Hauptschulabschluss (Vorpraktikum erwünscht)\nMöglichkeit den mittleren Bildungsabschluss zu erwerben\nMöglichkeit, im Ansch[ ... ]",
     "Training_de": "Heilerziehungsassistent/in",
-    "Training": "assistant en éducation spécialisée",
+    "Training": "assistante en éducation spécialisée",
     "description": "Description sommaire\n\nApprentissage de 2 ans\nAlternance de théorie et de pratique\nAllocation d'apprentissage pendant la formation pratique\nConditions d'admission : Diplôme de fin d'études secondaires (stage préalable souhaitable)\n\nPossibilité d'obtenir un diplôme de fin d'études secondaires supérieures\nPossibilité de poursuivre des études supérieures après l'apprentissage",
     "title": "Formation d'assistant en éducation spécialisée"
   },
@@ -2121,7 +2121,7 @@
     "Description_de": "Als international anerkanntes Fachkrankenhaus und wichtiger Akutversorger im Landkreis Karlsruhe investieren wir in unsere Mitarbeiter:innen, in eine effektive Infrastruktur und innovative Medizintechnik und können dadurch bestimmte Krankheitsbilder [ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "En tant qu'hôpital spécialisé de renommée internationale et important prestataire de soins aigus dans le district de Karlsruhe, nous investissons dans nos employés, dans des infrastructures performantes et des technologies médicales innovantes, et sommes ainsi en mesure de traiter certaines pathologies [...]",
+    "description": "En tant qu'hôpital spécialisé de renommée internationale et important fournisseur de soins aigus dans le district de Karlsruhe, nous investissons dans nos employés, dans une infrastructure efficace et dans une technologie médicale innovante, ce qui nous permet de traiter certains tableaux cliniques [...]",
     "title": "formation en soins infirmiers"
   },
   {
@@ -2154,7 +2154,7 @@
     "date": "2024-12-22T11:50:54Z",
     "Description_de": "Hauswirtschaft hat sich zu einem modernen, zukunftsorientierten Beruf entwickelt und bedeutet viel mehr als kochen, waschen und putzen. Seit August 2020 gibt es die modernisierte Ausbildung. Die Tätigkeitsfelder sind vielfältig. In der Ausbildung ler[ ... ]",
     "Training_de": "Hauswirtschafter/in",
-    "Training": "gouvernante",
+    "Training": "Gouvernante",
     "description": "L'économie domestique est devenue une profession moderne et tournée vers l'avenir, englobant bien plus que la cuisine, la lessive et le nettoyage. Un programme de formation modernisé est disponible depuis août 2020. Les domaines d'activité sont diversifiés. Au cours de la formation, les stagiaires apprennent [...]",
     "title": "Apprentissage comme gestionnaire domestique (h/f/d)"
   },
@@ -2171,8 +2171,8 @@
     "date": "2024-12-22T11:50:52Z",
     "Description_de": "Andere träumen noch von\neinem besseren Planeten. Wir bilden unterdessen Menschen aus, die schon im Hier\nund Jetzt den Gesellschaftswandel vorantreiben, Inklusion tagtäglich\nmitgestalten. Denn allen Heilerziehungspfleger:innen liegt ein Stückchen Welt[ ... ]",
     "Training_de": "Heilerziehungspfleger/in",
-    "Training": "Enseignant spécialisé/soignant",
-    "description": "D'autres rêvent encore d'une planète meilleure. Pendant ce temps, nous formons des personnes qui, dès aujourd'hui, sont des acteurs du changement social et qui œuvrent chaque jour pour une inclusion accrue. Car chaque enseignant spécialisé a un monde à portée de main [...]",
+    "Training": "enseignant spécialisé",
+    "description": "D'autres rêvent encore d'une planète meilleure. Parallèlement, nous formons des personnes qui sont déjà les moteurs du changement social, ici et maintenant, et qui contribuent chaque jour à façonner l'inclusion. Parce que tous les enseignants spécialisés ont un bout de monde à portée de main…",
     "title": "Formation d'enseignant spécialisé :"
   },
   {
@@ -2206,7 +2206,7 @@
     "Description_de": "In der dreijährigen Pflegeausbildung wirst Du darauf vorbereitet, Teil des Pflegeteams zu sein. Gemeinsam mit ausgebildeten Pflegenden unterstützt, betreust und versorgst du im Laufe deiner Ausbildung Patienten aller Altersgruppen in den Rems-Murr-Kl[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Au cours de votre formation infirmière de trois ans, vous serez préparé(e) à intégrer l'équipe soignante. Aux côtés d'infirmiers et infirmières qualifiés, vous assurerez la prise en charge et le traitement des patients de tous âges dans les hôpitaux du district de Rems-Murr tout au long de votre formation.",
+    "description": "Au cours de cette formation infirmière de trois ans, vous serez préparé(e) à intégrer l'équipe soignante. Aux côtés d'infirmiers et infirmières qualifiés, vous assurerez la prise en charge et le traitement des patients de tous âges dans les hôpitaux du district de Rems-Murr tout au long de votre formation.",
     "title": "formation en soins infirmiers"
   },
   {
@@ -2223,8 +2223,8 @@
     "Description_de": "Ab hier „Mehr Möglichkeiten“! Für Menschen mit Behinderung und selbstverständlich auch für Dich, Deine Ausbildung und Deine Zukunft bei uns.Anderen Menschen zu helfen und sie zu unterstützen fühlt sich gut an? Dann bist Du bei uns genau richtig! Als [ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
-    "description": "Désormais, place aux opportunités ! Pour les personnes en situation de handicap et, bien sûr, pour vous aussi, votre formation et votre avenir chez nous. Aider et soutenir les autres vous fait du bien ? Alors vous êtes au bon endroit ! [...]",
-    "title": "Formation d'assistant de soins aux personnes âgées"
+    "description": "Désormais, « Plus d'opportunités » ! Pour les personnes en situation de handicap et, bien sûr, pour vous, votre formation et votre avenir chez nous. Aider et soutenir les autres vous fait du bien ? Alors vous êtes au bon endroit ! [...]",
+    "title": "Formation d'assistant en soins gériatriques"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-heilerziehungspfleger-in-m-w-d-markgroeningen-bei-habila-gmbh-in-markgroeningen-c8297701-904f-403d-8bea-bd54280c1d62/",
@@ -2239,7 +2239,7 @@
     "date": "2024-12-22T11:50:47Z",
     "Description_de": "Ab hier \"Mehr Möglichkeiten\"! Für Menschen mit Behinderung und selbstverständlich auch für Dich, Deine Ausbildung und Deine Zukunft bei uns.Du bist motiviert, hast eine „soziale Ader“ und spürst wie andere „ticken“. Dann bist Du bei uns genau richtig[ ... ]",
     "Training_de": "Heilerziehungspfleger/in",
-    "Training": "Enseignant spécialisé/soignant",
+    "Training": "enseignant spécialisé",
     "description": "À partir de maintenant, « Plus d'opportunités » ! Pour les personnes en situation de handicap et, bien sûr, pour vous aussi, votre formation et votre avenir chez nous. Vous êtes motivé(e), avez une conscience sociale et comprenez les autres. Alors vous êtes au bon endroit ! [...]",
     "title": "Formation d'enseignant/soignant en éducation spécialisée"
   },
@@ -2308,8 +2308,8 @@
     "Description_de": "Dann bist Du in der Pflege mehr als richtig!&nbsp;In der einjährigen Altenpflegeausbildung erlernst Du die Fähigkeiten und Kenntnisse, die für eine qualifizierte Mitwirkung und  Mithilfe bei der Betreuung, Versorgung und Pflege älterer Menschen wicht[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
-    "description": "Alors vous êtes plus que prête pour une carrière d'infirmière ! Le programme de formation d'un an en soins infirmiers gériatriques vous permettra d'acquérir les compétences et les connaissances essentielles pour participer activement et avec professionnalisme aux soins, au soutien et aux soins infirmiers des personnes âgées [...]",
-    "title": "Formation d'assistant de soins aux personnes âgées"
+    "description": "Alors les soins infirmiers sont faits pour vous ! Au cours de la formation d'un an en gériatrie, vous acquerrez les compétences et les connaissances essentielles pour participer et contribuer de manière qualifiée aux soins, au soutien et aux soins infirmiers des personnes âgées. [...]",
+    "title": "Formation d'assistant en soins gériatriques"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-zur-pflegefachfrau-zum-pflegefachmann-m-w-d-2025-bei-diakoniewerk-martha-maria-e-v-in-stuttgart-30c7ff21-b469-43f5-88a5-fd080a480ac1/",
@@ -2342,7 +2342,7 @@
     "Description_de": "In der einjährigen Gesundheits- und Krankenpflegehilfeausbildung wirst Du darauf vorbereitet, Teil des Pflegeteams zu sein. Hierbei assistierst Du den Pflegefachpersonen, pflegerische Aufgaben bei der Versorgung von Menschen in allen Lebensphasen und[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "aide-soignant(e)",
-    "description": "Le programme de formation d'un an pour devenir aide-soignant(e) vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans leurs tâches auprès des personnes de tous âges et [...]",
+    "description": "La formation d'un an d'aide-soignant vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans la réalisation des tâches de soins auprès des personnes de tous âges et [...]",
     "title": "Formation d'aide-soignant(e)"
   },
   {
@@ -2410,7 +2410,7 @@
     "Description_de": "In der Pflege hast du die Chance, jeden Tag einen echten Unterschied im Leben von Menschen zu machen. Arbeitszeit ist auch Lebenszeit: Als Pflegehelfer:in (w/m/d) bereicherst du den Alltag deiner Mitmenschen und sorgst dafür, dass ihre Welt ein klein[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
-    "description": "En tant qu'aide-soignant(e), vous avez l'opportunité d'améliorer concrètement la vie des gens au quotidien. Le temps passé au travail est aussi un temps précieux pour la vie : en tant qu'aide-soignant(e), vous enrichissez le quotidien de ceux qui vous entourent et contribuez à rendre leur monde un peu plus agréable.",
+    "description": "En tant qu'aide-soignant(e), vous avez l'opportunité d'améliorer concrètement la vie des gens au quotidien. Le temps de travail est aussi un temps précieux pour la vie : en tant qu'aide-soignant(e), vous enrichissez le quotidien de ceux qui vous entourent et contribuez à rendre leur monde un peu plus agréable.",
     "title": "Formation d'aide-soignant (H/F/D)"
   },
   {
@@ -2427,7 +2427,7 @@
     "Description_de": "Du möchtest für andere Menschen da sein. Du bist einfühlsam im Umgang mit kranken oder alten Menschen. Du arbeitest gerne im Team.Und Du willst eine praxisorientierte Ausbildung machen, auf die du aufbauen kannst.Dann gestalte dein[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "aide-soignant(e)",
-    "description": "Vous souhaitez être présent pour les autres. Vous faites preuve d'empathie envers les personnes malades ou âgées. Vous appréciez le travail d'équipe. Et vous souhaitez suivre une formation pratique qui vous permettra d'évoluer. Alors, concevez votre [...]",
+    "description": "Vous souhaitez être présent pour les autres. Vous faites preuve d'empathie auprès des personnes malades ou âgées. Vous aimez travailler en équipe. Et vous souhaitez suivre une formation pratique et enrichissante. Alors, concevez votre[ ... ]",
     "title": "Formation d'aide-soignant(e)"
   },
   {
@@ -2443,7 +2443,7 @@
     "date": "2024-12-22T11:50:33Z",
     "Description_de": "Der Studiengang qualifiziert Dich für die vielfältigen Einsatzgebiete des Sportmarktes und bereitet Dich auf Schlüsselpositionen z. B. in Vereinen, Verbänden, bei Agenturen, Sportartikelherstellern sowie in kommerziellen Sport- und Freizeitanlagen vo[ ... ]",
     "Training_de": "Duales Studium Sportökonomie",
-    "Training": "double cursus en économie du sport",
+    "Training": "Programme d'études en alternance en économie du sport",
     "description": "Ce programme d'études vous qualifie pour les divers domaines d'application du marché du sport et vous prépare à des postes clés, par exemple dans les clubs, les associations, les agences, les fabricants d'articles de sport et les installations sportives et de loisirs commerciales [...]",
     "title": "Programme de double cursus Baccalauréat ès arts en économie du sport"
   },
@@ -2460,8 +2460,8 @@
     "date": "2024-12-22T11:50:32Z",
     "Description_de": "Ab 01.09.2025 suchen wir für unseren Standort Tübingen Auszubildende alsCHEMIELABORANT (M/W/D). SAGE YES ZU CHT:\nSpannende Aufgaben in einem etablierten, erfolgreichen Unternehmen\nIntensive Einarbeitung in Deine Aufgabe\nEin professionelles Umfeld in Ve[ ... ]",
     "Training_de": "Chemielaborant/in",
-    "Training": "technicien de laboratoire chimique",
-    "description": "À compter du 1er septembre 2025, nous recherchons des stagiaires techniciens de laboratoire chimiste (H/F/D) pour notre site de Tübingen. REJOIGNEZ CHT :\n\nDes missions passionnantes au sein d’une entreprise établie et performante\nUne formation intensive\nUn environnement professionnel à Ve[ ... ]",
+    "Training": "technicien de laboratoire en chimie",
+    "description": "À compter du 1er septembre 2025, nous recherchons des stagiaires pour devenir techniciens de laboratoire chimiste (H/F/D) sur notre site de Tübingen. REJOIGNEZ-NOUS !\n\nDes missions passionnantes au sein d'une entreprise établie et performante\nUne formation intensive adaptée à votre poste\nUn environnement professionnel stimulant [...]",
     "title": "Formation d'assistant de laboratoire chimique"
   },
   {
@@ -2477,7 +2477,7 @@
     "date": "2024-12-22T11:50:31Z",
     "Description_de": "Entscheide Dich für eine praxisbezogene Ausbildung in Deutschlands traditionsreichster Gold- und Silberscheideanstalt. Durch Theorieunterricht an der Berufsschule sowie Praxisphasen im Betrieb wirst du optimal auf Deine Karriere vorbereitet.",
     "Training_de": "Chemielaborant/in",
-    "Training": "technicien de laboratoire chimique",
+    "Training": "technicien de laboratoire en chimie",
     "description": "Optez pour un apprentissage pratique dans la plus ancienne raffinerie d'or et d'argent d'Allemagne. Grâce à une formation théorique en école professionnelle et à des stages pratiques en entreprise, vous serez parfaitement préparé(e) à votre carrière.",
     "title": "Formation d'assistant de laboratoire chimique"
   },
@@ -2494,9 +2494,9 @@
     "date": "2024-12-22T11:50:30Z",
     "Description_de": "Du interessierst Dich für Chemie und die Geheimnisse der Natur, besitzen mathematisch-naturwissenschaftliches Verständnis sowie experimentelles Geschick? Dann kommt eine Ausbildung zum Chemielaboranten (m/w/d)&nbsp;für Dich in Frage.Chemielaboranten [ ... ]",
     "Training_de": "Chemielaborant/in",
-    "Training": "technicien de laboratoire chimique",
+    "Training": "technicien de laboratoire en chimie",
     "description": "Vous êtes passionné(e) par la chimie et les secrets de la nature, et vous possédez des aptitudes en mathématiques, en sciences et en expérimentation ? Alors un apprentissage de technicien(ne) de laboratoire chimiste (H/F/D) pourrait vous convenir. Les techniciens(nes) de laboratoire chimistes [...]",
-    "title": "Formation d'assistant de laboratoire chimique"
+    "title": "Formation de technicien de laboratoire chimique"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-chemielaborant-in-m-w-d-bei-sgs-holding-deutschland-b-v-co-kg-in-fellbach-94bcbc98-0ad2-4d56-bbd6-2f1612d90971/",
@@ -2511,8 +2511,8 @@
     "date": "2024-12-22T11:50:28Z",
     "Description_de": "BE THE CHANGE I BE SGS&nbsp;heißt es für neugierige, leidenschaftliche und engagierte Menschen, die Stabilität, Entwicklungsmöglichkeiten und die Chance suchen, etwas zu bewirken. Die SGS-Gruppe ist das weltweit führende Unternehmen in den Bereichen [ ... ]",
     "Training_de": "Chemielaborant/in",
-    "Training": "technicien de laboratoire chimique",
-    "description": "SOYEZ LE CHANGEMENT | SOYEZ SGS – telle est la devise des personnes curieuses, passionnées et engagées, en quête de stabilité, d'opportunités de développement et de la possibilité d'avoir un impact positif. Le groupe SGS est le leader mondial dans les domaines de [...]",
+    "Training": "technicien de laboratoire en chimie",
+    "description": "SOYEZ LE CHANGEMENT I BE SGS s'adresse aux personnes curieuses, passionnées et engagées qui recherchent la stabilité, des opportunités de développement et la chance de faire la différence. Le groupe SGS est le leader mondial [...]",
     "title": "Formation d'assistant de laboratoire chimique"
   },
   {
@@ -2528,7 +2528,7 @@
     "date": "2024-12-22T11:50:27Z",
     "Description_de": "Chemie, Naturwissenschaften und Technik sind genau dein Ding? On top wünscht du dir einen zukunftsorientierten Traumjob mit vielfältigen Einsatzmöglichkeiten? Du hast Wissenshunger und willst herausfinden, was noch in dir steckt? Dann b[ ... ]",
     "Training_de": "Chemielaborant/in",
-    "Training": "technicien de laboratoire chimique",
+    "Training": "technicien de laboratoire en chimie",
     "description": "La chimie, les sciences naturelles et la technologie vous passionnent ? De plus, vous rêvez d'un emploi d'avenir offrant des opportunités variées ? Vous avez soif de connaissances et souhaitez découvrir votre potentiel caché ? Alors b[ ... ]",
     "title": "Formation d'assistant de laboratoire chimique"
   },
@@ -2545,8 +2545,8 @@
     "date": "2024-12-22T11:50:25Z",
     "Description_de": "Chemielaboranten (m/w/d) bereiten chemische Untersuchungen vor und führen sie durch. Sie protokollieren Versuchsergebnisse und werten sie aus. Im Rahmen von Neuentwicklungen stellen sie Mustermaterialien her und erproben diese. Das breit gefächerte A[ ... ]",
     "Training_de": "Chemielaborant/in",
-    "Training": "technicien de laboratoire chimique",
-    "description": "Les techniciens de laboratoire chimiste (H/F/D) préparent et réalisent des analyses chimiques. Ils consignent et évaluent les résultats expérimentaux. Dans le cadre du développement de nouveaux produits, ils produisent et testent des échantillons. Leurs tâches variées comprennent notamment […].",
+    "Training": "technicien de laboratoire en chimie",
+    "description": "Les techniciens de laboratoire en chimie (h/f/d) préparent et réalisent des analyses chimiques. Ils enregistrent et analysent les résultats. Dans le cadre des nouveaux développements, ils produisent et testent des échantillons. La vaste gamme de [...]",
     "title": "Formation d'assistant de laboratoire chimique"
   },
   {
@@ -2564,7 +2564,7 @@
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
     "description": "Voici ce que vous pouvez attendre de nous :\n\nAlternance de théorie et de pratique : Vos cours théoriques se déroulent dans une école d’infirmières, tandis que la partie pratique se déroule dans notre établissement ainsi que dans des hôpitaux. […]",
-    "title": "Formation pour devenir professionnel infirmier"
+    "title": "Formation pour devenir un professionnel des soins infirmiers"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-pflegefachmann-frau-m-w-d-bei-maxq-im-bfw-unternehmen-fuer-bildung-berufsfortbildungswerk-gemeinnuetzige-bildungseinrichtung-des-dgb-gmbh-bfw-in-stuttgart-c443fe1e-6b95-4901-8f12-fdb6ebe105ae/",
@@ -2596,9 +2596,9 @@
     "date": "2024-12-22T11:50:22Z",
     "Description_de": "Möchtest Du Menschen neue berufliche Perspektiven eröffnen? Dann passt eine Ausbildung in Arbeitserziehung zu Dir.Arbeitserziehung - Pädagogische Ausbildung oder Umschulung für Berufserfahrene mit vielseitigen PerspektivenArbeitserzieher:innen sind a[ ... ]",
     "Training_de": "Arbeitserzieher/in",
-    "Training": "Formateur en travail",
+    "Training": "Éducateur du travail",
     "description": "Vous souhaitez offrir de nouvelles perspectives de carrière aux gens ? Alors la formation professionnelle est faite pour vous. La formation professionnelle est une formation pédagogique ou un perfectionnement destiné aux professionnels expérimentés aux perspectives diverses. Les formateurs professionnels sont des […].",
-    "title": "Formation en tant que formateur en milieu professionnel"
+    "title": "Formation d'éducateur au travail"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-altenpflegehelfer-in-m-w-d-bei-maxq-im-bfw-unternehmen-fuer-bildung-berufsfortbildungswerk-gemeinnuetzige-bildungseinrichtung-des-dgb-gmbh-bfw-in-stuttgart-197308d1-95d5-453f-a9d9-cc371a6f48a2/",
@@ -2614,8 +2614,8 @@
     "Description_de": "Hast du Interesse an der Betreuung und Pflege älterer Menschen? Mach eine Ausbildung in der Altenpflegehilfe.In nur einem Jahr zu einem Job mit besten Zukunftsaussichten – Ausbildung zum/zur Altenpflegehelfer:inVerbinde deine Kompetenz im Umgang mit [ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
-    "description": "Vous souhaitez prendre soin des personnes âgées et les accompagner ? Devenez auxiliaire de vie auprès des personnes âgées. En seulement un an, vous pouvez accéder à un emploi offrant d’excellentes perspectives d’avenir. Formez-vous comme auxiliaire de vie auprès des personnes âgées et développez vos compétences dans ce domaine.",
-    "title": "Formation d'assistant de soins aux personnes âgées"
+    "description": "Vous souhaitez prendre soin des personnes âgées et les accompagner ? Devenez aide-soignant(e) en gériatrie. Accédez à un emploi offrant d'excellentes perspectives d'avenir en seulement un an grâce à cette formation. Mettez votre expertise au service des personnes âgées et des personnes âgées.",
+    "title": "Formation d'assistant en soins gériatriques"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/duales-studium-bachelor-of-arts-fitnessoekonomie-m-w-d-bei-deutsche-hochschule-fuer-praevention-und-gesundheitsmanagement-gmbh-in-stuttgart-a912b805-1f52-4c93-a3f1-1796923f3b47/",
@@ -2647,7 +2647,7 @@
     "date": "2024-12-22T11:50:19Z",
     "Description_de": "Der Studiengang qualifiziert Dich zur Spezialistin bzw. zum Spezialisten in der Prävention, die bzw. der gesundheitsförderliche Maßnahmen in den zentralen Handlungsfeldern Bewegung, Ernährung und Entspannung/- Stressmanagement plant, koordiniert, ums[ ... ]",
     "Training_de": "Duales Studium Gesundheitsmanagement",
-    "Training": "double cursus en gestion de la santé",
+    "Training": "Programme d'études doubles en gestion de la santé",
     "description": "Ce programme d'études vous qualifie pour devenir un spécialiste en prévention, capable de planifier, de coordonner et de mettre en œuvre des mesures de promotion de la santé dans les domaines clés de l'exercice physique, de la nutrition et de la gestion du stress et de la relaxation.",
     "title": "Double cursus Baccalauréat ès arts en gestion de la santé"
   }
