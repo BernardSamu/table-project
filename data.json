@@ -336,7 +336,7 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de fournir à tous, partout et à tout moment, [...]",
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de proposer à tous, partout et à tout moment, [...]",
     "title": "Formation de vendeur ou de commerçant de détail"
   },
   {
@@ -353,8 +353,8 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Handelsfachwirt/in",
     "Training": "Spécialiste certifié du commerce de détail",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de fournir à tous, partout et à tout moment, [...]",
-    "title": "Programme d'Abiturient pour spécialistes commerciaux certifiés"
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de proposer à tous, partout et à tout moment, [...]",
+    "title": "Programme Abiturient pour spécialistes commerciaux certifiés"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-verkaeufer-m-w-d-im-einzelhandel-bei-denns-biomarkt-gmbh-in-braunschweig-31186a8b-cdba-490b-9b40-c15741e434b6/",
@@ -524,7 +524,7 @@
     "Training_de": "Hotelfachmann/-frau",
     "Training": "spécialiste hôtelier",
     "description": "Notre groupe ACHAT, qui compte actuellement près de 50 hôtels et plus de 1 300 collaborateurs, veille chaque jour au confort de ses clients. Nous recherchons des professionnels qui, comme nous, sont passionnés par un environnement innovant, tourné vers l’avenir et véritablement axé sur l’excellence.",
-    "title": "Spécialiste hôtelière stagiaire / spécialiste hôtelière (femme)"
+    "title": "Stagiaire en gestion hôtelière / Stagiaire en gestion hôtelière"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-zum-verkaeufer-m-w-d-bei-netto-marken-discount-stiftung-co-kg-in-braunschweig-5d21627c-eb19-4818-a6b5-e6ce2193129c/",
@@ -642,7 +642,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Laboratoriumsanalytik  führen mit Hilfe verschiedener Verfahren und Techniken vielfältige labortechnische Untersuchungen durch. Die Arbeit der MTL bildet somit die Grundlage für jegliche gesicherte ärztliche[ ... ]",
     "Training_de": "MTL (Medizinische/r Technologe/Technologin für Laboratoriumsanalytik)",
     "Training": "MTL (Technologue médical en analyses de laboratoire)",
-    "description": "Les techniciens de laboratoire médical réalisent une vaste gamme d'analyses en utilisant diverses méthodes et techniques. Leur travail constitue ainsi la base de tout diagnostic médical fiable.",
+    "description": "Les technologues de laboratoire médical réalisent une vaste gamme d'analyses de laboratoire à l'aide de diverses méthodes et techniques. Leur travail constitue ainsi la base de tout diagnostic médical fiable.",
     "title": "Formation en technologie médicale pour les analyses de laboratoire"
   },
   {
@@ -778,7 +778,7 @@
     "Description_de": "Pflegefachpersonen sind für die bestmögliche Versorgung und Betreuung der Patient*innen im ambulanten und stationären Bereich verantwortlich. Sie werden zur Pflege von Menschen aller Altersstufen und in allen Versorgungsbereichen (z.B. Krankenhäuser,[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Les professionnels infirmiers sont responsables de fournir les meilleurs soins et le meilleur soutien possibles aux patients, qu'ils soient hospitalisés ou en consultation externe. Ils sont employés pour soigner des personnes de tous âges et dans tous les contextes de soins (par exemple, les hôpitaux, [...]).",
+    "description": "Les professionnels infirmiers sont responsables de fournir les meilleurs soins et le meilleur soutien possibles aux patients, que ce soit en consultation externe ou en hospitalisation. Ils sont formés pour prendre en charge des personnes de tous âges et dans tous les contextes de soins (par exemple, les hôpitaux, [...]).",
     "title": "Formation en soins infirmiers - début avril 2025"
   },
   {
@@ -795,7 +795,7 @@
     "Description_de": "Achtung! Bewerbungen aus dem Ausland benötigen zwingend ein in Deutschland anerkanntes Schulzeugnis! Ansonsten können wir Ihre Bewerbung nicht bearbeiten!\nAusbildungsdauer: Die Ausbildung dauert drei Jahre. Sie beginnt jeweils zum 1. April oder 1. Ok[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Attention ! Les candidatures en provenance de l’étranger doivent être accompagnées d’un diplôme scolaire reconnu en Allemagne. À défaut, votre candidature ne pourra être traitée.\n\nDurée de la formation : La formation dure trois ans. Elle débute le 1er avril ou le 1er octobre [...]",
+    "description": "Attention ! Les candidatures provenant de l’étranger doivent être accompagnées d’un certificat scolaire reconnu en Allemagne. À défaut, votre candidature ne pourra être traitée.\n\nDurée de la formation : La formation dure trois ans. Elle débute le 1er avril ou le 1er octobre [...]",
     "title": "formation en soins infirmiers"
   },
   {
@@ -829,7 +829,7 @@
     "Description_de": "Achtung! Bewerbungen aus dem Ausland benötigen zwingend ein in Deutschland anerkanntes Schulzeugnis! Ansonsten können wir Ihre Bewerbung nicht bearbeiten!\nAusbildungsdauer: Die Ausbildung dauert drei Jahre. Sie beginnt jeweils zum 1. April oder 1. Ok[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Attention ! Les candidatures en provenance de l’étranger doivent être accompagnées d’un diplôme scolaire reconnu en Allemagne. À défaut, votre candidature ne pourra être traitée.\n\nDurée de la formation : La formation dure trois ans. Elle débute le 1er avril ou le 1er octobre [...]",
+    "description": "Attention ! Les candidatures provenant de l’étranger doivent être accompagnées d’un certificat scolaire reconnu en Allemagne. À défaut, votre candidature ne pourra être traitée.\n\nDurée de la formation : La formation dure trois ans. Elle débute le 1er avril ou le 1er octobre [...]",
     "title": "formation en soins infirmiers"
   },
   {
@@ -1118,7 +1118,7 @@
     "Description_de": "In der einjährigen Gesundheits- und Krankenpflegehilfeausbildung wirst Du darauf vorbereitet, Teil des Pflegeteams zu sein. Hierbei assistierst Du den Pflegefachpersonen, pflegerische Aufgaben bei der Versorgung von Menschen in allen Lebensphasen und[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "aide-soignant(e)",
-    "description": "Le programme de formation d'un an pour devenir aide-soignant(e) vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans leurs tâches auprès des personnes de tous âges et de tous âges.",
+    "description": "Le programme de formation d'un an pour devenir aide-soignant(e) vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans leurs tâches auprès des personnes de tous âges et [...]",
     "title": "Formation d'aide-soignant(e)"
   },
   {
@@ -1594,7 +1594,7 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de fournir à tous, partout et à tout moment, [...]",
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de proposer à tous, partout et à tout moment, [...]",
     "title": "Formation de vendeur ou de commerçant de détail"
   },
   {
@@ -1611,8 +1611,8 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Handelsfachwirt/in",
     "Training": "Spécialiste certifié du commerce de détail",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de fournir à tous, partout et à tout moment, [...]",
-    "title": "Programme d'Abiturient pour spécialistes commerciaux certifiés"
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de proposer à tous, partout et à tout moment, [...]",
+    "title": "Programme Abiturient pour spécialistes commerciaux certifiés"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-verkaeufer-m-w-d-im-einzelhandel-bei-denns-biomarkt-gmbh-in-braunschweig-31186a8b-cdba-490b-9b40-c15741e434b6/",
@@ -1663,7 +1663,7 @@
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
     "description": "Le concept d'ATU repose sur l'association unique d'un atelier et d'un magasin. Fondée à Weiden en 1985, ATU est devenue la plus grande chaîne d'ateliers d'Allemagne, avec aujourd'hui plus de 500 succursales et [...]",
-    "title": "vendeurs stagiaires et employés de magasin"
+    "title": "vendeurs stagiaires et employés de vente au détail"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/landschaftsgaertner-m-w-d-bei-die-landschaftsgaertner-in-braunschweig-051db702-f295-4057-8f9c-76baabafff50/",
@@ -1782,7 +1782,7 @@
     "Training_de": "Hotelfachmann/-frau",
     "Training": "spécialiste hôtelier",
     "description": "Notre groupe ACHAT, qui compte actuellement près de 50 hôtels et plus de 1 300 collaborateurs, veille chaque jour au confort de ses clients. Nous recherchons des professionnels qui, comme nous, sont passionnés par un environnement innovant, tourné vers l’avenir et véritablement axé sur l’excellence.",
-    "title": "Spécialiste hôtelière stagiaire / spécialiste hôtelière (femme)"
+    "title": "Stagiaire en gestion hôtelière / Stagiaire en gestion hôtelière"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-zum-verkaeufer-m-w-d-bei-netto-marken-discount-stiftung-co-kg-in-braunschweig-5d21627c-eb19-4818-a6b5-e6ce2193129c/",
@@ -2002,7 +2002,7 @@
     "Description_de": "Pflegefachpersonen sind für die bestmögliche Versorgung und Betreuung der Patient*innen im ambulanten und stationären Bereich verantwortlich. Sie werden zur Pflege von Menschen aller Altersstufen und in allen Versorgungsbereichen (z.B. Krankenhäuser,[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Les professionnels infirmiers sont responsables de fournir les meilleurs soins et le meilleur soutien possibles aux patients, qu'ils soient hospitalisés ou en consultation externe. Ils sont employés pour soigner des personnes de tous âges et dans tous les contextes de soins (par exemple, les hôpitaux, [...]).",
+    "description": "Les professionnels infirmiers sont responsables de fournir les meilleurs soins et le meilleur soutien possibles aux patients, que ce soit en consultation externe ou en hospitalisation. Ils sont formés pour prendre en charge des personnes de tous âges et dans tous les contextes de soins (par exemple, les hôpitaux, [...]).",
     "title": "Formation en soins infirmiers - début avril 2025"
   },
   {
@@ -2342,7 +2342,7 @@
     "Description_de": "In der einjährigen Gesundheits- und Krankenpflegehilfeausbildung wirst Du darauf vorbereitet, Teil des Pflegeteams zu sein. Hierbei assistierst Du den Pflegefachpersonen, pflegerische Aufgaben bei der Versorgung von Menschen in allen Lebensphasen und[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "aide-soignant(e)",
-    "description": "Le programme de formation d'un an pour devenir aide-soignant(e) vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans leurs tâches auprès des personnes de tous âges et de tous âges.",
+    "description": "Le programme de formation d'un an pour devenir aide-soignant(e) vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans leurs tâches auprès des personnes de tous âges et [...]",
     "title": "Formation d'aide-soignant(e)"
   },
   {
@@ -2614,7 +2614,7 @@
     "Description_de": "Hast du Interesse an der Betreuung und Pflege älterer Menschen? Mach eine Ausbildung in der Altenpflegehilfe.In nur einem Jahr zu einem Job mit besten Zukunftsaussichten – Ausbildung zum/zur Altenpflegehelfer:inVerbinde deine Kompetenz im Umgang mit [ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
-    "description": "Vous souhaitez prendre soin des personnes âgées et les accompagner ? Formez-vous pour devenir auxiliaire de vie auprès des personnes âgées. En seulement un an, vous pouvez décrocher un emploi offrant d’excellentes perspectives d’avenir. La formation d’auxiliaire de vie auprès des personnes âgées vous permettra de développer vos compétences et votre savoir-faire.",
+    "description": "Vous souhaitez prendre soin des personnes âgées et les accompagner ? Devenez auxiliaire de vie auprès des personnes âgées. En seulement un an, vous pouvez accéder à un emploi offrant d’excellentes perspectives d’avenir. Formez-vous comme auxiliaire de vie auprès des personnes âgées et développez vos compétences dans ce domaine.",
     "title": "Formation d'assistant de soins aux personnes âgées"
   },
   {
@@ -2649,6 +2649,6 @@
     "Training_de": "Duales Studium Gesundheitsmanagement",
     "Training": "double cursus en gestion de la santé",
     "description": "Ce programme d'études vous qualifie pour devenir un spécialiste en prévention, capable de planifier, de coordonner et de mettre en œuvre des mesures de promotion de la santé dans les domaines clés de l'exercice physique, de la nutrition et de la gestion du stress et de la relaxation.",
-    "title": "Double cursus Baccalauréat ès arts en gestion de la santé"
+    "title": "Programme de double cursus : Licence ès arts en gestion de la santé"
   }
 ]
