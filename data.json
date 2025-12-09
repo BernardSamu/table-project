@@ -115,7 +115,7 @@
     "Description_de": "In deiner Ausbildung bei Denns BioMarkt lernst du nach und nach jeden Bereich deines Marktes kennen. Dabei erfährst du alles von A wie Abschreibung bis Z wie Zitrusfrüchte. Du unterstützt dein Team tatkräftig im Tagesgeschäft und sorgst damit für ein[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects de votre magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe dans ses opérations quotidiennes et contribuerez ainsi à son bon fonctionnement.",
+    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects du magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe au quotidien et contribuerez ainsi à son bon fonctionnement.",
     "title": "Apprentissage comme commis commercial"
   },
   {
@@ -370,7 +370,7 @@
     "Description_de": "In deiner Ausbildung bei Denns BioMarkt lernst du nach und nach jeden Bereich deines Marktes kennen. Dabei erfährst du alles von A wie Abschreibung bis Z wie Zitrusfrüchte. Du unterstützt dein Team tatkräftig im Tagesgeschäft und sorgst damit für ein[ ... ]",
     "Training_de": "Verkäufer/in",
     "Training": "Vendeuse",
-    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects de votre magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe dans ses opérations quotidiennes et contribuerez ainsi à son bon fonctionnement.",
+    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects du magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe au quotidien et contribuerez ainsi à son bon fonctionnement.",
     "title": "Formation des vendeurs"
   },
   {
@@ -387,7 +387,7 @@
     "Description_de": "In deiner Ausbildung bei Denns BioMarkt lernst du nach und nach jeden Bereich deines Marktes kennen. Dabei erfährst du alles von A wie Abschreibung bis Z wie Zitrusfrüchte. Du unterstützt dein Team tatkräftig im Tagesgeschäft und sorgst damit für ein[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects de votre magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe dans ses opérations quotidiennes et contribuerez ainsi à son bon fonctionnement.",
+    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects du magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe au quotidien et contribuerez ainsi à son bon fonctionnement.",
     "title": "Apprentissage comme commis commercial"
   },
   {
@@ -523,7 +523,7 @@
     "Description_de": "Unsere ACHAT Gruppe mit aktuell fast 50 Hotels und über 1.300 Mitarbeitenden sorgen täglich dafür, dass sich unsere Gäste wohlfühlen.Wir suchen professionelle Unterstützung, die wie wir, Lust auf einen innovativen, zukunftsorientierten und echt guten[ ... ]",
     "Training_de": "Hotelfachmann/-frau",
     "Training": "spécialiste hôtelier",
-    "description": "Notre groupe ACHAT, qui compte actuellement près de 50 hôtels et plus de 1 300 collaborateurs, veille chaque jour au confort de ses clients. Nous recherchons des professionnels qui, comme nous, sont passionnés par un environnement innovant, tourné vers l’avenir et véritablement axé sur l’excellence.",
+    "description": "Notre groupe ACHAT, qui compte près de 50 hôtels et plus de 1 300 collaborateurs, veille au confort quotidien de ses clients. Nous recherchons des professionnels qui, comme nous, sont passionnés par un environnement innovant, tourné vers l’avenir et visant l’excellence. [...]",
     "title": "Stagiaire en gestion hôtelière / Stagiaire en gestion hôtelière"
   },
   {
@@ -574,7 +574,7 @@
     "Description_de": "Die Operationstechnischen Assistent*innen  sind ein unverzichtbarer Bestandteil im OP-Team. Sie übernehmen vielfältige Aufgaben, die zum reibungslosen Ablauf einer Operation beitragen. In ihrer Rüstung aka OP-Kleidung sorgen sie für die optimale[ ... ]",
     "Training_de": "Operationstechnische/r Assistent/in",
     "Training": "technicien chirurgical",
-    "description": "Les technologues en chirurgie sont un maillon indispensable de l'équipe du bloc opératoire. Ils accomplissent un large éventail de tâches qui contribuent au bon déroulement d'une intervention. Vêtus de leur tenue chirurgicale, ils assurent une protection optimale [...]",
+    "description": "Les techniciens de bloc opératoire sont un maillon indispensable de l'équipe. Ils accomplissent de nombreuses tâches qui contribuent au bon déroulement des interventions. Vêtus de leur tenue chirurgicale, ils assurent une protection optimale [...]",
     "title": "Formation d'assistant de salle d'opération"
   },
   {
@@ -642,7 +642,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Laboratoriumsanalytik  führen mit Hilfe verschiedener Verfahren und Techniken vielfältige labortechnische Untersuchungen durch. Die Arbeit der MTL bildet somit die Grundlage für jegliche gesicherte ärztliche[ ... ]",
     "Training_de": "MTL (Medizinische/r Technologe/Technologin für Laboratoriumsanalytik)",
     "Training": "MTL (Technologue médical en analyses de laboratoire)",
-    "description": "Les techniciens de laboratoire médical réalisent une vaste gamme d'analyses en utilisant diverses méthodes et techniques. Leur travail constitue ainsi la base de tout diagnostic médical fiable.",
+    "description": "Les technologues de laboratoire médical réalisent une vaste gamme d'analyses de laboratoire à l'aide de diverses méthodes et techniques. Leur travail constitue ainsi la base de tout diagnostic médical fiable.",
     "title": "Formation en technologie médicale pour les analyses de laboratoire"
   },
   {
@@ -744,7 +744,7 @@
     "Description_de": "Eine Pflegefachkraft in einem Krankenhaus hat eine Vielzahl von Aufgaben, die sich je nach Fachgebiet, Abteilung und spezifischem Bedarf der Patienten variieren können. Hier sind einige typische Aufgaben, die Pflegefachkräfte ausführen könnten:Medizi[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Une infirmière en milieu hospitalier accomplit un large éventail de tâches qui peuvent varier selon sa spécialité, son service et les besoins spécifiques des patients. Voici quelques tâches typiques qu'elle peut effectuer : Médicales […]",
+    "description": "Une infirmière en milieu hospitalier effectue une grande variété de tâches qui peuvent varier selon sa spécialité, son service et les besoins spécifiques des patients. Voici quelques tâches typiques qu'elle peut être amenée à réaliser : Médicales […]",
     "title": "formation en soins infirmiers"
   },
   {
@@ -881,7 +881,7 @@
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
     "description": "En tant qu'aide-soignant(e) qualifié(e), vous travaillez en collaboration avec de nombreux professionnels de santé. Vous assurez de manière autonome le soutien, les soins et l'accompagnement de personnes de tous âges et contribuez à la promotion, au maintien et à l'amélioration de leur santé.",
-    "title": "Formation d'assistant de soins aux personnes âgées (h/f/d)"
+    "title": "Formation d'assistant de soins aux personnes âgées (H/F/D)"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-pflegefachmann-frau-m-w-d-bei-srh-klinikum-karlsbad-langensteinbach-gmbh-in-karlsbad-7cdc3d6f-0e53-4e59-baf4-3316c42dcd67/",
@@ -1118,7 +1118,7 @@
     "Description_de": "In der einjährigen Gesundheits- und Krankenpflegehilfeausbildung wirst Du darauf vorbereitet, Teil des Pflegeteams zu sein. Hierbei assistierst Du den Pflegefachpersonen, pflegerische Aufgaben bei der Versorgung von Menschen in allen Lebensphasen und[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "aide-soignant(e)",
-    "description": "Le programme de formation d'un an pour devenir aide-soignant(e) vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans leurs tâches auprès des personnes de tous âges et [...]",
+    "description": "Le programme de formation d'un an pour devenir aide-soignant(e) vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans leurs tâches auprès des personnes de tous âges et de tous âges.",
     "title": "Formation d'aide-soignant(e)"
   },
   {
@@ -1373,7 +1373,7 @@
     "Description_de": "In deiner Ausbildung bei Denns BioMarkt lernst du nach und nach jeden Bereich deines Marktes kennen. Dabei erfährst du alles von A wie Abschreibung bis Z wie Zitrusfrüchte. Du unterstützt dein Team tatkräftig im Tagesgeschäft und sorgst damit für ein[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects de votre magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe dans ses opérations quotidiennes et contribuerez ainsi à son bon fonctionnement.",
+    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects du magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe au quotidien et contribuerez ainsi à son bon fonctionnement.",
     "title": "Apprentissage comme commis commercial"
   },
   {
@@ -1628,7 +1628,7 @@
     "Description_de": "In deiner Ausbildung bei Denns BioMarkt lernst du nach und nach jeden Bereich deines Marktes kennen. Dabei erfährst du alles von A wie Abschreibung bis Z wie Zitrusfrüchte. Du unterstützt dein Team tatkräftig im Tagesgeschäft und sorgst damit für ein[ ... ]",
     "Training_de": "Verkäufer/in",
     "Training": "Vendeuse",
-    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects de votre magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe dans ses opérations quotidiennes et contribuerez ainsi à son bon fonctionnement.",
+    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects du magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe au quotidien et contribuerez ainsi à son bon fonctionnement.",
     "title": "Formation des vendeurs"
   },
   {
@@ -1645,7 +1645,7 @@
     "Description_de": "In deiner Ausbildung bei Denns BioMarkt lernst du nach und nach jeden Bereich deines Marktes kennen. Dabei erfährst du alles von A wie Abschreibung bis Z wie Zitrusfrüchte. Du unterstützt dein Team tatkräftig im Tagesgeschäft und sorgst damit für ein[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects de votre magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe dans ses opérations quotidiennes et contribuerez ainsi à son bon fonctionnement.",
+    "description": "Durant votre apprentissage chez Denns BioMarkt, vous découvrirez progressivement tous les aspects du magasin. Vous apprendrez tout, de l'amortissement aux agrumes. Vous épaulerez activement votre équipe au quotidien et contribuerez ainsi à son bon fonctionnement.",
     "title": "Apprentissage comme commis commercial"
   },
   {
@@ -1781,7 +1781,7 @@
     "Description_de": "Unsere ACHAT Gruppe mit aktuell fast 50 Hotels und über 1.300 Mitarbeitenden sorgen täglich dafür, dass sich unsere Gäste wohlfühlen.Wir suchen professionelle Unterstützung, die wie wir, Lust auf einen innovativen, zukunftsorientierten und echt guten[ ... ]",
     "Training_de": "Hotelfachmann/-frau",
     "Training": "spécialiste hôtelier",
-    "description": "Notre groupe ACHAT, qui compte actuellement près de 50 hôtels et plus de 1 300 collaborateurs, veille chaque jour au confort de ses clients. Nous recherchons des professionnels qui, comme nous, sont passionnés par un environnement innovant, tourné vers l’avenir et véritablement axé sur l’excellence.",
+    "description": "Notre groupe ACHAT, qui compte près de 50 hôtels et plus de 1 300 collaborateurs, veille au confort quotidien de ses clients. Nous recherchons des professionnels qui, comme nous, sont passionnés par un environnement innovant, tourné vers l’avenir et visant l’excellence. [...]",
     "title": "Stagiaire en gestion hôtelière / Stagiaire en gestion hôtelière"
   },
   {
@@ -1866,7 +1866,7 @@
     "Description_de": "Die Medizinischen Technolog*innen für Radiologie (MTR) arbeiten mit modernsten medizinischen Geräten, wie CT-Scannern, MRTs und Röntgengeräten, um hochauflösende Bilder des Körpers zu erstellen. An der Schnittstelle zwischen Technik, Ärzt*innen und P[ ... ]",
     "Training_de": "MTR (Medizinische/r Technologe/Technologin für Radiologie)",
     "Training": "MTR (Technicien médical en radiologie)",
-    "description": "Les technologues en radiologie médicale utilisent des équipements médicaux de pointe, tels que les scanners, les appareils d'IRM et les appareils de radiographie, pour créer des images haute résolution du corps. Ils assurent la liaison entre la technologie, les médecins et les patients.",
+    "description": "Les technologues en radiologie médicale utilisent des équipements médicaux de pointe, tels que les scanners, les IRM et les appareils à rayons X, pour créer des images haute résolution du corps. Ils assurent la liaison entre la technologie, les médecins et les patients.",
     "title": "Formation en technologie médicale pour la radiologie"
   },
   {
@@ -1968,7 +1968,7 @@
     "Description_de": "Eine Pflegefachkraft in einem Krankenhaus hat eine Vielzahl von Aufgaben, die sich je nach Fachgebiet, Abteilung und spezifischem Bedarf der Patienten variieren können. Hier sind einige typische Aufgaben, die Pflegefachkräfte ausführen könnten:Medizi[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Une infirmière en milieu hospitalier accomplit un large éventail de tâches qui peuvent varier selon sa spécialité, son service et les besoins spécifiques des patients. Voici quelques tâches typiques qu'elle peut effectuer : Médicales […]",
+    "description": "Une infirmière en milieu hospitalier effectue une grande variété de tâches qui peuvent varier selon sa spécialité, son service et les besoins spécifiques des patients. Voici quelques tâches typiques qu'elle peut être amenée à réaliser : Médicales […]",
     "title": "formation en soins infirmiers"
   },
   {
@@ -2342,7 +2342,7 @@
     "Description_de": "In der einjährigen Gesundheits- und Krankenpflegehilfeausbildung wirst Du darauf vorbereitet, Teil des Pflegeteams zu sein. Hierbei assistierst Du den Pflegefachpersonen, pflegerische Aufgaben bei der Versorgung von Menschen in allen Lebensphasen und[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "aide-soignant(e)",
-    "description": "Le programme de formation d'un an pour devenir aide-soignant(e) vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans leurs tâches auprès des personnes de tous âges et [...]",
+    "description": "Le programme de formation d'un an pour devenir aide-soignant(e) vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans leurs tâches auprès des personnes de tous âges et de tous âges.",
     "title": "Formation d'aide-soignant(e)"
   },
   {
@@ -2496,7 +2496,7 @@
     "Training_de": "Chemielaborant/in",
     "Training": "technicien de laboratoire chimique",
     "description": "Vous êtes passionné(e) par la chimie et les secrets de la nature, et vous possédez des aptitudes en mathématiques, en sciences et en expérimentation ? Alors un apprentissage de technicien(ne) de laboratoire chimiste (H/F/D) pourrait vous convenir. Les techniciens(nes) de laboratoire chimistes [...]",
-    "title": "Formation d'assistant de laboratoire chimique"
+    "title": "Formation de technicien de laboratoire chimique"
   },
   {
     "url_source": "https://www.ausbildung.de/stellen/ausbildung-chemielaborant-in-m-w-d-bei-sgs-holding-deutschland-b-v-co-kg-in-fellbach-94bcbc98-0ad2-4d56-bbd6-2f1612d90971/",
