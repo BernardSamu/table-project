@@ -336,7 +336,7 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de fournir à tous, partout et à tout moment, [...]",
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de proposer à tous, partout et à tout moment, [...]",
     "title": "Formation de vendeur ou de commerçant de détail"
   },
   {
@@ -353,7 +353,7 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Handelsfachwirt/in",
     "Training": "Spécialiste certifié du commerce de détail",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de fournir à tous, partout et à tout moment, [...]",
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de proposer à tous, partout et à tout moment, [...]",
     "title": "Programme Abiturient pour spécialistes commerciaux certifiés"
   },
   {
@@ -574,7 +574,7 @@
     "Description_de": "Die Operationstechnischen Assistent*innen  sind ein unverzichtbarer Bestandteil im OP-Team. Sie übernehmen vielfältige Aufgaben, die zum reibungslosen Ablauf einer Operation beitragen. In ihrer Rüstung aka OP-Kleidung sorgen sie für die optimale[ ... ]",
     "Training_de": "Operationstechnische/r Assistent/in",
     "Training": "technicien chirurgical",
-    "description": "Les technologues en chirurgie sont un maillon indispensable de l'équipe du bloc opératoire. Ils accomplissent un large éventail de tâches qui contribuent au bon déroulement d'une intervention. Vêtus de leur tenue chirurgicale, ils assurent une protection optimale [...]",
+    "description": "Les techniciens de bloc opératoire sont un maillon indispensable de l'équipe. Ils accomplissent de nombreuses tâches qui contribuent au bon déroulement des interventions. Vêtus de leur tenue chirurgicale, ils assurent une protection optimale [...]",
     "title": "Formation d'assistant de salle d'opération"
   },
   {
@@ -778,7 +778,7 @@
     "Description_de": "Pflegefachpersonen sind für die bestmögliche Versorgung und Betreuung der Patient*innen im ambulanten und stationären Bereich verantwortlich. Sie werden zur Pflege von Menschen aller Altersstufen und in allen Versorgungsbereichen (z.B. Krankenhäuser,[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Les professionnels infirmiers sont responsables de fournir les meilleurs soins et le meilleur soutien possibles aux patients, tant en consultation externe qu'en hospitalisation. Ils sont formés pour prendre en charge des personnes de tous âges et dans tous les contextes de soins (par exemple, les hôpitaux, [...]).",
+    "description": "Les professionnels infirmiers sont responsables de fournir les meilleurs soins et le meilleur soutien possibles aux patients, qu'ils soient hospitalisés ou en consultation externe. Ils sont employés pour soigner des personnes de tous âges et dans tous les contextes de soins (par exemple, les hôpitaux, [...]).",
     "title": "Formation en soins infirmiers - début avril 2025"
   },
   {
@@ -982,7 +982,7 @@
     "Description_de": "In der dreijährigen Pflegeausbildung wirst Du darauf vorbereitet, Teil des Pflegeteams zu sein. Gemeinsam mit ausgebildeten Pflegenden unterstützt, betreust und versorgst du im Laufe deiner Ausbildung Patienten aller Altersgruppen in den Rems-Murr-Kl[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Au cours de votre formation infirmière de trois ans, vous serez préparé(e) à intégrer l'équipe soignante. Aux côtés d'infirmiers et infirmières qualifiés, vous assurerez la prise en charge et le traitement des patients de tous âges dans les hôpitaux du district de Rems-Murr tout au long de votre formation.",
+    "description": "Au cours de cette formation infirmière de trois ans, vous serez préparé(e) à intégrer l'équipe soignante. Aux côtés d'infirmiers et infirmières qualifiés, vous assurerez la prise en charge et le traitement des patients de tous âges dans les hôpitaux du district de Rems-Murr tout au long de votre formation.",
     "title": "formation en soins infirmiers"
   },
   {
@@ -1050,7 +1050,7 @@
     "Description_de": "Info: Bei ausländischem Schulabschluss ist die Anerkennung der\nGleichwertigkeit des Schulabschlusses sowie der Nachweis der deutschen\nSprachkenntnisse auf B2-Niveau erforderlich",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
-    "description": "Remarque : Pour les diplômes étrangers, la reconnaissance de l'équivalence du diplôme et la preuve de compétences linguistiques en allemand de niveau B2 sont requises.",
+    "description": "Remarque : Pour les diplômes étrangers, la reconnaissance de l'équivalence du diplôme et une preuve de compétences linguistiques en allemand de niveau B2 sont requises.",
     "title": "Formation d'assistant de soins aux personnes âgées"
   },
   {
@@ -1084,7 +1084,7 @@
     "Description_de": "Dann bist Du in der Pflege mehr als richtig!&nbsp;In der einjährigen Altenpflegeausbildung erlernst Du die Fähigkeiten und Kenntnisse, die für eine qualifizierte Mitwirkung und  Mithilfe bei der Betreuung, Versorgung und Pflege älterer Menschen wicht[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
-    "description": "Alors vous êtes plus que prête pour une carrière d'infirmière ! Le programme de formation d'un an en soins gériatriques vous permettra d'acquérir les compétences et les connaissances essentielles pour participer activement et avec professionnalisme aux soins, au soutien et aux soins infirmiers des personnes âgées [...]",
+    "description": "Alors vous êtes plus que prête pour une carrière d'infirmière ! Le programme de formation d'un an en soins infirmiers gériatriques vous permettra d'acquérir les compétences et les connaissances essentielles pour participer activement et avec professionnalisme aux soins, au soutien et aux soins infirmiers des personnes âgées [...]",
     "title": "Formation d'assistant de soins aux personnes âgées"
   },
   {
@@ -1118,7 +1118,7 @@
     "Description_de": "In der einjährigen Gesundheits- und Krankenpflegehilfeausbildung wirst Du darauf vorbereitet, Teil des Pflegeteams zu sein. Hierbei assistierst Du den Pflegefachpersonen, pflegerische Aufgaben bei der Versorgung von Menschen in allen Lebensphasen und[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "aide-soignant(e)",
-    "description": "Le programme de formation d'un an pour devenir aide-soignant(e) vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans leurs tâches auprès des personnes de tous âges et de tous âges.",
+    "description": "Le programme de formation d'un an pour devenir aide-soignant(e) vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans leurs tâches auprès des personnes de tous âges et [...]",
     "title": "Formation d'aide-soignant(e)"
   },
   {
@@ -1186,7 +1186,7 @@
     "Description_de": "In der Pflege hast du die Chance, jeden Tag einen echten Unterschied im Leben von Menschen zu machen. Arbeitszeit ist auch Lebenszeit: Als Pflegehelfer:in (w/m/d) bereicherst du den Alltag deiner Mitmenschen und sorgst dafür, dass ihre Welt ein klein[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
-    "description": "En tant qu'aide-soignant(e), vous avez l'opportunité d'améliorer concrètement la vie des gens au quotidien. Le temps de travail est aussi un temps précieux pour la vie : en tant qu'aide-soignant(e), vous enrichissez le quotidien de ceux qui vous entourent et contribuez à rendre leur monde un peu plus agréable.",
+    "description": "En tant qu'aide-soignant(e), vous avez l'opportunité d'améliorer concrètement la vie des gens au quotidien. Le temps passé au travail est aussi un temps précieux pour la vie : en tant qu'aide-soignant(e), vous enrichissez le quotidien de ceux qui vous entourent et contribuez à rendre leur monde un peu plus agréable.",
     "title": "Formation d'aide-soignant (H/F/D)"
   },
   {
@@ -1594,7 +1594,7 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Kaufmann/-frau im Einzelhandel",
     "Training": "vendeur au détail",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de fournir à tous, partout et à tout moment, [...]",
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de proposer à tous, partout et à tout moment, [...]",
     "title": "Formation de vendeur ou de commerçant de détail"
   },
   {
@@ -1611,7 +1611,7 @@
     "Description_de": "Die Unternehmensgruppe ALDI Nord ist einer der führenden Lebensmitteleinzelhändler. Mit einer Tradition von über 110 Jahren steht ALDI für die Erfindung des Discount-Prinzips. Unsere Mission ist es, Menschen überall und jederzeit mit dem zu versorgen[ ... ]",
     "Training_de": "Handelsfachwirt/in",
     "Training": "Spécialiste certifié du commerce de détail",
-    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de fournir à tous, partout et à tout moment, [...]",
+    "description": "Le groupe ALDI Nord est l'un des leaders de la distribution alimentaire. Fort d'une tradition de plus de 110 ans, ALDI est à l'origine du principe du discount. Notre mission est de proposer à tous, partout et à tout moment, [...]",
     "title": "Programme Abiturient pour spécialistes commerciaux certifiés"
   },
   {
@@ -2002,7 +2002,7 @@
     "Description_de": "Pflegefachpersonen sind für die bestmögliche Versorgung und Betreuung der Patient*innen im ambulanten und stationären Bereich verantwortlich. Sie werden zur Pflege von Menschen aller Altersstufen und in allen Versorgungsbereichen (z.B. Krankenhäuser,[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Les professionnels infirmiers sont responsables de fournir les meilleurs soins et le meilleur soutien possibles aux patients, tant en consultation externe qu'en hospitalisation. Ils sont formés pour prendre en charge des personnes de tous âges et dans tous les contextes de soins (par exemple, les hôpitaux, [...]).",
+    "description": "Les professionnels infirmiers sont responsables de fournir les meilleurs soins et le meilleur soutien possibles aux patients, qu'ils soient hospitalisés ou en consultation externe. Ils sont employés pour soigner des personnes de tous âges et dans tous les contextes de soins (par exemple, les hôpitaux, [...]).",
     "title": "Formation en soins infirmiers - début avril 2025"
   },
   {
@@ -2206,7 +2206,7 @@
     "Description_de": "In der dreijährigen Pflegeausbildung wirst Du darauf vorbereitet, Teil des Pflegeteams zu sein. Gemeinsam mit ausgebildeten Pflegenden unterstützt, betreust und versorgst du im Laufe deiner Ausbildung Patienten aller Altersgruppen in den Rems-Murr-Kl[ ... ]",
     "Training_de": "Pflegefachmann/-frau",
     "Training": "Infirmière autorisée",
-    "description": "Au cours de votre formation infirmière de trois ans, vous serez préparé(e) à intégrer l'équipe soignante. Aux côtés d'infirmiers et infirmières qualifiés, vous assurerez la prise en charge et le traitement des patients de tous âges dans les hôpitaux du district de Rems-Murr tout au long de votre formation.",
+    "description": "Au cours de cette formation infirmière de trois ans, vous serez préparé(e) à intégrer l'équipe soignante. Aux côtés d'infirmiers et infirmières qualifiés, vous assurerez la prise en charge et le traitement des patients de tous âges dans les hôpitaux du district de Rems-Murr tout au long de votre formation.",
     "title": "formation en soins infirmiers"
   },
   {
@@ -2274,7 +2274,7 @@
     "Description_de": "Info: Bei ausländischem Schulabschluss ist die Anerkennung der\nGleichwertigkeit des Schulabschlusses sowie der Nachweis der deutschen\nSprachkenntnisse auf B2-Niveau erforderlich",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
-    "description": "Remarque : Pour les diplômes étrangers, la reconnaissance de l'équivalence du diplôme et la preuve de compétences linguistiques en allemand de niveau B2 sont requises.",
+    "description": "Remarque : Pour les diplômes étrangers, la reconnaissance de l'équivalence du diplôme et une preuve de compétences linguistiques en allemand de niveau B2 sont requises.",
     "title": "Formation d'assistant de soins aux personnes âgées"
   },
   {
@@ -2308,7 +2308,7 @@
     "Description_de": "Dann bist Du in der Pflege mehr als richtig!&nbsp;In der einjährigen Altenpflegeausbildung erlernst Du die Fähigkeiten und Kenntnisse, die für eine qualifizierte Mitwirkung und  Mithilfe bei der Betreuung, Versorgung und Pflege älterer Menschen wicht[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
-    "description": "Alors vous êtes plus que prête pour une carrière d'infirmière ! Le programme de formation d'un an en soins gériatriques vous permettra d'acquérir les compétences et les connaissances essentielles pour participer activement et avec professionnalisme aux soins, au soutien et aux soins infirmiers des personnes âgées [...]",
+    "description": "Alors vous êtes plus que prête pour une carrière d'infirmière ! Le programme de formation d'un an en soins infirmiers gériatriques vous permettra d'acquérir les compétences et les connaissances essentielles pour participer activement et avec professionnalisme aux soins, au soutien et aux soins infirmiers des personnes âgées [...]",
     "title": "Formation d'assistant de soins aux personnes âgées"
   },
   {
@@ -2342,7 +2342,7 @@
     "Description_de": "In der einjährigen Gesundheits- und Krankenpflegehilfeausbildung wirst Du darauf vorbereitet, Teil des Pflegeteams zu sein. Hierbei assistierst Du den Pflegefachpersonen, pflegerische Aufgaben bei der Versorgung von Menschen in allen Lebensphasen und[ ... ]",
     "Training_de": "Gesundheits- und Krankenpflegehelfer/in",
     "Training": "aide-soignant(e)",
-    "description": "Le programme de formation d'un an pour devenir aide-soignant(e) vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans leurs tâches auprès des personnes de tous âges et de tous âges.",
+    "description": "Le programme de formation d'un an pour devenir aide-soignant(e) vous préparera à intégrer l'équipe soignante. Vous assisterez les infirmiers et infirmières dans leurs tâches auprès des personnes de tous âges et [...]",
     "title": "Formation d'aide-soignant(e)"
   },
   {
@@ -2410,7 +2410,7 @@
     "Description_de": "In der Pflege hast du die Chance, jeden Tag einen echten Unterschied im Leben von Menschen zu machen. Arbeitszeit ist auch Lebenszeit: Als Pflegehelfer:in (w/m/d) bereicherst du den Alltag deiner Mitmenschen und sorgst dafür, dass ihre Welt ein klein[ ... ]",
     "Training_de": "Altenpflegehelfer/in",
     "Training": "Aide à domicile pour personnes âgées",
-    "description": "En tant qu'aide-soignant(e), vous avez l'opportunité d'améliorer concrètement la vie des gens au quotidien. Le temps de travail est aussi un temps précieux pour la vie : en tant qu'aide-soignant(e), vous enrichissez le quotidien de ceux qui vous entourent et contribuez à rendre leur monde un peu plus agréable.",
+    "description": "En tant qu'aide-soignant(e), vous avez l'opportunité d'améliorer concrètement la vie des gens au quotidien. Le temps passé au travail est aussi un temps précieux pour la vie : en tant qu'aide-soignant(e), vous enrichissez le quotidien de ceux qui vous entourent et contribuez à rendre leur monde un peu plus agréable.",
     "title": "Formation d'aide-soignant (H/F/D)"
   },
   {
